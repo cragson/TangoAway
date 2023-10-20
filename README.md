@@ -70,18 +70,7 @@ Thank you for **everything**!
     as well as unsigned values with the VDRs to represent. As data types can between byte,
     word, dword, qword and float. Thus both integers and floating point
     floating point numbers are supported by the VDRs.
-    $$\begin{array}{l|c}
-      \hline
-      Datatype & Size \space in \space bytes \\
-      \hline
-      byte & 1 \\
-      word & 2 \\
-      dword & 4 \\
-      qword & 8 \\
-      float & 4 \\
-      \hline
-      \hline
-    \end{array}$$
+    ![vdr](./res/vdr.png)
   - ### **Virtual Flag Register (VFR)**
     The VFR is a status register, which can realize different statuses by means of bits. It is used by the interpreter as well as the environments. It has the special feature that this cannot be manipulated or read by the developer.
     Only the "cmp" instruction can change this register. 
@@ -89,16 +78,7 @@ Thank you for **everything**!
     It distinguishes between equal, less and greater. 
     With these three indicators, the program can
     for example correctly convert conditional jumps. The VFR itself is a four byte numerical value, which works with bit flags.
-    $$\begin{array}{l|c}
-      \hline
-      VFR \space Flag & Position \space of \space the \space bit \\
-      \hline
-      VFR\_EQUAL\_FLAG & 0 \\
-      VFR\_LESS\_FLAG & 1 \\
-      VFR\_GREATER\_FLAG & 2 \\
-      \hline
-      \hline
-    \end{array}$$
+   ![vfr](./res/vfr.png)
   - ### **Program Counter (PC)**
     The PC is the program counter. 
     It contains the address of the currently executed instruction. 
@@ -108,51 +88,7 @@ Thank you for **everything**!
     However it is not possible to read the PC itself. 
     The PC is stored in an unsigned integer variable, this means that it can never become smaller than zero.
   - ### **Instruction set**
-    $$\begin{aligned}
-        \begin{array}{ccc}
-            \hline
-            \text{ Mnemonic } & \text{ Syntax } & \text{ Example } \\
-            \hline
-            rpcae & rpcae & rpcae \\
-            inc & inc \space destination & inc \space vdr0 \\
-            dec & dec \space destination & dec \space vdr0 \\
-            mov & mov \space datatype \space destination \space source & mov \space  word \space vdr0 \space 0x1337 \\
-            add & add \space datatype \space destination \space source & add \space word \space vdr0 \space 0x1337 \\
-            sub & sub \space datatype \space destination \space source & sub \space word \space vdr0 \space 0x1337 \\
-            mul & mul \space datatype \space destination \space source & mul \space word \space vdr0 \space 0x1337 \\
-            div & div \space datatype \space destination \space source & div \space word \space vdr0 \space 0x1337 \\
-            and & and \space datatype \space destination \space source & and \space word \space vdr0 \space 0x1337 \\
-            or & or \space datatype \space destination \space source & or \space word \space vdr0 \space 0x1337 \\
-            xor & xor \space datatype \space destination \space source & xor \space word \space vdr0 \space 0x1337 \\
-            cmp & cmp \space operand1 \space operand2 & cmp \space vdr0 \space 10 \\
-            if & if \space datatytpe \space op1 \space operator \space op2 \space prp-length & if \space byte \space 69 \space < \space vdr0 \space 5 \\
-            jmp & jmp \space relative & jmp \space 10 \\
-            je & je \space relative & je \space 10 \\
-            jne & jne \space relative & jne \space 10 \\
-            jg & jg \space relative & jg \space 10 \\
-            jge & jge \space relative & jge \space 10 \\
-            jl & jl \space relative & jl \space 10 \\
-            jle & jle \space relative & jle \space 10 \\
-            println & println \space typeN \space msgN & println \space hex32 \space vdr0 \\
-            sleep\_ms & sleep\_ms \space time & sleep\_ms \space 3000 \\
-            read\_mem & read\_mem \space datatype \space address \space result & read\_mem \space float \space 0x10 \space vdr0 \\
-            write\_mem & read\_mem \space datatype \space address \space value & write\_mem \space float \space vdr0 \space 13.37 \\
-            get\_image\_base & get\_image\_base \space image\_name \space result & get\_image\_base \space dummy.exe \space vdr0 \\ 
-            get\_image\_size & get\_image\_size \space image\_size \space result & get\_image\_size \space dummy.exe \space vdr0 \\
-            find\_signature & find\_signature \space result \space image\_name \space sig & find\_signature \space vdr0 \space a.exe \space 90 \space C3 \\
-            patch\_bytes & patch\_bytes \space address \space bytes & patch\_bytes \space 0x10 \space 90 90 \\
-            dump & dump \space address \space size \space output\_name & dump \space 0x10 \space 128 \space dump.dmp \\
-            suspend\_process & suspend\_process & suspend\_process \\
-            resume\_process & resume\_process & resume\_process \\
-            terminate\_process & terminate\_process \space pid & terminate\_process \space 1234 \\
-            inject\_dll & inject\_dll \space dll\_path \space injection\_method & inject\_dll \space test.dll \space loadlibrary \\
-            show\_threads\_info & show\_threads\_info & show\_threads\_info \\
-            show\_images\_info & show\_images\_info & show\_images\_info \\
-            \hline
-            \hline
-        \end{array}
-        
-    \end{aligned}$$
+    ![Instruction set](./res/ta-instruction-set.png)
   - ### **File format**
     The file format of the code files ends with the '.ta' extension.
     The file format of the preprocessor is identical to the format of a source code of
@@ -171,7 +107,7 @@ Thank you for **everything**!
     This is done by using preprocessor directives, i.e. commands for the preprocessor.
     The existing directives of the preprocessor, are described in **[Preprocessor directives](#directives)**.
 
-    ![Preprocessor flow chart](/res/prp-flow-chart.png)
+    ![Preprocessor flow chart](./res/prp-flow-chart.png)
 
     The functional flow of the preprocessor is as follows.
     First, the preprocessor is called with a file path to the source file.
@@ -242,17 +178,10 @@ Thank you for **everything**!
     - #### **Directives**
     In the following table all directly existing preprocessor directives are listed.
     Not listed are the preprocessor enrichments, such as in jump length calculation or if- and else-instructions.
-    $$\begin{array}{l|l}
-          \hline
-          Preprocessor-Directive & Syntax \\
-          \hline
-          define & define \space<original>, \space<alias> \\
-          macro  & macro \space<name> \space<parameter:optional> \space end\\
-          import & import \space<filename> \\
-          \# \space(Oneline \space comment) & \# \space<line \space of \space code> \\
-          \hline
-          \hline
-	    \end{array}$$
+
+
+    ![directives](./res/directives.png)
+
     The ``define`` directive allows the substitution of strings within the source code.
     These words do not have to be complete and can be used for various purposes.
     
@@ -305,7 +234,7 @@ Thank you for **everything**!
     It is also responsible for validating the syntax and semantics of the instructions read in.
     In addition, its implementation is crucial for the performance or practicality of TangoAway.
 
-    ![Parser flow chart](/res/prs-flow-chart.png)
+    ![Parser flow chart](./res/prs-flow-chart.png)
     
   
     Within the parser's approach, a distinction must be made between single-threaded and multi-threaded.
@@ -488,9 +417,9 @@ Thank you for **everything**!
       From the results, there is a clear practicality to the execution speed of TangoAway programs.
       
       
-      ![bench-big](/res/bench-runtime-298968.png)
-      ![bench-middle](/res/bench-runtime-10823.png)
-      ![bench-small](/res/bench-runtime-1003.png)
+      ![bench-big](./res/bench-runtime-298968.png)
+      ![bench-middle](./res/bench-runtime-10823.png)
+      ![bench-small](./res/bench-runtime-1003.png)
 
       In the case where 298,968 instructions pass through the preprocessor, parser, and interpreter, an average total execution time of about 5.6 seconds is obtained with single-threaded parser and about 4.8 seconds with a multi-threaded parser.
       The interpreter does not need a whole millisecond to execute 298,968 instructions.
@@ -520,7 +449,7 @@ Thank you for **everything**!
       Here, individual instructions have been tested multiple times to cover different edge cases.
       
       The output of the tester, after execution, could look like this (**make sure to start the dummy application before starting the tester!**):
-      ![Tester Output](/res/ta-tester-run.png)
+      ![Tester Output](./res/ta-tester-run.png)
   - ### **Application: RE-Tool**
     This chapter will focus on a concrete application example for TangoAway.
     The application to be developed will be called ``RE-Tool``, where ``RE`` stands for Reverse Engineering.
@@ -535,7 +464,7 @@ Thank you for **everything**!
     The user's arguments are extracted from his input and inserted into the template.
     Afterwards, the customized source code is passed to the interpreter, which passes it first to the preprocessor and then to the parser.
 
-    ![RE-Tool](/res/re-tool.png)
+    ![RE-Tool](./res/re-tool.png)
 
     An example of a template is shown in the following listing:
     ```
@@ -572,37 +501,7 @@ Thank you for **everything**!
 
   - #### **Command's**
     Here all the available commands for the RE-Tool:
-      $$\begin{array}{l|l}
-        \hline
-        Command & Syntax \\
-        \hline
-        attach & attach <process\_name> \\
-        bpatch & bpatch <address> <bytes> \\
-        change\_env & change\_env <name> \\
-        dump\_image & dump\_image <image\_name> <dump\_name> \\
-        dump\_mem & dump\_mem <address> <size> <dump\_name> \\
-        dump\_vdr & dump\_vdr \\
-        dump\_vfr & dump\_vfr \\
-        find\_sig & find\_sig <signature> \\
-        fnv & fnv <address> <size> \\
-        get\_image\_info & get\_image\_info <image\_name> \\
-        hexdump & hexdump <address> <size> \\
-        help & help \\
-        inject & inject <dll\_path> <injection\_method> \\
-        kill & kill \\
-        nop\_fn & nop\_fn <function\_address> \\
-        read & read <address> \\
-        reset & reset \\
-        resume & resume \\
-        set\_bp & set\_bp <address> \\
-        show\_images & show\_images \\
-        show\_threads & show\_threads \\
-        suspend & suspend \\
-        run & run <path\_to\_file> \\
-        quit & quit \\
-        \hline
-        \hline
-    \end{array}$$
+     ![cmds](./res/re-tool-cmds.png)
 
   There are 24 different commands already available by default.
 With the command ``attach``, the user defines his target process.
