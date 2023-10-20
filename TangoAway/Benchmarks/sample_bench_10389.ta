@@ -1,0 +1,10389 @@
+inc vdr11
+add qword vdr13 46
+cmp vdr13 vdr2
+mov qword vdr3 65
+mul qword vdr5 11
+inc vdr3
+sub qword vdr11 65
+xor qword vdr10 23
+or byte vdr13 64
+macro word47370132075
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define dec, word26882974090
+mov byte vdr6 52
+inc vdr10
+sub byte vdr0 49
+cmp vdr1 vdr3
+mul dword vdr0 63
+define macro, dword54414676373
+mov qword vdr13 61
+macro dword52142127137
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr13
+div word vdr6 20
+define xor, float64092595257
+sub qword vdr14 8
+mul word vdr12 24
+add qword vdr12 6
+mov word vdr1 33
+mul dword vdr0 41
+sub dword vdr3 27
+mul byte vdr6 13
+inc vdr13
+mov qword vdr4 58
+dec vdr4
+sub word vdr12 55
+div qword vdr14 30
+mul dword vdr1 24
+mov qword vdr12 60
+macro float10462584967
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr9 18
+cmp vdr9 vdr2
+mov qword vdr5 45
+inc vdr5
+macro qword57114688581
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr7 vdr9
+or dword vdr5 29
+mul dword vdr15 10
+mov word vdr8 60
+inc vdr6
+add qword vdr13 51
+xor qword vdr14 30
+dec vdr14
+and dword vdr14 50
+div byte vdr2 36
+mul word vdr0 12
+add byte vdr14 5
+cmp 6960 2606
+div byte vdr2 43
+mul qword vdr2 8
+and word vdr5 60
+add qword vdr0 55
+xor qword vdr13 39
+xor byte vdr7 17
+dec vdr6
+add word vdr0 58
+sub dword vdr3 53
+or byte vdr4 49
+sub dword vdr3 54
+macro dword12112573288
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr6 48
+add qword vdr13 18
+mov qword vdr14 62
+inc vdr2
+mov word vdr4 65
+xor word vdr6 37
+or word vdr3 44
+add word vdr10 49
+dec vdr3
+sub word vdr10 31
+dec vdr13
+div dword vdr2 69
+add byte vdr5 50
+macro word57170526639
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr15 vdr4
+inc vdr8
+add dword vdr3 13
+or qword vdr1 62
+div byte vdr14 49
+and qword vdr4 48
+or dword vdr11 32
+macro byte44326446086
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr4 27
+cmp 5911 4442
+mov word vdr12 23
+sub byte vdr8 16
+mul dword vdr12 6
+add dword vdr3 53
+div byte vdr10 52
+mul qword vdr2 13
+mul word vdr6 55
+and byte vdr11 26
+xor byte vdr9 23
+and dword vdr2 1
+mov byte vdr0 58
+or qword vdr14 63
+xor qword vdr10 10
+div dword vdr5 20
+sub qword vdr13 7
+mul word vdr7 27
+macro qword49735428880
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro byte59642230849
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr13 30
+inc vdr12
+xor dword vdr15 4
+xor word vdr10 34
+or dword vdr10 51
+sub dword vdr2 49
+dec vdr5
+xor word vdr4 28
+sub qword vdr8 17
+macro dword50834816881
+	# hehehehehehehehe
+end
+or qword vdr1 65
+cmp vdr0 vdr4
+sub word vdr8 53
+inc vdr1
+and qword vdr3 43
+or word vdr10 32
+add byte vdr12 7
+define sub, float21926337952
+inc vdr12
+or qword vdr2 38
+define add, float24525170780
+cmp vdr1 vdr4
+or word vdr14 39
+div qword vdr0 34
+add word vdr10 27
+mov qword vdr0 41
+macro byte71335799415
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor qword vdr15 38
+and dword vdr5 58
+div byte vdr8 5
+sub dword vdr15 23
+define add, dword91918086029
+xor word vdr14 58
+mov qword vdr12 40
+xor dword vdr6 9
+and byte vdr2 2
+dec vdr10
+sub qword vdr8 61
+macro byte3667169103
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr12 vdr8
+cmp vdr1 vdr13
+mov word vdr10 4
+div word vdr4 67
+define dec, float30144568341
+mul qword vdr8 11
+div word vdr14 21
+add word vdr5 18
+mov dword vdr14 5
+inc vdr9
+define or, qword66744392653
+inc vdr2
+and dword vdr1 60
+div word vdr10 4
+define define, qword90936686122
+sub dword vdr8 67
+xor qword vdr9 60
+define inc, qword77840115956
+and word vdr1 42
+and word vdr1 43
+mov word vdr12 48
+sub byte vdr0 36
+mov dword vdr11 37
+and dword vdr4 66
+dec vdr5
+xor dword vdr15 64
+div byte vdr7 8
+or dword vdr7 34
+or byte vdr8 34
+cmp 1862 4218
+dec vdr12
+xor dword vdr8 35
+sub byte vdr8 15
+inc vdr8
+dec vdr15
+dec vdr8
+or word vdr11 33
+cmp 9976 6334
+and word vdr8 20
+define or, qword4711481571
+dec vdr7
+and qword vdr0 49
+sub qword vdr0 2
+and qword vdr7 64
+add dword vdr14 29
+define or, float86518017005
+cmp 2054 9770
+and qword vdr2 23
+define mov, byte10111812643
+cmp 568 4681
+macro dword34532761933
+	# hehehehehehehehe
+end
+macro byte92182710288
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr6 27
+macro byte80688097737
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define define, qword57671829487
+macro float11547635924
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr12
+define inc, float57758385775
+cmp vdr4 vdr4
+sub word vdr14 14
+define cmp, byte5211413936
+inc vdr7
+add qword vdr7 42
+mul dword vdr8 65
+xor word vdr1 64
+mul qword vdr9 52
+define div, float73261253571
+sub qword vdr10 54
+and qword vdr2 69
+or byte vdr1 32
+add byte vdr8 66
+inc vdr14
+xor dword vdr12 69
+macro dword58465564832
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr15 1
+sub dword vdr13 47
+macro word73196102163
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro float96630563471
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 4517 3226
+or qword vdr15 5
+mul dword vdr10 62
+macro float5318879813
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 8858 4210
+macro qword27347471559
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr5 15
+dec vdr0
+inc vdr2
+sub word vdr9 39
+cmp 5009 7718
+xor qword vdr5 41
+mov dword vdr4 2
+cmp 2673 2675
+sub word vdr10 27
+xor dword vdr6 25
+sub dword vdr1 50
+mul qword vdr15 43
+cmp vdr14 vdr12
+and word vdr11 66
+add dword vdr15 63
+mul word vdr0 66
+sub byte vdr5 25
+sub qword vdr8 40
+inc vdr8
+add byte vdr4 7
+mul byte vdr6 32
+mov word vdr10 10
+define cmp, byte1188680642
+div dword vdr13 69
+mul byte vdr9 31
+sub word vdr2 46
+xor byte vdr3 47
+mul byte vdr10 46
+cmp 847 4376
+mov word vdr9 18
+add dword vdr2 42
+xor dword vdr5 19
+and byte vdr15 38
+mul word vdr4 24
+cmp 3851 2527
+cmp 5422 5329
+mov byte vdr14 41
+inc vdr2
+xor qword vdr13 49
+cmp vdr0 vdr2
+macro dword41352403761
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr9 34
+mul qword vdr5 43
+macro word21638689770
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr15 vdr15
+inc vdr1
+macro dword89766862942
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and qword vdr11 9
+cmp vdr3 vdr14
+xor qword vdr10 12
+add qword vdr11 30
+mov byte vdr5 12
+inc vdr0
+add byte vdr6 30
+add word vdr10 68
+add dword vdr15 18
+and byte vdr3 21
+mul byte vdr13 14
+or word vdr12 20
+define xor, dword72700070942
+xor byte vdr10 61
+div byte vdr11 59
+macro dword70023055674
+	# hehehehehehehehe
+end
+mul word vdr0 9
+div byte vdr11 41
+macro byte60139653179
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr12
+xor dword vdr3 21
+sub qword vdr6 57
+inc vdr8
+inc vdr6
+dec vdr11
+sub word vdr2 7
+macro dword29395682060
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr1 33
+define mul, float78590938642
+macro dword59938596081
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 9738 3480
+mov dword vdr2 20
+div word vdr5 65
+dec vdr12
+and dword vdr7 22
+mov dword vdr11 21
+mul qword vdr14 55
+sub dword vdr0 25
+define inc, float84797231614
+xor qword vdr2 40
+or byte vdr10 10
+macro qword80089600649
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr11 29
+and word vdr13 39
+macro qword41468587362
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr2 55
+div byte vdr0 31
+define div, float52984088517
+define cmp, qword20764322092
+cmp vdr3 vdr2
+add qword vdr3 26
+inc vdr12
+sub byte vdr13 20
+div dword vdr14 7
+mov qword vdr14 13
+or qword vdr3 12
+div dword vdr11 25
+dec vdr7
+cmp 2065 9646
+or qword vdr7 21
+add byte vdr0 49
+sub dword vdr1 44
+and qword vdr0 36
+add byte vdr8 35
+div qword vdr7 32
+and word vdr1 6
+mul dword vdr4 34
+macro dword23694846861
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr1 40
+inc vdr6
+add byte vdr10 2
+xor qword vdr7 68
+inc vdr14
+sub qword vdr11 65
+mul dword vdr10 21
+and qword vdr11 11
+and qword vdr7 4
+or dword vdr8 57
+inc vdr11
+div qword vdr10 64
+sub byte vdr14 63
+div word vdr9 43
+mov qword vdr10 23
+sub byte vdr13 27
+mul qword vdr9 28
+macro qword13433078656
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro byte2852075617
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add word vdr11 55
+sub byte vdr15 23
+dec vdr11
+cmp vdr2 vdr6
+or dword vdr14 42
+or dword vdr11 55
+cmp 6957 2233
+dec vdr7
+dec vdr13
+or qword vdr5 21
+xor qword vdr7 15
+dec vdr0
+add word vdr0 68
+dec vdr5
+define add, qword76888634112
+mul dword vdr11 12
+and word vdr12 24
+cmp 5467 714
+sub word vdr10 16
+and byte vdr4 44
+inc vdr3
+macro float76331232201
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr8
+define cmp, dword16106369152
+sub word vdr4 22
+xor word vdr1 58
+sub dword vdr5 66
+add qword vdr1 24
+define inc, qword85005727072
+dec vdr3
+inc vdr10
+sub word vdr4 66
+macro dword56320245143
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 9386 7128
+mul qword vdr8 15
+mov dword vdr11 19
+mov byte vdr1 47
+define cmp, dword53843653333
+add word vdr9 25
+mov dword vdr3 65
+mul dword vdr11 9
+macro byte55896579693
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr7 12
+inc vdr8
+inc vdr11
+xor qword vdr9 55
+xor byte vdr5 7
+add byte vdr9 11
+or dword vdr15 40
+and qword vdr11 7
+define or, float5258480513
+sub dword vdr11 49
+cmp vdr13 vdr12
+dec vdr9
+macro qword28232068361
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro byte93444290607
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr0 vdr9
+inc vdr2
+mov byte vdr0 36
+and word vdr11 20
+xor byte vdr8 3
+add word vdr12 9
+or byte vdr1 51
+dec vdr6
+add byte vdr12 31
+dec vdr9
+sub word vdr2 6
+div dword vdr4 24
+sub dword vdr14 10
+add dword vdr1 33
+inc vdr1
+cmp 2141 9800
+cmp 9320 5730
+xor qword vdr14 51
+mov byte vdr2 22
+mov byte vdr11 65
+div qword vdr2 20
+xor word vdr4 68
+and dword vdr1 61
+div qword vdr15 11
+mov byte vdr15 35
+mul word vdr14 63
+xor word vdr0 38
+and byte vdr1 16
+mul word vdr2 18
+define or, qword8500063361
+xor qword vdr11 3
+define sub, dword79606626431
+mul byte vdr6 60
+macro word41508710300
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr1 14
+macro float48993715582
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro word8771555514
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr3
+or word vdr6 18
+mul qword vdr5 69
+sub qword vdr6 26
+xor qword vdr3 65
+inc vdr7
+add word vdr15 26
+mov dword vdr1 31
+mul qword vdr4 34
+cmp vdr8 vdr5
+mul byte vdr4 30
+mov word vdr4 9
+div byte vdr3 5
+define macro, float38070876410
+add word vdr7 52
+define inc, word12026690910
+inc vdr5
+xor word vdr1 42
+div byte vdr7 41
+inc vdr0
+define mov, dword22039769708
+inc vdr7
+mul qword vdr4 24
+dec vdr2
+add word vdr12 1
+macro byte46668384130
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and qword vdr5 32
+mul word vdr0 52
+add qword vdr3 12
+add dword vdr1 37
+dec vdr9
+inc vdr10
+sub dword vdr13 3
+inc vdr14
+inc vdr1
+xor qword vdr5 61
+sub dword vdr7 8
+dec vdr9
+sub qword vdr8 2
+xor word vdr12 47
+cmp vdr5 vdr9
+cmp vdr13 vdr15
+sub byte vdr14 34
+mov dword vdr13 31
+cmp vdr11 vdr4
+xor byte vdr5 38
+or byte vdr13 14
+dec vdr6
+inc vdr12
+inc vdr9
+xor dword vdr13 69
+mov qword vdr5 36
+xor byte vdr4 58
+sub qword vdr6 65
+dec vdr4
+dec vdr3
+div word vdr12 35
+and byte vdr15 21
+inc vdr6
+or byte vdr7 63
+cmp 3537 4797
+xor byte vdr2 28
+mov byte vdr3 33
+macro byte95070222650
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr5 vdr5
+dec vdr11
+div word vdr9 23
+add word vdr15 17
+or word vdr13 37
+macro float75045018109
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub qword vdr13 21
+div qword vdr1 34
+cmp vdr14 vdr2
+define cmp, word62583962034
+and word vdr3 55
+add byte vdr11 8
+mul word vdr7 6
+sub dword vdr15 31
+inc vdr12
+or qword vdr4 40
+add qword vdr7 11
+div dword vdr2 9
+define define, dword55792526428
+dec vdr12
+and word vdr13 29
+or dword vdr12 50
+inc vdr1
+mul byte vdr14 19
+xor byte vdr14 11
+mul dword vdr10 63
+mov word vdr5 64
+macro float30283848134
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define dec, byte2864196619
+inc vdr1
+div dword vdr4 21
+sub dword vdr1 21
+define cmp, dword46462218090
+define sub, dword53429679427
+sub qword vdr15 60
+mul dword vdr13 24
+macro word17824119448
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr15
+and word vdr0 34
+or qword vdr8 4
+cmp vdr3 vdr2
+macro byte80832656259
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr6 42
+inc vdr10
+define xor, byte68250801240
+define add, byte27347617428
+mul qword vdr9 66
+sub qword vdr10 46
+and qword vdr12 46
+or word vdr6 65
+sub word vdr10 24
+and dword vdr8 22
+cmp 5882 4320
+add byte vdr12 4
+dec vdr10
+or byte vdr2 28
+and word vdr13 54
+xor dword vdr8 19
+mul byte vdr4 52
+dec vdr3
+dec vdr14
+div dword vdr1 6
+and qword vdr10 14
+inc vdr6
+div word vdr0 17
+sub qword vdr15 34
+and qword vdr1 63
+div qword vdr5 52
+mul dword vdr15 31
+define macro, byte53116812222
+div byte vdr9 25
+xor dword vdr14 24
+inc vdr3
+add qword vdr6 29
+div byte vdr6 33
+dec vdr0
+mul qword vdr8 25
+mul qword vdr12 27
+inc vdr11
+mov qword vdr0 38
+mul qword vdr4 37
+mul byte vdr4 53
+cmp vdr0 vdr5
+and qword vdr1 50
+or byte vdr15 52
+define and, byte88876846386
+xor qword vdr15 49
+or byte vdr4 42
+xor qword vdr9 17
+xor qword vdr3 31
+macro word72647089485
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define dec, byte71291731505
+macro qword97371294292
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add word vdr7 33
+add byte vdr15 30
+div word vdr2 63
+or byte vdr7 4
+macro byte90758142800
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr12
+mul dword vdr9 54
+mov dword vdr14 11
+and qword vdr12 25
+add word vdr14 54
+or qword vdr0 59
+xor byte vdr10 7
+add word vdr5 3
+xor word vdr12 50
+macro dword66587778792
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr8
+inc vdr4
+div dword vdr8 46
+and qword vdr6 35
+cmp vdr5 vdr5
+or byte vdr9 38
+xor qword vdr6 30
+sub byte vdr2 59
+xor dword vdr13 35
+cmp 396 6268
+inc vdr0
+xor byte vdr3 46
+and word vdr10 50
+dec vdr8
+cmp 4742 5308
+div qword vdr7 12
+cmp 9578 1117
+or qword vdr0 14
+add word vdr7 9
+dec vdr10
+mov qword vdr3 22
+inc vdr10
+mul word vdr7 63
+sub dword vdr15 37
+div byte vdr6 61
+sub word vdr0 51
+and word vdr4 38
+define div, qword70328533898
+dec vdr12
+and word vdr0 49
+define dec, float3612313251
+mul qword vdr13 6
+div dword vdr13 42
+dec vdr7
+mul word vdr15 1
+define mul, word20558101898
+inc vdr14
+inc vdr14
+cmp 8697 4553
+macro word99318470639
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr6 57
+inc vdr5
+and qword vdr8 58
+or byte vdr15 9
+xor word vdr5 68
+define sub, qword4715663339
+sub dword vdr7 1
+or dword vdr8 27
+cmp vdr2 vdr10
+xor qword vdr3 7
+macro float63336023352
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor qword vdr9 7
+mul qword vdr8 8
+sub byte vdr5 47
+inc vdr11
+and word vdr14 53
+and dword vdr8 58
+macro word52308802531
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr12 43
+mov dword vdr1 58
+sub dword vdr11 52
+and byte vdr15 22
+add qword vdr12 36
+or word vdr2 25
+and qword vdr3 28
+define and, byte10026701181
+mul word vdr15 45
+and dword vdr3 23
+cmp 9704 2393
+macro qword97117350860
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr4
+cmp vdr15 vdr10
+sub word vdr11 23
+mul byte vdr13 20
+mov byte vdr15 28
+add qword vdr6 11
+define inc, float75829749729
+div qword vdr7 42
+div qword vdr11 52
+dec vdr5
+mul word vdr5 69
+div byte vdr9 49
+dec vdr14
+add word vdr0 58
+div word vdr12 37
+or word vdr10 8
+mov qword vdr10 22
+and word vdr10 18
+mov byte vdr3 27
+sub byte vdr2 3
+macro float52551983437
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr15 63
+inc vdr2
+xor word vdr9 17
+cmp 1904 5081
+inc vdr12
+dec vdr13
+macro dword28435251176
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr1 16
+define cmp, dword27295145615
+add byte vdr2 10
+mov word vdr6 17
+mul dword vdr12 38
+dec vdr13
+and dword vdr10 67
+macro word38004171996
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr5 50
+div byte vdr2 32
+or word vdr2 16
+xor qword vdr14 32
+dec vdr4
+inc vdr14
+mov qword vdr10 27
+sub word vdr13 6
+add word vdr10 14
+or byte vdr7 41
+or word vdr4 57
+dec vdr14
+mul byte vdr9 7
+add byte vdr13 27
+add byte vdr0 60
+define div, byte3902829044
+div dword vdr5 47
+sub qword vdr11 17
+or dword vdr4 52
+cmp 8349 3936
+div qword vdr9 63
+dec vdr8
+xor qword vdr1 59
+div qword vdr3 32
+macro byte36898244379
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr13 34
+div byte vdr8 40
+sub dword vdr6 11
+and dword vdr6 53
+sub word vdr15 58
+div word vdr4 1
+mul qword vdr7 2
+macro dword75911106303
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor dword vdr5 21
+dec vdr11
+or byte vdr3 58
+xor word vdr9 42
+add byte vdr11 31
+add qword vdr9 30
+mov dword vdr4 42
+mul word vdr0 19
+sub word vdr14 5
+mov word vdr7 38
+define mul, qword80378140881
+macro float89725515051
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub dword vdr4 15
+div qword vdr13 21
+sub dword vdr3 34
+inc vdr13
+cmp vdr8 vdr0
+sub dword vdr1 22
+inc vdr13
+add dword vdr0 23
+sub dword vdr11 40
+xor word vdr3 17
+mul dword vdr2 66
+add word vdr10 68
+sub byte vdr0 11
+xor qword vdr5 66
+dec vdr4
+mul word vdr6 55
+macro dword31054897769
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr11 1
+and qword vdr14 23
+dec vdr1
+add qword vdr8 26
+mov dword vdr0 7
+macro float37965616217
+	# hehehehehehehehe
+end
+define xor, byte174132958
+add qword vdr15 17
+define or, qword6805745081
+or word vdr7 24
+define define, float5596440411
+div dword vdr15 66
+xor byte vdr0 6
+or dword vdr14 67
+or word vdr0 45
+div word vdr11 25
+sub byte vdr1 44
+macro word49187163129
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro word86362795902
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr10 37
+define sub, qword75401137126
+inc vdr8
+add dword vdr15 60
+add word vdr1 30
+cmp 2380 2733
+dec vdr2
+macro byte39765226415
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr15 26
+mul qword vdr12 26
+sub word vdr2 69
+define mov, qword21973002306
+div dword vdr2 6
+and word vdr7 65
+inc vdr9
+dec vdr0
+cmp vdr10 vdr6
+xor qword vdr9 69
+add qword vdr2 66
+mul dword vdr10 54
+xor word vdr2 40
+macro qword75500721346
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr11 53
+mov dword vdr8 68
+mov byte vdr7 2
+mul word vdr0 33
+xor qword vdr3 53
+or dword vdr5 24
+macro word30736472079
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr11
+div byte vdr15 17
+mov qword vdr13 10
+xor qword vdr6 56
+div qword vdr1 23
+define mov, word271223139
+mul dword vdr2 13
+inc vdr11
+div qword vdr9 29
+inc vdr13
+macro byte99004967971
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr13 9
+cmp vdr8 vdr10
+mov word vdr6 63
+div word vdr11 33
+macro word99225323997
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 3503 1001
+mov dword vdr0 50
+mov dword vdr15 47
+div qword vdr3 46
+div qword vdr15 18
+mov qword vdr1 2
+xor byte vdr3 42
+mov word vdr2 7
+dec vdr14
+div qword vdr15 26
+add qword vdr12 16
+and word vdr5 16
+macro dword29988010523
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro qword56878600938
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr8 49
+sub word vdr11 63
+dec vdr11
+xor qword vdr6 41
+mul qword vdr1 58
+macro float78827866171
+	# hehehehehehehehe
+end
+add dword vdr6 14
+inc vdr15
+sub byte vdr0 54
+div byte vdr1 23
+define mul, float32471313930
+macro dword5650772687
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add byte vdr2 53
+xor word vdr5 15
+xor dword vdr11 10
+or dword vdr5 40
+define sub, byte83262450730
+or word vdr13 68
+macro byte31152197143
+	# hehehehehehehehe
+end
+div dword vdr0 9
+define macro, float57976190537
+xor qword vdr8 67
+and byte vdr6 42
+dec vdr9
+and byte vdr6 31
+sub dword vdr4 67
+xor qword vdr4 7
+define or, byte36289488255
+define div, word83451879690
+sub qword vdr12 33
+add byte vdr7 29
+cmp 4064 6024
+cmp 5379 2179
+sub byte vdr13 20
+div qword vdr6 6
+mov byte vdr15 8
+div qword vdr10 33
+or word vdr15 8
+xor qword vdr8 39
+div byte vdr4 14
+and qword vdr15 5
+xor dword vdr9 64
+mul dword vdr8 5
+or byte vdr13 15
+cmp vdr10 vdr14
+define inc, word17554502356
+cmp 2162 6471
+mul byte vdr10 66
+define mov, word850084011
+mul dword vdr1 3
+xor word vdr4 27
+cmp 1607 9938
+macro dword45010120808
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor dword vdr6 45
+define xor, qword71651912023
+and word vdr12 64
+and dword vdr8 38
+cmp vdr14 vdr3
+macro dword2465222455
+	# hehehehehehehehe
+end
+or qword vdr4 45
+mul byte vdr8 16
+dec vdr3
+define macro, qword25035640596
+inc vdr1
+xor byte vdr6 69
+dec vdr15
+cmp vdr8 vdr10
+dec vdr2
+mov word vdr0 22
+define xor, byte40337269515
+dec vdr10
+div word vdr14 13
+mul dword vdr7 45
+mul qword vdr0 1
+or byte vdr5 53
+dec vdr10
+cmp 1631 5598
+mul dword vdr11 1
+mov qword vdr1 44
+and word vdr6 48
+add word vdr12 32
+inc vdr7
+add dword vdr9 50
+mul qword vdr2 11
+mov qword vdr0 31
+xor dword vdr11 2
+define mul, float72671826953
+cmp vdr14 vdr0
+and qword vdr4 65
+and qword vdr9 8
+macro qword753745719
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr5
+cmp 9306 8591
+mov byte vdr8 29
+cmp 2557 6803
+mov dword vdr12 3
+cmp vdr12 vdr10
+cmp vdr12 vdr2
+mov dword vdr5 62
+div qword vdr3 22
+mov byte vdr14 8
+sub dword vdr2 20
+inc vdr5
+add dword vdr6 3
+mov dword vdr13 40
+mov word vdr8 34
+and qword vdr4 9
+div byte vdr0 23
+cmp 3529 8723
+add dword vdr1 10
+dec vdr7
+and word vdr4 31
+mov word vdr1 7
+dec vdr1
+mul word vdr4 58
+dec vdr3
+add qword vdr15 45
+dec vdr6
+define cmp, word87731013549
+and dword vdr13 31
+xor dword vdr5 34
+inc vdr0
+dec vdr13
+inc vdr0
+xor byte vdr10 29
+or byte vdr15 13
+mov qword vdr5 34
+cmp vdr14 vdr11
+and word vdr1 49
+mul qword vdr6 60
+dec vdr11
+dec vdr14
+mul qword vdr12 6
+or word vdr6 38
+define or, float26646330744
+mov byte vdr13 62
+cmp 51 102
+macro word63998767365
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul byte vdr11 5
+inc vdr3
+or dword vdr12 32
+macro float14289587121
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and byte vdr6 30
+dec vdr8
+dec vdr9
+or dword vdr8 64
+mul word vdr12 26
+and dword vdr9 19
+or qword vdr14 57
+mul word vdr3 23
+add word vdr7 29
+macro dword76340314835
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr12
+mul dword vdr14 37
+define sub, qword34549774302
+mov qword vdr5 2
+add byte vdr13 22
+mov byte vdr5 49
+and word vdr5 21
+cmp 3501 2239
+or byte vdr6 48
+macro qword45417190007
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr8 10
+add dword vdr11 35
+xor word vdr3 5
+xor dword vdr6 68
+inc vdr5
+macro word56381323912
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro dword21333162328
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define sub, qword76725944718
+sub byte vdr9 51
+and word vdr14 67
+add dword vdr4 26
+sub qword vdr12 11
+div byte vdr5 4
+mul qword vdr9 26
+add byte vdr14 48
+dec vdr3
+add qword vdr11 29
+mul word vdr6 15
+xor dword vdr11 38
+inc vdr13
+dec vdr14
+or dword vdr12 68
+sub dword vdr8 62
+div word vdr5 37
+add qword vdr2 50
+div word vdr11 69
+xor word vdr1 5
+mov dword vdr9 36
+mul dword vdr9 46
+xor word vdr12 56
+mul dword vdr2 33
+or word vdr11 52
+mul byte vdr10 59
+cmp vdr4 vdr10
+inc vdr7
+and qword vdr9 42
+cmp 3155 8632
+mul qword vdr11 36
+div word vdr7 67
+macro dword78499474978
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define define, dword30228169008
+mov qword vdr6 15
+mul byte vdr14 59
+sub byte vdr6 53
+sub word vdr7 62
+and word vdr3 25
+div qword vdr10 46
+and dword vdr11 56
+inc vdr12
+macro word12390413685
+	# hehehehehehehehe
+end
+add dword vdr5 45
+dec vdr11
+inc vdr11
+mov word vdr9 43
+xor qword vdr12 29
+add dword vdr11 10
+add byte vdr13 39
+dec vdr12
+inc vdr2
+mov word vdr6 37
+mov dword vdr11 61
+mul dword vdr4 39
+dec vdr1
+or dword vdr0 20
+cmp vdr11 vdr6
+or byte vdr5 40
+and dword vdr7 63
+mov word vdr15 53
+define mov, float43580859990
+add byte vdr1 27
+define mul, byte30572672499
+or byte vdr3 10
+mul byte vdr0 28
+define sub, word92245481824
+mov qword vdr13 10
+mov word vdr12 52
+add qword vdr14 67
+xor qword vdr8 15
+mul byte vdr11 49
+define cmp, byte83921285665
+sub qword vdr11 45
+xor qword vdr6 66
+mul word vdr7 15
+and word vdr10 58
+div byte vdr14 11
+xor dword vdr15 24
+define cmp, dword84121927688
+inc vdr13
+sub word vdr12 4
+mov word vdr13 37
+and qword vdr14 51
+cmp 9367 7152
+sub byte vdr13 22
+mov word vdr9 44
+macro word62738553029
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr0 8
+add byte vdr15 28
+define mov, float5717841254
+div word vdr3 16
+or qword vdr2 69
+define or, byte83395508201
+mul qword vdr5 56
+cmp 2626 1038
+macro qword12880818573
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add word vdr1 14
+or dword vdr15 15
+mul dword vdr15 58
+define and, float15834440210
+macro word83706328592
+	# hehehehehehehehe
+end
+div byte vdr10 8
+and dword vdr11 50
+define macro, qword41531413531
+cmp 2464 5005
+mov qword vdr7 43
+macro float63674905285
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr14 19
+macro float92681720090
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr15 41
+add qword vdr3 36
+div qword vdr0 23
+macro byte20348748689
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr8
+cmp vdr3 vdr1
+define add, dword80927238146
+sub byte vdr15 33
+dec vdr5
+sub qword vdr10 35
+sub qword vdr12 25
+define div, dword69559902281
+or qword vdr12 5
+cmp 4246 1530
+or qword vdr15 33
+dec vdr3
+sub dword vdr5 22
+mov byte vdr13 6
+or word vdr9 66
+and byte vdr6 51
+add dword vdr7 55
+sub byte vdr12 44
+and word vdr13 51
+mul word vdr0 59
+inc vdr0
+macro float81786513849
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr14 48
+macro qword43953609899
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 5368 4403
+macro word29358167954
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr8 37
+and word vdr15 23
+mul dword vdr6 5
+sub dword vdr14 40
+cmp vdr6 vdr6
+define macro, byte89563996458
+dec vdr5
+mov qword vdr10 52
+xor dword vdr13 60
+xor qword vdr6 32
+or word vdr6 67
+cmp vdr6 vdr1
+sub qword vdr15 21
+add word vdr9 53
+mul qword vdr3 44
+sub word vdr3 12
+mul byte vdr13 38
+or qword vdr11 24
+dec vdr2
+define inc, byte7448448077
+macro byte4597303862
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr8
+xor qword vdr0 53
+macro byte42297422182
+	# hehehehehehehehe
+end
+cmp 8849 159
+mul byte vdr8 36
+macro qword9365085142
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define and, dword60686505695
+add byte vdr11 34
+dec vdr6
+div qword vdr14 11
+xor qword vdr5 40
+sub word vdr7 38
+define inc, float88613947299
+or qword vdr10 50
+and byte vdr5 4
+add word vdr7 56
+mul qword vdr14 58
+sub qword vdr6 14
+and dword vdr8 24
+xor qword vdr8 28
+mul byte vdr9 36
+and byte vdr2 26
+div word vdr10 67
+xor word vdr6 36
+macro byte11884358232
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr1 33
+define cmp, dword13641446538
+add word vdr7 53
+cmp 7922 9334
+xor word vdr3 10
+macro word4816318240
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr8
+div qword vdr7 2
+mov qword vdr0 18
+mul word vdr15 58
+or qword vdr4 6
+add word vdr2 16
+or qword vdr4 62
+define div, dword74223413431
+sub dword vdr10 56
+and qword vdr10 62
+xor byte vdr10 43
+cmp vdr3 vdr10
+dec vdr7
+dec vdr6
+macro float76896488025
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor word vdr5 40
+inc vdr12
+add qword vdr2 10
+sub dword vdr15 67
+xor word vdr15 45
+sub dword vdr4 67
+div word vdr11 52
+dec vdr12
+div word vdr11 17
+macro dword22692939745
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr2 42
+cmp 8301 6608
+mul dword vdr0 47
+mov qword vdr7 3
+sub byte vdr6 46
+cmp 1024 9366
+div word vdr1 59
+macro float43220544726
+	# hehehehehehehehe
+end
+and word vdr3 25
+or word vdr14 6
+or word vdr0 24
+inc vdr8
+add byte vdr4 37
+sub dword vdr15 8
+inc vdr4
+xor byte vdr11 68
+mov word vdr3 36
+sub dword vdr15 19
+or byte vdr5 37
+mov dword vdr0 52
+mul word vdr2 69
+and dword vdr9 52
+add qword vdr14 54
+cmp vdr2 vdr10
+mul word vdr12 41
+mul qword vdr14 66
+inc vdr15
+cmp vdr13 vdr9
+mul dword vdr12 61
+sub byte vdr4 69
+mul word vdr4 28
+add qword vdr10 63
+define and, qword74159383368
+add dword vdr10 53
+add byte vdr13 32
+div dword vdr10 26
+or qword vdr9 11
+define mov, float23510591766
+inc vdr2
+cmp vdr4 vdr2
+inc vdr3
+and byte vdr10 62
+macro float81397403270
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr2 vdr0
+xor dword vdr12 2
+add byte vdr5 28
+cmp vdr10 vdr1
+xor word vdr13 68
+div qword vdr0 56
+inc vdr2
+xor byte vdr10 19
+dec vdr15
+or byte vdr0 2
+and qword vdr4 4
+xor byte vdr11 20
+dec vdr10
+mov word vdr14 35
+or word vdr7 2
+div byte vdr9 6
+div qword vdr4 58
+sub dword vdr7 35
+dec vdr15
+or byte vdr6 62
+and byte vdr8 33
+cmp vdr1 vdr15
+macro byte70176772910
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr4
+div word vdr5 65
+macro word18522939972
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov byte vdr3 37
+mov byte vdr6 17
+dec vdr3
+div dword vdr15 38
+macro qword84377097442
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr0 vdr11
+add byte vdr14 37
+macro float19241266118
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr7 13
+mul byte vdr7 16
+div dword vdr10 4
+macro float90135777623
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 6580 5828
+or word vdr12 52
+or byte vdr7 22
+div dword vdr12 6
+add word vdr4 25
+sub word vdr9 47
+cmp vdr12 vdr10
+cmp 1647 6188
+div byte vdr8 29
+mul byte vdr4 68
+mov dword vdr8 66
+xor qword vdr2 19
+or byte vdr14 17
+and byte vdr2 1
+define macro, byte19063224852
+add dword vdr9 2
+div dword vdr7 66
+mov dword vdr7 48
+mul byte vdr13 45
+and qword vdr11 35
+macro dword29550439
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr14 vdr13
+or byte vdr4 19
+inc vdr6
+and word vdr8 66
+add qword vdr9 58
+div dword vdr1 1
+add dword vdr8 31
+and byte vdr8 51
+xor word vdr0 42
+add byte vdr1 20
+mov byte vdr6 14
+add qword vdr0 44
+mov qword vdr12 36
+div byte vdr10 53
+cmp vdr14 vdr2
+and dword vdr2 69
+macro byte4336818680
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr10 38
+mul dword vdr13 64
+macro float67752444584
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 3900 7494
+macro word47683642175
+	# hehehehehehehehe
+end
+add word vdr6 10
+sub byte vdr10 38
+mov byte vdr7 66
+define mov, byte10835146092
+mul qword vdr13 51
+inc vdr8
+add byte vdr10 67
+add byte vdr2 40
+dec vdr4
+mov word vdr3 28
+add word vdr9 65
+define xor, qword33288653646
+macro qword31584361854
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr10 vdr6
+add dword vdr13 38
+dec vdr11
+mov qword vdr2 9
+define and, word21638063830
+macro byte16168283265
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor dword vdr6 43
+dec vdr13
+inc vdr1
+inc vdr8
+inc vdr13
+and word vdr10 29
+cmp 1613 3168
+or word vdr14 50
+inc vdr13
+macro byte74018701294
+	# hehehehehehehehe
+end
+sub word vdr14 10
+dec vdr7
+define or, byte8435391234
+add dword vdr9 9
+div qword vdr10 36
+div word vdr4 61
+sub word vdr13 54
+and word vdr1 27
+dec vdr6
+div dword vdr2 10
+mul byte vdr6 33
+macro float15281835431
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr3
+add byte vdr2 17
+mov qword vdr15 9
+sub qword vdr0 43
+dec vdr13
+and byte vdr0 31
+define macro, dword65173751136
+macro word36294702795
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr10 41
+div dword vdr4 53
+div qword vdr0 32
+and byte vdr5 50
+add dword vdr4 12
+and qword vdr0 23
+inc vdr7
+and word vdr15 69
+add qword vdr12 19
+define div, dword70565340152
+mov dword vdr14 47
+add word vdr14 50
+define dec, word14241193092
+define add, word45049160075
+add word vdr5 33
+cmp 4178 9246
+inc vdr11
+dec vdr11
+and dword vdr1 15
+cmp 4321 9054
+add qword vdr3 12
+macro dword21106304116
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define dec, float65340714863
+define or, word53406700708
+macro float32472956453
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr3
+define sub, float8002758276
+define inc, dword82826454245
+sub byte vdr11 43
+and byte vdr10 58
+mul dword vdr1 9
+div word vdr5 22
+mul byte vdr5 35
+or dword vdr8 21
+define macro, float69760813596
+mov word vdr10 45
+macro dword86634845883
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr7 55
+xor dword vdr7 43
+define xor, float87119602956
+and byte vdr3 24
+and qword vdr9 34
+xor dword vdr10 2
+mul qword vdr12 4
+and byte vdr12 1
+add word vdr12 9
+and dword vdr9 60
+cmp 7967 8547
+xor dword vdr7 1
+dec vdr3
+macro byte12990263360
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr14
+inc vdr3
+div byte vdr0 27
+and byte vdr13 66
+inc vdr14
+mov dword vdr9 3
+mul dword vdr0 10
+div byte vdr14 3
+mul word vdr4 25
+inc vdr13
+mul qword vdr2 28
+or word vdr11 32
+macro dword24542262465
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr5 59
+sub word vdr0 30
+cmp 4497 2683
+add dword vdr9 46
+mul qword vdr2 29
+and dword vdr12 43
+inc vdr0
+macro byte66865628300
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub qword vdr4 27
+define sub, float27226981586
+cmp 1318 8869
+or byte vdr2 21
+inc vdr1
+dec vdr14
+inc vdr14
+inc vdr12
+add byte vdr4 19
+or dword vdr13 34
+define mov, qword40915154413
+xor byte vdr10 7
+define sub, dword52715370609
+mul byte vdr13 31
+dec vdr6
+add qword vdr13 42
+and byte vdr13 44
+sub byte vdr10 50
+inc vdr5
+macro qword92548085334
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr11 46
+mov byte vdr13 69
+div byte vdr14 8
+or word vdr4 59
+mul word vdr8 44
+sub word vdr2 22
+macro float97175567618
+	# hehehehehehehehe
+end
+dec vdr11
+mov dword vdr11 42
+cmp vdr0 vdr14
+dec vdr12
+define or, qword2985028297
+and byte vdr15 2
+define inc, float38700660254
+add byte vdr3 22
+mov word vdr0 68
+add dword vdr10 48
+and word vdr8 32
+dec vdr13
+macro dword55047094696
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define add, qword86295626963
+macro byte29022632005
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define define, byte91907746204
+xor word vdr11 4
+dec vdr2
+cmp vdr1 vdr1
+mov byte vdr7 35
+dec vdr8
+cmp 3495 8802
+mul byte vdr12 48
+sub word vdr10 45
+xor dword vdr7 69
+div dword vdr12 20
+add dword vdr14 34
+and dword vdr7 11
+or dword vdr7 56
+mov qword vdr10 55
+xor dword vdr3 57
+mul dword vdr1 35
+mul byte vdr14 43
+add dword vdr6 57
+sub qword vdr8 31
+dec vdr0
+mov qword vdr8 62
+add byte vdr14 56
+inc vdr5
+cmp 6913 8503
+macro word23480662722
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul byte vdr10 46
+inc vdr12
+mul byte vdr3 55
+sub dword vdr13 37
+define define, qword20263561030
+or word vdr10 22
+and qword vdr10 36
+cmp 490 1928
+macro dword79787128278
+	# hehehehehehehehe
+end
+mul dword vdr9 64
+add dword vdr5 9
+add word vdr5 18
+inc vdr6
+and word vdr10 10
+mul qword vdr8 51
+mov byte vdr12 12
+xor byte vdr8 29
+xor word vdr9 9
+xor qword vdr11 20
+xor qword vdr4 55
+sub byte vdr4 33
+macro word69501684475
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr1
+define add, dword45817534625
+and dword vdr6 19
+mov word vdr14 7
+sub byte vdr15 34
+div byte vdr4 13
+and qword vdr7 22
+div byte vdr8 10
+or dword vdr5 12
+inc vdr5
+mul dword vdr2 30
+or word vdr8 4
+sub qword vdr2 40
+add byte vdr6 24
+cmp vdr15 vdr11
+mov qword vdr11 63
+define cmp, qword24688976156
+xor word vdr3 32
+dec vdr5
+macro dword8352032328
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr1 61
+xor byte vdr12 61
+and qword vdr13 25
+macro word74878085729
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 1389 4358
+inc vdr14
+cmp vdr2 vdr15
+mov dword vdr0 7
+div byte vdr3 49
+mul byte vdr9 11
+inc vdr0
+xor qword vdr3 26
+div word vdr5 11
+dec vdr14
+cmp vdr7 vdr3
+div dword vdr5 42
+or byte vdr14 68
+cmp vdr9 vdr6
+add byte vdr12 56
+and qword vdr9 35
+add word vdr5 15
+inc vdr3
+and byte vdr11 67
+macro float12037908982
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr4 45
+or byte vdr4 49
+sub word vdr14 53
+and dword vdr8 36
+or byte vdr12 42
+cmp 8866 1070
+dec vdr6
+define mul, qword95607872759
+define xor, qword32619404190
+inc vdr12
+sub word vdr2 31
+mul word vdr0 6
+dec vdr1
+cmp vdr9 vdr1
+and qword vdr2 6
+div dword vdr7 61
+mov word vdr10 36
+or qword vdr11 47
+dec vdr1
+add word vdr11 69
+div word vdr2 2
+add dword vdr15 65
+and dword vdr8 34
+add byte vdr4 14
+mul dword vdr1 42
+sub byte vdr14 13
+sub dword vdr4 62
+add word vdr12 31
+cmp 4304 7289
+cmp vdr13 vdr5
+dec vdr13
+sub qword vdr15 43
+add word vdr8 62
+mul qword vdr4 65
+macro float40648412001
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro dword78732123842
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div word vdr15 28
+or word vdr3 13
+div word vdr5 26
+add qword vdr4 19
+or dword vdr11 3
+or qword vdr14 19
+define cmp, dword35417785017
+add qword vdr2 55
+and word vdr3 32
+dec vdr10
+xor byte vdr6 40
+div dword vdr1 27
+or byte vdr5 22
+mov qword vdr8 26
+inc vdr4
+cmp 8206 9949
+inc vdr6
+xor word vdr9 52
+define dec, float62035747129
+div word vdr15 13
+mov word vdr10 46
+mul qword vdr9 25
+macro dword7068154433
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and qword vdr14 6
+define macro, word26683281388
+mov byte vdr1 44
+mov dword vdr9 66
+inc vdr10
+sub word vdr14 37
+div byte vdr14 54
+macro word76577087280
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define xor, dword33213574911
+mul dword vdr8 62
+and byte vdr6 40
+mul word vdr7 38
+and qword vdr5 69
+cmp vdr1 vdr1
+mov qword vdr3 41
+inc vdr5
+dec vdr3
+define mov, byte75744398412
+div byte vdr2 43
+inc vdr12
+mul byte vdr3 3
+div byte vdr6 28
+mov qword vdr3 32
+define inc, word31505571740
+xor word vdr14 67
+xor dword vdr15 6
+div byte vdr0 21
+xor byte vdr0 15
+and qword vdr0 66
+xor byte vdr8 66
+dec vdr15
+or qword vdr9 50
+and qword vdr6 10
+dec vdr14
+xor word vdr5 45
+mov qword vdr3 48
+or qword vdr13 48
+macro float87637098326
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr4 58
+mov word vdr6 51
+xor qword vdr11 68
+div word vdr13 54
+add byte vdr8 38
+inc vdr3
+or qword vdr0 62
+inc vdr6
+div qword vdr0 23
+mul byte vdr8 42
+dec vdr13
+sub word vdr13 63
+mul word vdr3 34
+macro dword38285496904
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr7
+cmp vdr11 vdr10
+dec vdr7
+cmp 7994 9421
+or dword vdr4 66
+and byte vdr14 64
+add word vdr4 36
+mul qword vdr14 62
+sub qword vdr14 43
+dec vdr14
+sub dword vdr11 67
+inc vdr13
+add word vdr6 51
+add qword vdr7 11
+inc vdr5
+div dword vdr11 12
+or dword vdr9 1
+or qword vdr8 21
+add qword vdr11 46
+or dword vdr4 69
+define dec, byte88120808372
+mov word vdr7 46
+xor byte vdr3 3
+dec vdr14
+xor word vdr0 42
+macro dword4821599000
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add dword vdr7 54
+xor dword vdr10 8
+dec vdr7
+sub word vdr5 35
+div qword vdr3 16
+mov dword vdr8 19
+inc vdr1
+sub byte vdr4 17
+mul qword vdr7 37
+xor word vdr1 21
+mov word vdr12 50
+dec vdr4
+add qword vdr7 31
+macro word58786180495
+	# hehehehehehehehe
+end
+define and, qword95955051337
+inc vdr3
+xor qword vdr2 26
+mov qword vdr7 49
+dec vdr15
+inc vdr10
+or dword vdr3 13
+sub word vdr5 17
+inc vdr8
+mul qword vdr3 59
+macro byte54192395871
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr5 57
+define inc, float62767145005
+mul byte vdr14 66
+define dec, byte83236588881
+sub word vdr5 67
+xor dword vdr14 9
+cmp 4725 5347
+xor byte vdr8 43
+and word vdr14 57
+inc vdr7
+macro word50173670885
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr5 62
+and qword vdr13 20
+define add, float4802813616
+inc vdr13
+xor qword vdr13 40
+xor qword vdr11 55
+mul qword vdr4 32
+or byte vdr15 7
+cmp vdr5 vdr12
+div qword vdr11 12
+div qword vdr2 40
+macro dword26016033828
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or byte vdr10 21
+dec vdr0
+mul byte vdr9 51
+add dword vdr13 67
+sub word vdr15 3
+xor byte vdr15 2
+mov word vdr10 36
+mul dword vdr3 49
+sub qword vdr6 64
+cmp 9952 6240
+mov word vdr11 64
+mul dword vdr7 67
+cmp 9927 9319
+define define, word98459785135
+sub byte vdr5 12
+mov dword vdr2 42
+sub byte vdr2 61
+add qword vdr9 56
+cmp vdr8 vdr1
+cmp vdr13 vdr6
+and byte vdr10 13
+or word vdr1 65
+macro qword62797368410
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro qword48374971993
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and word vdr9 2
+xor qword vdr14 32
+div word vdr3 44
+define sub, word83692740733
+and qword vdr8 42
+sub dword vdr13 5
+and word vdr10 35
+cmp vdr7 vdr9
+or byte vdr4 26
+add word vdr7 54
+sub dword vdr1 56
+or byte vdr2 32
+xor byte vdr12 43
+mov word vdr15 10
+add qword vdr3 12
+sub byte vdr10 63
+mul word vdr13 69
+define define, float84170135906
+cmp 3925 5189
+dec vdr13
+mul byte vdr6 35
+cmp 8795 1573
+define div, qword47421529195
+cmp vdr6 vdr4
+div qword vdr7 30
+xor word vdr5 36
+or qword vdr13 2
+add qword vdr1 3
+macro dword33771915025
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define or, byte70685643852
+mul byte vdr3 36
+macro byte63094784734
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr11 vdr3
+inc vdr15
+div dword vdr1 58
+mul byte vdr10 2
+macro dword49044412623
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro float33844991258
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub dword vdr5 43
+cmp vdr4 vdr14
+inc vdr0
+or qword vdr6 13
+macro qword1479074063
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr5 45
+sub dword vdr11 11
+or word vdr2 41
+cmp 6850 1622
+add qword vdr13 1
+xor dword vdr12 8
+dec vdr14
+mul word vdr9 41
+mov dword vdr10 32
+and byte vdr0 16
+add qword vdr12 68
+mul byte vdr11 59
+inc vdr0
+macro float66883632080
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr14 63
+or qword vdr8 37
+define div, float10247608938
+define define, word94235558728
+mov byte vdr14 27
+mul qword vdr4 17
+dec vdr9
+define dec, dword5544562693
+cmp vdr7 vdr1
+mul byte vdr14 53
+sub byte vdr5 37
+div dword vdr4 27
+mov qword vdr13 31
+and qword vdr1 34
+sub dword vdr5 46
+inc vdr3
+sub word vdr14 30
+dec vdr3
+or byte vdr4 2
+xor dword vdr1 29
+sub qword vdr5 15
+add byte vdr13 53
+dec vdr12
+define define, word44212637324
+add word vdr10 48
+sub word vdr5 65
+mov dword vdr0 20
+xor dword vdr8 64
+inc vdr6
+xor word vdr10 6
+macro qword46836169470
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr14
+mov qword vdr6 62
+inc vdr9
+cmp 1840 5307
+or byte vdr1 57
+add byte vdr7 67
+mov qword vdr10 7
+mul dword vdr15 19
+div dword vdr0 12
+mov qword vdr5 53
+xor qword vdr8 42
+and dword vdr11 49
+add word vdr10 68
+or dword vdr6 21
+mul byte vdr11 10
+cmp vdr12 vdr14
+define div, float13186623541
+xor byte vdr6 54
+mul dword vdr11 67
+cmp 1124 2455
+inc vdr5
+mov word vdr8 52
+define or, float85497928324
+mov word vdr15 3
+or qword vdr15 55
+sub byte vdr9 15
+mov byte vdr4 10
+cmp 8581 5966
+define cmp, float94555306087
+and word vdr8 34
+xor word vdr0 54
+dec vdr14
+macro dword51009650677
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov byte vdr4 52
+mul word vdr0 34
+macro byte55507397330
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr15
+xor dword vdr7 27
+dec vdr6
+cmp 2127 154
+sub dword vdr13 40
+add byte vdr6 3
+div word vdr11 37
+and qword vdr11 30
+add byte vdr8 61
+dec vdr0
+add dword vdr14 66
+mul word vdr13 61
+mul dword vdr1 63
+and word vdr7 2
+sub byte vdr0 61
+sub word vdr0 10
+define or, float673661961
+define macro, qword61706982456
+add word vdr10 2
+mov qword vdr2 31
+xor qword vdr4 37
+xor qword vdr12 25
+inc vdr10
+div dword vdr7 63
+macro byte36305293934
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr9 29
+cmp 492 7115
+add dword vdr9 26
+xor word vdr10 11
+xor byte vdr0 2
+sub byte vdr7 66
+xor word vdr0 29
+mov qword vdr10 40
+or word vdr0 62
+mov word vdr11 28
+define macro, float61898228754
+xor word vdr10 19
+div qword vdr5 61
+define mov, dword50368507358
+cmp vdr12 vdr11
+div dword vdr13 62
+and byte vdr1 22
+macro word93049908443
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr9 18
+inc vdr10
+div byte vdr12 4
+macro float91097454618
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr3
+define cmp, byte50801090475
+or dword vdr12 12
+define sub, dword88847090640
+div qword vdr12 23
+dec vdr14
+mul byte vdr10 3
+inc vdr5
+and qword vdr3 5
+cmp vdr6 vdr15
+cmp 2342 1767
+sub dword vdr4 42
+dec vdr13
+mov qword vdr12 45
+inc vdr5
+inc vdr1
+sub byte vdr1 61
+sub qword vdr6 10
+cmp vdr6 vdr0
+sub dword vdr8 27
+mul byte vdr10 27
+add word vdr5 17
+cmp vdr7 vdr4
+and word vdr4 17
+sub dword vdr11 47
+xor word vdr8 67
+and word vdr4 17
+add word vdr10 57
+define div, byte62553880549
+and qword vdr9 16
+sub word vdr1 2
+add qword vdr8 14
+mul byte vdr9 63
+or word vdr6 61
+sub dword vdr3 18
+dec vdr9
+add word vdr7 62
+macro dword68131119451
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add word vdr6 1
+cmp 9971 8570
+dec vdr9
+mul word vdr6 5
+inc vdr11
+and word vdr5 63
+sub dword vdr12 66
+or word vdr13 60
+or word vdr2 48
+cmp 3791 9568
+macro float71836821485
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr13 30
+define add, qword2328676045
+div word vdr4 32
+xor dword vdr8 29
+mul byte vdr2 50
+and byte vdr5 69
+mov dword vdr11 36
+sub byte vdr10 23
+mov byte vdr14 44
+xor dword vdr2 25
+macro byte53744882101
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr15 2
+inc vdr4
+mov qword vdr14 34
+inc vdr8
+mov word vdr14 17
+xor word vdr7 57
+or byte vdr15 49
+macro byte67546924377
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro dword4037580375
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define sub, word79354029683
+macro dword34311069814
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or dword vdr8 66
+or dword vdr15 22
+inc vdr0
+sub byte vdr10 17
+define cmp, byte467850092
+xor dword vdr10 47
+mul dword vdr4 27
+or dword vdr10 68
+sub dword vdr11 38
+define inc, qword26694017646
+sub byte vdr1 37
+macro byte81934095057
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul dword vdr10 37
+cmp 2286 5332
+mov dword vdr13 57
+or byte vdr12 46
+mov qword vdr3 41
+and qword vdr6 51
+or word vdr15 28
+mov word vdr12 36
+define dec, dword34078485667
+inc vdr9
+mov dword vdr15 2
+dec vdr12
+div byte vdr2 52
+inc vdr3
+xor qword vdr0 41
+add dword vdr3 59
+cmp vdr1 vdr15
+mul byte vdr1 1
+mov qword vdr3 30
+div dword vdr5 6
+sub qword vdr7 45
+and word vdr11 25
+mul dword vdr9 6
+macro byte96254227842
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define div, qword70005474923
+cmp 5406 9525
+div byte vdr8 21
+define div, float75053681213
+or dword vdr2 17
+or byte vdr0 51
+dec vdr14
+sub qword vdr9 56
+mul word vdr14 38
+define macro, dword42215640803
+macro float40504395430
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 8760 5441
+mul byte vdr9 56
+mul qword vdr4 14
+or byte vdr7 61
+mul word vdr13 44
+dec vdr1
+macro dword39290288306
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr5
+macro dword11123280726
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr4 13
+xor dword vdr6 8
+and byte vdr12 27
+mul byte vdr10 56
+inc vdr10
+xor word vdr6 18
+add byte vdr4 12
+mov word vdr13 19
+xor byte vdr4 58
+define inc, qword8882914839
+macro word70802682975
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr10 35
+div dword vdr4 43
+mov qword vdr6 4
+sub qword vdr13 66
+mov word vdr12 57
+cmp 3305 9518
+sub byte vdr14 68
+macro qword9484380228
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr14
+add byte vdr4 63
+xor word vdr5 2
+macro float95812867819
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr6 30
+or word vdr1 17
+dec vdr10
+cmp vdr1 vdr15
+div dword vdr6 53
+xor byte vdr10 7
+cmp vdr1 vdr6
+dec vdr10
+mov dword vdr9 52
+div byte vdr10 10
+xor qword vdr6 7
+add qword vdr12 6
+xor qword vdr12 51
+xor word vdr10 51
+mov word vdr9 48
+add byte vdr15 69
+inc vdr10
+mul dword vdr3 32
+add byte vdr0 19
+cmp vdr5 vdr3
+define inc, word84863430047
+or byte vdr8 37
+div qword vdr6 29
+sub byte vdr2 47
+define or, byte51552237249
+xor dword vdr0 48
+and byte vdr0 45
+cmp vdr1 vdr10
+and dword vdr4 16
+inc vdr6
+mov byte vdr15 18
+mul word vdr15 22
+or byte vdr1 17
+macro float58304996183
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or byte vdr3 61
+xor word vdr1 46
+dec vdr15
+or byte vdr5 25
+mov byte vdr5 59
+mul qword vdr1 15
+mul qword vdr8 26
+mov dword vdr6 62
+add word vdr6 53
+add dword vdr9 36
+inc vdr1
+inc vdr13
+and dword vdr1 65
+div qword vdr14 11
+mul dword vdr12 69
+cmp 8441 3489
+and dword vdr3 55
+sub dword vdr12 25
+mov word vdr9 15
+inc vdr15
+or byte vdr11 8
+or dword vdr13 53
+define sub, dword70018363369
+and dword vdr8 35
+or word vdr4 59
+mul word vdr15 36
+sub qword vdr6 38
+cmp 5128 3037
+div dword vdr1 9
+xor byte vdr1 68
+define inc, byte14098008531
+define cmp, word83337971904
+inc vdr9
+div dword vdr0 57
+add qword vdr12 16
+div dword vdr2 63
+dec vdr8
+div dword vdr10 68
+define or, qword96533142079
+inc vdr7
+cmp vdr9 vdr3
+mul qword vdr3 16
+dec vdr15
+sub byte vdr15 41
+add qword vdr3 33
+macro byte3616433085
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub dword vdr7 50
+or qword vdr1 35
+inc vdr6
+sub byte vdr5 32
+sub byte vdr14 12
+mul word vdr11 4
+and byte vdr15 66
+mov word vdr4 58
+dec vdr14
+sub byte vdr14 7
+mov qword vdr3 66
+or word vdr2 11
+or byte vdr10 28
+add word vdr7 31
+macro byte57768040499
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr5 42
+or byte vdr8 21
+or byte vdr6 48
+sub byte vdr1 54
+cmp vdr2 vdr13
+cmp 1411 8117
+macro float83999557011
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and qword vdr6 4
+mov word vdr12 1
+macro qword52506123751
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro float15145386068
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or dword vdr1 40
+and word vdr4 22
+sub word vdr12 5
+mul qword vdr14 60
+sub word vdr11 11
+div byte vdr3 51
+mul word vdr2 12
+add byte vdr3 54
+xor byte vdr9 36
+sub byte vdr10 20
+and word vdr11 39
+div word vdr1 2
+xor qword vdr2 14
+or byte vdr7 39
+mul qword vdr3 46
+mov word vdr7 58
+and dword vdr4 34
+div word vdr9 16
+div byte vdr7 16
+mov word vdr8 28
+cmp vdr15 vdr9
+mov byte vdr10 47
+or dword vdr14 38
+xor dword vdr14 66
+mul byte vdr8 57
+add word vdr13 58
+inc vdr3
+and byte vdr6 25
+xor word vdr5 45
+dec vdr9
+inc vdr11
+xor dword vdr7 65
+or dword vdr4 35
+xor dword vdr9 28
+dec vdr15
+and dword vdr9 7
+inc vdr7
+cmp 867 5092
+and byte vdr5 38
+xor word vdr15 50
+xor dword vdr8 31
+mul dword vdr11 69
+add qword vdr6 23
+sub word vdr13 32
+or byte vdr13 54
+macro dword93103051325
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr12
+inc vdr14
+or qword vdr2 24
+xor qword vdr3 65
+and dword vdr11 60
+macro byte29241941285
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr2 11
+cmp vdr14 vdr7
+xor dword vdr8 24
+div byte vdr15 41
+add dword vdr1 68
+sub qword vdr13 58
+xor dword vdr2 54
+inc vdr6
+div word vdr13 18
+define and, word67496690208
+xor qword vdr12 17
+inc vdr9
+cmp 2582 6261
+define mul, qword64914142033
+and qword vdr1 40
+sub word vdr4 12
+mul word vdr6 51
+cmp 6825 3696
+inc vdr11
+or word vdr1 16
+xor qword vdr0 66
+add word vdr0 39
+dec vdr0
+add qword vdr15 38
+sub dword vdr0 15
+macro float8340507517
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr8 59
+xor word vdr15 55
+macro dword11643293811
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul byte vdr8 5
+dec vdr4
+add qword vdr0 63
+add qword vdr5 52
+mul dword vdr2 41
+define sub, dword33332680696
+div qword vdr9 29
+and dword vdr11 68
+inc vdr12
+and word vdr9 24
+and qword vdr14 26
+or byte vdr7 40
+cmp vdr13 vdr1
+and word vdr7 47
+and dword vdr4 7
+mul dword vdr6 37
+add dword vdr11 6
+cmp 7080 2290
+mov dword vdr5 60
+or dword vdr5 40
+dec vdr3
+mul qword vdr2 26
+inc vdr3
+xor byte vdr0 25
+dec vdr6
+dec vdr0
+mov byte vdr15 62
+mul dword vdr11 25
+mul dword vdr4 34
+define dec, word54745213988
+cmp vdr5 vdr4
+and dword vdr2 58
+sub byte vdr10 38
+and byte vdr3 17
+dec vdr14
+dec vdr10
+xor qword vdr4 12
+xor dword vdr11 1
+sub qword vdr3 26
+cmp vdr3 vdr14
+inc vdr9
+cmp vdr13 vdr4
+macro float12454052018
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr9 33
+sub dword vdr2 34
+define mul, dword93074269404
+add byte vdr8 64
+or qword vdr4 39
+xor dword vdr13 52
+add qword vdr0 15
+inc vdr0
+dec vdr12
+define inc, dword57042497142
+sub dword vdr3 63
+or byte vdr11 6
+or byte vdr2 29
+add dword vdr4 46
+div word vdr1 59
+inc vdr15
+xor qword vdr8 69
+xor qword vdr11 67
+mul byte vdr4 33
+or qword vdr2 11
+sub word vdr7 1
+and qword vdr14 12
+sub dword vdr7 3
+cmp vdr8 vdr1
+mov qword vdr15 45
+sub byte vdr9 45
+div qword vdr1 37
+and qword vdr8 10
+sub dword vdr11 25
+inc vdr4
+dec vdr11
+add word vdr2 25
+or word vdr13 12
+add word vdr11 8
+or byte vdr9 60
+add qword vdr7 61
+or byte vdr6 67
+cmp vdr0 vdr2
+cmp vdr14 vdr4
+mul dword vdr7 45
+inc vdr12
+sub qword vdr1 38
+or word vdr3 23
+div word vdr15 66
+inc vdr1
+inc vdr2
+mul qword vdr0 21
+xor qword vdr11 41
+add word vdr14 43
+define define, word92623569774
+mul dword vdr13 59
+div dword vdr15 64
+add byte vdr15 52
+add word vdr4 65
+cmp vdr4 vdr4
+or byte vdr8 59
+and byte vdr10 25
+and qword vdr9 36
+and word vdr1 7
+div qword vdr3 23
+mov dword vdr14 52
+cmp vdr7 vdr4
+inc vdr5
+macro byte51684547952
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr0 11
+and word vdr11 8
+inc vdr10
+and word vdr2 19
+mul qword vdr11 10
+sub word vdr14 47
+div dword vdr14 62
+div word vdr10 43
+div qword vdr12 6
+macro float74920664793
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro word61641059670
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define inc, dword26068330203
+dec vdr0
+and dword vdr11 37
+dec vdr13
+cmp 6577 1562
+cmp 4465 809
+xor dword vdr8 32
+mov qword vdr11 33
+sub byte vdr8 16
+cmp 1049 3358
+sub word vdr14 4
+dec vdr4
+xor word vdr9 69
+div qword vdr10 61
+cmp 7408 8270
+inc vdr15
+cmp vdr11 vdr9
+mul word vdr8 5
+define xor, byte2329754543
+or dword vdr2 38
+dec vdr4
+xor word vdr2 22
+inc vdr14
+add word vdr10 68
+xor qword vdr11 39
+mul byte vdr13 59
+div dword vdr5 25
+or word vdr6 12
+mul word vdr10 47
+mov byte vdr0 30
+define div, qword74327482767
+inc vdr8
+cmp 7056 6722
+cmp 5035 4057
+mul word vdr2 37
+dec vdr11
+add word vdr5 47
+dec vdr7
+macro float89841446894
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr1 7
+define xor, float62507319040
+sub dword vdr5 52
+mov word vdr1 56
+mul dword vdr9 17
+cmp vdr7 vdr0
+xor word vdr7 49
+sub dword vdr2 1
+or dword vdr0 32
+macro dword62840146860
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr14 vdr8
+or byte vdr12 33
+or byte vdr14 5
+inc vdr7
+or qword vdr9 59
+mul qword vdr12 39
+mov word vdr11 28
+define or, byte75386954107
+dec vdr6
+dec vdr14
+and word vdr15 32
+xor qword vdr15 48
+mul qword vdr1 47
+xor word vdr6 2
+add byte vdr10 9
+mul word vdr9 2
+and byte vdr7 44
+define dec, qword88258068491
+cmp 334 7785
+sub dword vdr8 41
+mov byte vdr1 56
+inc vdr10
+xor dword vdr11 6
+sub dword vdr3 57
+mul word vdr9 5
+mov byte vdr15 36
+macro float47979662783
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr7 34
+add byte vdr2 28
+div qword vdr5 56
+xor byte vdr11 23
+macro word40456736243
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr14 62
+or qword vdr13 56
+sub dword vdr11 51
+dec vdr3
+inc vdr4
+cmp 8184 3786
+xor word vdr7 7
+sub word vdr10 2
+xor byte vdr6 44
+mul word vdr9 9
+macro float79478371322
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr13 36
+xor qword vdr10 15
+and byte vdr10 65
+define inc, byte17054420672
+inc vdr1
+xor dword vdr10 66
+mul byte vdr1 33
+div word vdr9 3
+inc vdr8
+and byte vdr12 41
+macro dword48513615870
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul dword vdr12 60
+define div, byte85529031143
+mul byte vdr6 45
+macro byte52260955358
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr13 25
+and word vdr2 25
+and qword vdr4 16
+xor dword vdr5 8
+sub word vdr3 4
+inc vdr14
+or dword vdr10 14
+or dword vdr8 35
+mov dword vdr2 21
+div word vdr11 55
+sub qword vdr4 52
+xor dword vdr15 29
+div dword vdr0 29
+dec vdr1
+dec vdr9
+or byte vdr6 17
+add word vdr2 56
+and byte vdr8 35
+sub word vdr4 45
+define define, dword73603568890
+inc vdr11
+dec vdr14
+div byte vdr7 68
+mul qword vdr6 6
+mul qword vdr5 61
+define inc, byte79362056715
+mul dword vdr1 42
+mov qword vdr1 3
+dec vdr8
+mov word vdr8 10
+or byte vdr2 6
+mov word vdr5 48
+cmp 8287 5731
+mov qword vdr3 68
+define macro, word4362322694
+mul word vdr7 61
+define xor, qword44079717863
+define or, byte86416070792
+inc vdr11
+inc vdr1
+add word vdr0 13
+sub byte vdr1 41
+div qword vdr15 52
+cmp vdr11 vdr2
+dec vdr11
+cmp vdr3 vdr15
+and byte vdr5 60
+div dword vdr1 65
+or byte vdr8 55
+mul word vdr7 10
+inc vdr5
+add dword vdr9 67
+xor dword vdr2 59
+cmp 4889 5633
+macro dword91553031251
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro word64044141661
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr8
+xor qword vdr14 33
+mul word vdr7 19
+dec vdr12
+cmp vdr15 vdr5
+define and, qword35693963045
+sub byte vdr3 16
+dec vdr0
+define define, qword47090202419
+div qword vdr11 32
+mov qword vdr9 14
+add byte vdr9 34
+and qword vdr14 40
+and qword vdr11 40
+or byte vdr4 8
+inc vdr2
+dec vdr2
+mul byte vdr9 22
+inc vdr14
+macro word74982633667
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul dword vdr5 44
+sub byte vdr4 35
+and byte vdr13 1
+and dword vdr10 32
+mov qword vdr12 64
+div qword vdr6 63
+mul dword vdr14 42
+div word vdr12 57
+define div, qword71030889510
+mul word vdr11 62
+macro float95669592435
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and byte vdr13 5
+dec vdr12
+cmp vdr2 vdr5
+or byte vdr3 8
+mov qword vdr12 53
+inc vdr13
+or byte vdr15 53
+define and, qword14994537590
+div word vdr2 60
+add qword vdr8 10
+mov byte vdr8 11
+cmp 8765 7489
+mov word vdr15 21
+div byte vdr7 52
+dec vdr11
+macro dword57963879663
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr11
+mov word vdr4 20
+cmp vdr8 vdr13
+define sub, dword85763596345
+mul dword vdr0 25
+define cmp, float63742070952
+dec vdr14
+cmp vdr3 vdr6
+define mov, word51564160010
+inc vdr4
+mul byte vdr7 39
+add qword vdr15 22
+or word vdr5 49
+macro word12020139528
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 1647 811
+cmp 2191 8735
+mov word vdr10 23
+dec vdr13
+mov qword vdr6 67
+define or, byte77002674984
+xor word vdr0 63
+dec vdr6
+div dword vdr3 33
+add qword vdr15 22
+define or, dword17457634445
+div dword vdr10 62
+macro byte27868861128
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul word vdr15 23
+xor word vdr10 22
+inc vdr7
+and byte vdr13 31
+dec vdr1
+add byte vdr12 28
+cmp vdr5 vdr10
+add qword vdr5 20
+xor byte vdr12 22
+mul qword vdr2 22
+xor byte vdr9 37
+sub byte vdr14 55
+cmp vdr11 vdr9
+cmp vdr13 vdr2
+and dword vdr6 3
+or word vdr15 41
+cmp 5249 161
+xor dword vdr10 67
+div byte vdr14 35
+define cmp, word77872870032
+div word vdr1 15
+mov word vdr4 40
+div dword vdr1 55
+xor qword vdr2 48
+macro word35031454548
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro byte45004219058
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul byte vdr1 40
+div qword vdr10 63
+mul word vdr11 9
+and dword vdr1 20
+cmp vdr2 vdr12
+add word vdr4 21
+macro qword65603267781
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr3 30
+and dword vdr5 68
+sub byte vdr10 69
+define and, qword46459868221
+cmp 8037 3507
+cmp 8863 2516
+div qword vdr14 46
+mov byte vdr4 68
+inc vdr1
+mul word vdr15 27
+inc vdr7
+and dword vdr2 7
+sub qword vdr5 21
+mov dword vdr8 34
+and qword vdr0 50
+sub qword vdr6 56
+xor dword vdr3 19
+macro qword53522660204
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add byte vdr6 51
+dec vdr10
+sub dword vdr2 19
+add byte vdr13 7
+sub qword vdr11 62
+or qword vdr8 2
+mul dword vdr6 28
+and qword vdr0 59
+xor dword vdr3 3
+add dword vdr4 49
+or byte vdr15 7
+mov word vdr3 18
+xor qword vdr5 3
+mul byte vdr11 51
+or byte vdr5 68
+or word vdr10 13
+sub dword vdr0 28
+macro float70495069456
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr14 41
+add word vdr0 22
+cmp 118 2059
+and byte vdr9 47
+div word vdr6 14
+macro float82274068392
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul dword vdr5 13
+dec vdr9
+add word vdr10 20
+mov word vdr15 43
+and byte vdr15 22
+or dword vdr15 45
+div byte vdr7 48
+inc vdr13
+inc vdr10
+or word vdr9 67
+inc vdr15
+inc vdr5
+xor byte vdr1 2
+add word vdr12 37
+and byte vdr15 22
+xor qword vdr11 61
+dec vdr11
+and word vdr13 2
+add qword vdr9 10
+mul qword vdr5 11
+div qword vdr8 43
+macro word70199287165
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr3 13
+add dword vdr0 42
+mov dword vdr0 24
+and word vdr7 16
+macro qword65643584516
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or dword vdr1 32
+define mov, dword8847409692
+sub dword vdr7 14
+div word vdr0 24
+define mov, word86347143214
+dec vdr14
+macro word77462286127
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro float70685501084
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add dword vdr8 4
+mul byte vdr12 68
+div byte vdr14 42
+and word vdr15 41
+mov byte vdr0 55
+sub qword vdr11 36
+cmp vdr13 vdr14
+sub word vdr1 25
+sub word vdr10 22
+dec vdr8
+sub qword vdr6 58
+inc vdr8
+sub dword vdr4 52
+define sub, byte65768398252
+mul dword vdr3 42
+macro float75304720941
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define mul, byte65143041242
+div dword vdr14 67
+xor dword vdr14 6
+define define, qword35514514296
+div qword vdr6 60
+cmp vdr6 vdr5
+xor dword vdr5 20
+dec vdr3
+and word vdr1 64
+cmp vdr6 vdr6
+cmp 9493 516
+mov dword vdr10 45
+sub dword vdr14 52
+macro float31610592344
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr12 7
+inc vdr2
+macro float43047530052
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr7 20
+mul byte vdr12 62
+or dword vdr13 5
+mul byte vdr9 61
+dec vdr5
+cmp vdr3 vdr1
+macro dword99584071296
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add dword vdr9 18
+mov byte vdr11 33
+cmp 6373 5759
+and word vdr10 49
+inc vdr11
+dec vdr2
+or word vdr6 38
+macro word32009628623
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr8 22
+define macro, byte61421664058
+dec vdr4
+add dword vdr9 13
+define cmp, word71621479630
+sub word vdr9 59
+macro word46193190463
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define and, dword12740945283
+cmp vdr13 vdr13
+mov word vdr13 10
+mul word vdr6 14
+define xor, byte65640436085
+mul dword vdr10 2
+div word vdr13 57
+dec vdr3
+add dword vdr8 27
+add word vdr14 55
+or byte vdr6 12
+and word vdr8 67
+xor qword vdr12 69
+xor qword vdr9 10
+define define, qword59047801100
+div dword vdr7 49
+macro dword65247811851
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr7 11
+macro word11999744079
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or byte vdr14 52
+div word vdr4 59
+dec vdr8
+div word vdr12 31
+dec vdr7
+dec vdr7
+dec vdr4
+xor byte vdr2 24
+add dword vdr1 6
+dec vdr9
+cmp 5241 3501
+sub qword vdr1 23
+define add, dword92160060160
+cmp vdr12 vdr15
+inc vdr4
+sub dword vdr2 14
+inc vdr5
+sub dword vdr6 30
+mov dword vdr0 28
+xor word vdr12 44
+mov dword vdr10 18
+inc vdr4
+mov dword vdr15 8
+dec vdr7
+mov qword vdr7 40
+dec vdr13
+cmp 1111 1804
+dec vdr15
+add qword vdr3 7
+or word vdr1 13
+sub byte vdr14 57
+div dword vdr3 36
+dec vdr11
+mov dword vdr12 65
+sub qword vdr8 42
+define cmp, word95275544183
+xor word vdr11 31
+add byte vdr10 23
+cmp 1739 371
+sub dword vdr10 19
+dec vdr4
+xor word vdr7 27
+mov byte vdr3 52
+mov qword vdr1 31
+xor word vdr14 62
+inc vdr7
+dec vdr9
+div qword vdr3 64
+mul qword vdr3 26
+define inc, word76731305491
+add byte vdr10 68
+dec vdr2
+define cmp, float18235409873
+inc vdr7
+dec vdr9
+add qword vdr3 2
+div word vdr13 16
+macro byte32659778646
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr8
+macro byte86144297460
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr8 21
+define cmp, byte34998972412
+inc vdr7
+div byte vdr8 24
+cmp 5293 3847
+mov qword vdr1 45
+define div, word45491190057
+sub dword vdr11 50
+or dword vdr4 30
+define add, dword90154820094
+and word vdr5 53
+define define, word50389880532
+and word vdr9 67
+cmp 6992 8320
+or byte vdr1 1
+div word vdr6 67
+or qword vdr3 37
+sub word vdr15 47
+mov dword vdr13 65
+mov word vdr11 49
+div byte vdr2 32
+or qword vdr13 9
+and dword vdr2 46
+dec vdr4
+cmp 4173 5800
+xor qword vdr5 17
+add qword vdr14 33
+and byte vdr1 12
+add dword vdr5 64
+div qword vdr7 63
+inc vdr1
+macro word36690778455
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr10 41
+or byte vdr15 23
+mov dword vdr7 4
+macro byte50490101679
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr2
+and qword vdr10 56
+and qword vdr10 41
+define xor, qword19434221387
+and word vdr5 24
+and qword vdr0 6
+inc vdr4
+xor qword vdr0 33
+macro dword50350824669
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr8 69
+cmp 2916 603
+div byte vdr15 52
+mov byte vdr3 1
+mul byte vdr1 2
+xor byte vdr3 7
+mul qword vdr8 19
+and word vdr11 42
+div word vdr8 17
+cmp vdr8 vdr13
+inc vdr5
+macro qword91686012463
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 1979 9032
+xor byte vdr14 60
+cmp 1539 9291
+or byte vdr15 26
+xor word vdr6 9
+macro float24845217755
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr15 44
+macro dword80370325058
+	# hehehehehehehehe
+end
+sub word vdr12 68
+mul dword vdr4 63
+inc vdr1
+inc vdr4
+xor word vdr8 52
+mul qword vdr10 56
+xor dword vdr7 24
+dec vdr11
+inc vdr14
+and qword vdr10 39
+inc vdr1
+macro dword70457767738
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub dword vdr14 32
+add byte vdr3 57
+mul byte vdr15 32
+or byte vdr14 4
+div dword vdr13 7
+mov qword vdr10 56
+and byte vdr14 2
+mul qword vdr12 18
+sub byte vdr0 27
+dec vdr3
+sub qword vdr12 14
+div word vdr15 25
+or byte vdr11 40
+macro qword92814473019
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul word vdr9 68
+define mov, byte85295258250
+mul byte vdr13 51
+define or, word62207425247
+dec vdr6
+or word vdr4 16
+dec vdr5
+macro dword90137855678
+	# hehehehehehehehe
+end
+inc vdr12
+mov dword vdr14 24
+mov byte vdr14 36
+xor byte vdr12 37
+xor dword vdr5 12
+sub word vdr14 13
+dec vdr14
+mul word vdr2 56
+add qword vdr4 16
+inc vdr14
+div dword vdr3 25
+cmp 1789 3304
+macro byte89624402756
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul dword vdr6 4
+mov qword vdr6 19
+inc vdr13
+and byte vdr14 22
+and qword vdr13 62
+and dword vdr15 12
+and qword vdr11 28
+macro qword63546704396
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr13 12
+div dword vdr12 29
+mov byte vdr8 28
+or dword vdr14 62
+mul word vdr15 6
+inc vdr14
+inc vdr10
+div byte vdr0 6
+inc vdr13
+macro dword21411995744
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr1
+inc vdr5
+define div, float40494091664
+div dword vdr1 48
+and byte vdr13 57
+and word vdr15 46
+mul qword vdr13 19
+xor qword vdr15 14
+cmp vdr9 vdr4
+add word vdr14 63
+mov byte vdr5 28
+or dword vdr7 28
+mul qword vdr13 30
+xor dword vdr10 59
+mul dword vdr13 17
+mov byte vdr8 65
+macro word73056584316
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr2 32
+div word vdr15 65
+cmp 4536 6985
+and dword vdr9 14
+inc vdr9
+cmp vdr1 vdr2
+cmp vdr4 vdr5
+mov qword vdr15 63
+or byte vdr5 10
+define cmp, byte83664297160
+define sub, dword95593810353
+define div, word93107933963
+or byte vdr5 22
+or dword vdr8 55
+dec vdr10
+xor dword vdr7 28
+add qword vdr4 6
+xor dword vdr8 19
+define xor, qword95719685336
+macro dword23061201054
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr12 40
+dec vdr5
+sub dword vdr3 62
+sub qword vdr12 55
+add byte vdr4 11
+define macro, qword43982092938
+define div, float85806971044
+add word vdr15 44
+div dword vdr8 21
+define mul, word72252533893
+dec vdr4
+cmp vdr5 vdr9
+sub dword vdr7 18
+and byte vdr12 10
+inc vdr7
+mul byte vdr3 39
+or byte vdr1 25
+or dword vdr15 33
+dec vdr2
+macro byte75265921138
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr8 vdr4
+sub qword vdr14 58
+define define, float84368911910
+div dword vdr7 28
+or dword vdr12 58
+cmp vdr0 vdr0
+add qword vdr5 25
+mul qword vdr11 38
+add dword vdr5 28
+define div, byte41618279693
+macro dword23652238389
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro qword70822034054
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub qword vdr13 44
+and dword vdr8 8
+define macro, float34512141832
+macro word19037521891
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or dword vdr10 41
+mul qword vdr7 69
+div word vdr10 43
+mov byte vdr8 62
+or dword vdr5 8
+mul qword vdr15 64
+mul byte vdr12 63
+dec vdr7
+mov dword vdr0 56
+inc vdr13
+and byte vdr2 52
+cmp vdr0 vdr13
+dec vdr8
+xor word vdr2 46
+add qword vdr15 45
+and dword vdr15 22
+inc vdr12
+macro dword42033933684
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub qword vdr4 45
+add qword vdr2 69
+dec vdr3
+div word vdr7 29
+macro dword2315507051
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr0
+and byte vdr0 59
+and byte vdr9 41
+sub qword vdr7 66
+xor byte vdr13 21
+sub qword vdr9 60
+or word vdr8 39
+macro qword93249601559
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr13 14
+mul qword vdr11 30
+inc vdr10
+or byte vdr9 16
+or byte vdr15 2
+macro qword8245963285
+	# hehehehehehehehe
+end
+sub byte vdr13 19
+xor word vdr5 20
+dec vdr6
+define xor, float86011350280
+dec vdr10
+xor qword vdr3 27
+or dword vdr1 21
+mov word vdr1 24
+and word vdr11 20
+mov qword vdr5 17
+mov byte vdr12 61
+or word vdr11 16
+add qword vdr11 35
+sub byte vdr8 43
+or dword vdr12 13
+and byte vdr8 42
+mov byte vdr5 64
+cmp vdr12 vdr11
+add dword vdr3 62
+macro float40915895328
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr5 59
+mov byte vdr9 25
+xor word vdr0 10
+add qword vdr6 50
+mov byte vdr4 21
+or dword vdr0 12
+and byte vdr8 30
+xor word vdr1 53
+xor word vdr0 35
+inc vdr1
+define mov, dword40887923743
+add qword vdr1 10
+and qword vdr11 48
+define macro, word28820517208
+sub qword vdr2 21
+mul dword vdr14 9
+add byte vdr13 22
+macro qword20764747614
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr6 vdr6
+or byte vdr3 36
+xor qword vdr2 69
+mov byte vdr13 21
+inc vdr10
+div byte vdr13 45
+add dword vdr13 53
+add dword vdr0 40
+sub word vdr15 27
+or word vdr15 62
+cmp vdr5 vdr9
+mul dword vdr13 50
+mov dword vdr11 25
+macro float56952723237
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr15 52
+dec vdr7
+or dword vdr5 62
+dec vdr12
+add dword vdr1 64
+and dword vdr5 47
+macro word49426499504
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr9
+add dword vdr15 37
+add word vdr0 33
+sub dword vdr1 13
+cmp 742 6291
+macro word21416192327
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr7
+mul word vdr8 21
+mul dword vdr6 23
+define macro, qword3372383399
+add word vdr14 6
+cmp 4675 3069
+sub qword vdr0 68
+define mov, word36516649456
+and dword vdr13 64
+mov qword vdr9 17
+macro byte63148501578
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr12 9
+div word vdr7 49
+inc vdr0
+dec vdr10
+xor qword vdr13 62
+mul dword vdr0 32
+inc vdr15
+mul qword vdr8 35
+add word vdr1 7
+and word vdr7 38
+sub word vdr5 46
+dec vdr9
+define sub, word94871127092
+and dword vdr11 66
+xor word vdr7 8
+mov qword vdr14 13
+inc vdr3
+xor qword vdr11 22
+div byte vdr15 30
+mul qword vdr11 29
+cmp 1447 1071
+mov qword vdr5 59
+sub dword vdr15 15
+define mul, byte1853289835
+xor qword vdr4 54
+xor dword vdr8 44
+dec vdr8
+cmp 4936 2903
+or word vdr8 44
+div qword vdr4 68
+div qword vdr4 40
+or dword vdr6 57
+mov dword vdr12 5
+define and, byte8579143790
+or word vdr12 55
+define div, dword65752747233
+div byte vdr10 46
+dec vdr2
+inc vdr13
+xor word vdr11 7
+inc vdr7
+and dword vdr1 9
+inc vdr13
+macro byte7689699363
+	# hehehehehehehehe
+end
+div dword vdr3 35
+define cmp, qword69739977845
+div dword vdr14 68
+mul qword vdr12 44
+xor word vdr12 31
+div word vdr8 49
+macro qword33706717739
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or byte vdr15 29
+xor word vdr11 45
+mul word vdr1 27
+xor dword vdr5 68
+div qword vdr10 41
+mul word vdr9 11
+sub dword vdr5 7
+add byte vdr2 5
+define mul, dword94664995677
+dec vdr5
+add byte vdr10 45
+sub dword vdr5 22
+div byte vdr0 11
+xor dword vdr5 59
+dec vdr4
+dec vdr14
+add word vdr7 22
+macro qword57897896358
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr9
+div byte vdr12 64
+sub qword vdr6 44
+cmp 9731 1901
+define cmp, byte25431156775
+div word vdr6 48
+mov byte vdr6 8
+cmp vdr10 vdr3
+macro qword82906779655
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and byte vdr6 29
+and dword vdr12 38
+mov word vdr12 2
+xor byte vdr3 37
+or byte vdr6 18
+define dec, float87295332628
+inc vdr1
+macro byte74902121685
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr1 vdr10
+div qword vdr4 35
+mul qword vdr7 23
+dec vdr15
+mul word vdr6 54
+and qword vdr6 63
+define mul, word91793649671
+inc vdr14
+dec vdr12
+cmp 9829 182
+or qword vdr6 63
+or dword vdr7 2
+div byte vdr15 46
+macro byte91866282177
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define dec, dword47081486945
+macro float90166384932
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div word vdr10 45
+div qword vdr5 27
+or byte vdr1 55
+and dword vdr0 35
+inc vdr0
+inc vdr8
+div qword vdr13 16
+sub word vdr10 38
+xor word vdr4 51
+and dword vdr9 34
+div byte vdr6 42
+div word vdr11 35
+xor qword vdr12 37
+define inc, word91570381860
+sub dword vdr0 56
+or byte vdr11 16
+inc vdr15
+inc vdr8
+or dword vdr3 36
+inc vdr4
+add dword vdr4 6
+macro word73015066906
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul byte vdr13 43
+cmp vdr11 vdr14
+mov byte vdr4 54
+sub byte vdr9 16
+mul word vdr0 25
+define sub, byte37068010944
+xor dword vdr2 40
+mul qword vdr1 64
+cmp 7981 5157
+add qword vdr10 45
+mul qword vdr12 2
+add word vdr15 16
+dec vdr9
+xor qword vdr0 35
+and byte vdr3 33
+define div, float83922715743
+div qword vdr2 57
+xor qword vdr9 45
+sub word vdr3 19
+xor dword vdr12 27
+div word vdr14 29
+add byte vdr7 13
+sub byte vdr3 33
+xor word vdr13 55
+div word vdr8 52
+mul qword vdr5 20
+dec vdr0
+cmp 696 2953
+mov dword vdr0 69
+inc vdr14
+or byte vdr3 49
+or word vdr14 33
+add qword vdr5 26
+define mov, float54560462742
+sub qword vdr5 24
+or byte vdr1 30
+or word vdr1 29
+add dword vdr0 31
+mul word vdr0 37
+define add, word36389031380
+macro word92153707150
+	# hehehehehehehehe
+end
+xor dword vdr3 58
+inc vdr12
+xor byte vdr14 51
+or dword vdr15 30
+cmp 3148 1325
+xor qword vdr5 34
+div word vdr5 53
+div dword vdr11 15
+inc vdr2
+or byte vdr7 16
+add qword vdr15 3
+inc vdr4
+macro byte94704025875
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr2 28
+macro word67216070748
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr6
+inc vdr15
+mul dword vdr0 25
+macro word5839055905
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define div, byte33789911337
+xor dword vdr0 65
+sub word vdr0 7
+xor byte vdr12 24
+macro dword66339342702
+	# hehehehehehehehe
+end
+mov qword vdr8 61
+macro dword48389780774
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr6 68
+xor qword vdr12 47
+cmp vdr3 vdr2
+div dword vdr7 11
+define mov, qword73271462250
+mov dword vdr14 12
+and qword vdr12 62
+and qword vdr6 62
+macro dword28274798009
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr5 53
+div word vdr2 4
+xor byte vdr4 63
+mul dword vdr0 53
+add word vdr4 59
+dec vdr2
+macro dword20491711729
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and word vdr7 17
+define define, dword9293329487
+mul word vdr6 15
+macro float52934735270
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr13 25
+add qword vdr3 14
+macro byte31397262451
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr4 16
+or dword vdr13 54
+add dword vdr10 28
+mul qword vdr9 54
+inc vdr11
+mul byte vdr1 14
+sub qword vdr10 60
+inc vdr10
+mov dword vdr1 55
+mov dword vdr2 17
+div qword vdr11 41
+xor dword vdr14 34
+xor byte vdr2 12
+mov byte vdr9 22
+sub word vdr4 3
+cmp vdr8 vdr12
+sub byte vdr5 37
+or dword vdr9 59
+dec vdr5
+sub qword vdr12 20
+mov dword vdr7 8
+and word vdr8 24
+div qword vdr3 34
+dec vdr1
+dec vdr8
+mov word vdr0 8
+or byte vdr14 53
+mov byte vdr15 7
+sub word vdr4 13
+inc vdr11
+define macro, word15604047013
+add byte vdr8 5
+dec vdr4
+mul qword vdr5 45
+mov dword vdr10 37
+sub byte vdr13 61
+or dword vdr0 45
+macro float85550198061
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr1 4
+dec vdr0
+xor qword vdr11 9
+and dword vdr2 23
+mul qword vdr14 1
+sub dword vdr13 30
+macro qword21127354886
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr9 6
+add word vdr0 8
+add dword vdr11 41
+inc vdr4
+sub word vdr7 63
+and byte vdr6 51
+mul word vdr7 68
+or qword vdr13 6
+cmp vdr2 vdr7
+sub qword vdr4 19
+add byte vdr10 38
+add dword vdr3 31
+macro byte28624147324
+	# hehehehehehehehe
+end
+cmp 8777 1441
+cmp vdr9 vdr4
+sub qword vdr9 69
+add dword vdr12 67
+cmp 3737 6556
+inc vdr9
+dec vdr9
+cmp vdr13 vdr4
+cmp 6312 654
+dec vdr2
+inc vdr2
+sub byte vdr12 36
+mul dword vdr8 60
+cmp 5601 5854
+sub qword vdr12 65
+mov qword vdr2 57
+mul dword vdr1 46
+dec vdr2
+dec vdr11
+add dword vdr9 47
+dec vdr5
+and dword vdr2 49
+xor dword vdr2 56
+and byte vdr8 47
+cmp vdr12 vdr7
+macro byte32511745308
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro float4339640856
+	# hehehehehehehehe
+end
+dec vdr10
+mul dword vdr15 63
+and dword vdr2 67
+macro dword26898462876
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr8 31
+dec vdr3
+mul qword vdr3 8
+dec vdr15
+dec vdr15
+or qword vdr5 1
+define macro, byte54533697618
+define and, qword1658383786
+mov dword vdr10 18
+div word vdr2 3
+add dword vdr5 49
+xor byte vdr4 18
+mul word vdr10 3
+define dec, word5581791939
+add dword vdr0 21
+cmp vdr1 vdr6
+xor dword vdr14 52
+div word vdr13 38
+sub qword vdr13 13
+cmp 631 4847
+cmp vdr15 vdr15
+mov qword vdr15 59
+div qword vdr2 45
+or word vdr5 17
+define xor, word68258553915
+define mov, byte35672093006
+add qword vdr3 47
+mov byte vdr14 34
+cmp 7176 6051
+dec vdr2
+dec vdr6
+inc vdr9
+mul qword vdr11 15
+inc vdr15
+xor dword vdr11 69
+or byte vdr7 55
+cmp vdr8 vdr4
+define div, qword24897936815
+xor dword vdr8 19
+define macro, byte43592871307
+inc vdr3
+or word vdr14 27
+div dword vdr5 33
+mul qword vdr13 29
+or byte vdr0 3
+add byte vdr1 21
+dec vdr0
+or byte vdr1 4
+cmp 6778 1429
+macro dword9600439104
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr7
+div word vdr1 33
+macro float54842415763
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div word vdr8 41
+or dword vdr7 44
+mul word vdr13 40
+xor byte vdr9 42
+or qword vdr3 65
+dec vdr11
+inc vdr12
+xor qword vdr14 6
+or dword vdr5 23
+dec vdr9
+or dword vdr1 50
+and byte vdr11 37
+and word vdr3 53
+cmp 9479 3029
+xor dword vdr9 4
+or word vdr15 27
+and word vdr10 28
+add byte vdr10 44
+define mul, qword34885940672
+and dword vdr7 62
+sub byte vdr13 60
+define mul, float68666547828
+or word vdr14 3
+dec vdr3
+add word vdr3 33
+mul qword vdr3 16
+add byte vdr7 51
+mul dword vdr5 60
+cmp vdr12 vdr12
+sub word vdr9 38
+div word vdr4 39
+define define, dword40188122941
+inc vdr7
+add word vdr1 63
+dec vdr3
+add byte vdr0 27
+xor byte vdr14 7
+xor byte vdr10 6
+inc vdr3
+add dword vdr1 11
+mul qword vdr13 57
+cmp 3230 1749
+or byte vdr1 66
+dec vdr13
+and word vdr10 60
+and dword vdr3 60
+inc vdr1
+or qword vdr8 63
+macro float92766353496
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor word vdr7 57
+and qword vdr9 9
+dec vdr12
+cmp 7684 6870
+cmp vdr8 vdr6
+xor qword vdr1 47
+or qword vdr6 32
+sub qword vdr6 32
+macro float71582776160
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr5 49
+or qword vdr12 52
+dec vdr12
+or qword vdr3 55
+div word vdr3 61
+div dword vdr12 17
+mov qword vdr14 57
+sub word vdr1 26
+div byte vdr2 45
+and dword vdr14 36
+inc vdr8
+add dword vdr7 27
+add byte vdr0 29
+mov byte vdr12 39
+add word vdr2 10
+mul dword vdr7 44
+dec vdr6
+cmp 5370 2094
+dec vdr6
+mul byte vdr9 44
+mov dword vdr9 7
+macro qword63208507290
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define div, byte68821847009
+mov word vdr3 20
+or dword vdr1 55
+dec vdr14
+inc vdr1
+mov word vdr13 4
+or byte vdr15 50
+or dword vdr7 2
+macro dword88257936274
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr7 13
+dec vdr2
+define macro, byte89680211039
+inc vdr2
+macro dword6357662312
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 7036 3564
+add word vdr7 59
+macro byte42933420627
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro float60337785299
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define define, byte85113558177
+dec vdr1
+add qword vdr6 41
+macro qword47075795937
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr15 63
+dec vdr6
+sub qword vdr14 9
+div dword vdr4 14
+div qword vdr13 58
+sub qword vdr5 68
+define add, qword44754360712
+xor dword vdr5 67
+cmp 1571 4699
+and dword vdr0 9
+and dword vdr12 10
+dec vdr14
+dec vdr8
+define xor, word30432345478
+sub dword vdr7 62
+inc vdr12
+inc vdr6
+add dword vdr9 14
+define add, float8328241124
+div word vdr15 37
+macro byte50762984985
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr1 21
+or byte vdr13 62
+mul byte vdr2 69
+and word vdr2 68
+macro dword16922289671
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or byte vdr1 42
+macro word34857629103
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul word vdr6 30
+add byte vdr12 55
+dec vdr3
+sub qword vdr8 42
+mov qword vdr14 44
+div word vdr0 4
+cmp vdr1 vdr2
+inc vdr4
+xor qword vdr5 12
+inc vdr14
+and dword vdr13 63
+mov word vdr12 32
+inc vdr9
+sub byte vdr14 4
+mul dword vdr0 11
+define or, qword99192910068
+add word vdr12 35
+or qword vdr11 57
+sub dword vdr14 25
+mov qword vdr6 14
+and byte vdr3 54
+mov word vdr12 63
+cmp vdr13 vdr6
+define xor, byte32266216834
+or word vdr4 59
+macro float77273096392
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul dword vdr2 9
+mul dword vdr15 38
+xor byte vdr1 37
+dec vdr14
+dec vdr10
+mul dword vdr11 39
+dec vdr6
+macro float9277472431
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr12 58
+div dword vdr10 33
+div dword vdr8 5
+sub byte vdr7 64
+dec vdr2
+add qword vdr0 16
+and qword vdr2 33
+xor byte vdr11 50
+sub dword vdr0 10
+mul qword vdr3 41
+sub dword vdr9 3
+mov word vdr13 16
+cmp vdr1 vdr9
+mul dword vdr3 35
+add word vdr10 12
+add dword vdr12 56
+add byte vdr14 29
+inc vdr5
+define inc, float84467702094
+define sub, word59074179724
+xor dword vdr3 10
+and qword vdr4 8
+mul dword vdr3 62
+sub byte vdr6 64
+cmp vdr1 vdr7
+mov word vdr1 51
+define sub, word93173835783
+macro word73385018506
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr15 46
+macro word83295904790
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr2 vdr11
+define sub, float12696481299
+div byte vdr12 24
+and dword vdr11 44
+cmp vdr13 vdr11
+dec vdr5
+div dword vdr9 45
+div qword vdr7 22
+div word vdr3 16
+mov dword vdr4 43
+xor qword vdr11 64
+dec vdr3
+or dword vdr5 32
+dec vdr2
+define define, float4104231384
+dec vdr12
+macro dword94593948439
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul byte vdr0 57
+mul byte vdr4 13
+mul byte vdr11 3
+and word vdr3 14
+dec vdr3
+or qword vdr6 30
+and word vdr4 40
+cmp vdr5 vdr8
+dec vdr4
+mul dword vdr15 15
+mul byte vdr6 12
+mul word vdr1 1
+inc vdr13
+dec vdr15
+inc vdr13
+define mul, word65909848816
+and qword vdr10 2
+mov dword vdr9 8
+sub word vdr11 2
+dec vdr2
+sub byte vdr10 69
+sub word vdr12 51
+cmp 3822 8093
+add dword vdr11 36
+cmp 4098 1742
+div dword vdr0 69
+xor qword vdr1 45
+div byte vdr10 39
+mul dword vdr5 36
+div dword vdr5 55
+mov qword vdr2 46
+dec vdr13
+mul qword vdr0 28
+or byte vdr2 35
+add dword vdr14 66
+mul qword vdr6 56
+define mov, word87094077269
+mov dword vdr13 27
+or qword vdr9 62
+macro dword13121098536
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add dword vdr3 13
+add word vdr13 49
+mul dword vdr12 31
+macro qword4670818529
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define and, float92419498776
+mov byte vdr5 12
+mov dword vdr5 43
+div word vdr3 24
+or word vdr3 38
+mov byte vdr8 2
+or qword vdr7 48
+define add, dword35034715707
+div byte vdr9 6
+mov dword vdr1 14
+sub byte vdr2 22
+mul dword vdr2 21
+xor qword vdr6 66
+and dword vdr5 49
+macro qword44771675262
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr5 6
+xor byte vdr0 17
+define and, byte26342949115
+xor byte vdr15 4
+define add, byte56748227155
+and byte vdr1 54
+inc vdr1
+and qword vdr11 5
+or word vdr5 16
+mov dword vdr8 66
+cmp vdr7 vdr10
+cmp vdr7 vdr2
+add word vdr3 54
+dec vdr10
+macro word44952855512
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define sub, float64048736849
+sub word vdr9 28
+sub qword vdr7 39
+mul dword vdr7 20
+add byte vdr7 59
+define macro, qword67011974852
+div qword vdr3 21
+div word vdr9 66
+and word vdr14 49
+div dword vdr15 65
+macro dword11793686907
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr3 55
+add dword vdr8 26
+add byte vdr5 57
+macro float38562748792
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 9806 9215
+dec vdr12
+macro dword58573792507
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add word vdr15 54
+or qword vdr6 47
+define dec, float24963338010
+xor qword vdr11 21
+cmp vdr11 vdr12
+sub word vdr10 9
+inc vdr13
+mov dword vdr5 23
+mul qword vdr7 50
+div qword vdr4 15
+and qword vdr9 47
+inc vdr4
+div dword vdr9 68
+macro byte72341884517
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr6 41
+mul byte vdr15 28
+xor dword vdr9 63
+and byte vdr3 44
+inc vdr9
+inc vdr10
+macro dword83268211494
+	# hehehehehehehehe
+end
+macro word19806531789
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add byte vdr6 10
+macro word46105441476
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr11
+mov qword vdr12 12
+define cmp, word46042855461
+define div, float18274765862
+dec vdr12
+div word vdr7 56
+or word vdr14 5
+mov dword vdr7 49
+cmp 8614 3076
+or byte vdr12 23
+xor dword vdr5 56
+mul qword vdr14 56
+xor byte vdr0 40
+mov qword vdr9 25
+or dword vdr3 46
+or qword vdr3 18
+mov dword vdr7 13
+or byte vdr4 66
+inc vdr7
+xor byte vdr1 62
+dec vdr3
+inc vdr8
+or byte vdr14 25
+inc vdr0
+add byte vdr14 46
+and word vdr2 5
+or qword vdr4 38
+add word vdr8 10
+macro dword65880626330
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub qword vdr10 16
+mov byte vdr5 37
+add qword vdr13 53
+dec vdr13
+dec vdr9
+and dword vdr3 68
+xor dword vdr3 31
+and dword vdr9 66
+define sub, word66836217705
+define macro, byte65240657523
+mul dword vdr4 1
+sub dword vdr5 15
+and byte vdr4 7
+add word vdr0 57
+sub dword vdr11 18
+add word vdr14 68
+define sub, float61046485187
+mov dword vdr0 60
+dec vdr6
+mul byte vdr14 43
+div byte vdr8 50
+dec vdr11
+macro dword76455303930
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro dword9541999384
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul word vdr12 6
+mov byte vdr2 34
+define sub, float92722268995
+macro byte74793876763
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr12
+mov byte vdr8 23
+sub qword vdr3 33
+mul qword vdr2 4
+div byte vdr12 13
+div qword vdr2 69
+sub word vdr10 31
+macro dword43518380376
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr3 66
+macro byte86017300460
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add byte vdr9 8
+sub qword vdr8 59
+div word vdr12 37
+dec vdr15
+define macro, qword68842133997
+define or, byte6014894682
+or dword vdr8 42
+inc vdr4
+cmp 9206 3728
+sub word vdr7 40
+cmp 1839 7762
+define or, byte65571274427
+xor byte vdr6 8
+cmp 7589 4214
+mul dword vdr8 49
+cmp vdr13 vdr6
+sub word vdr6 61
+macro word31183756295
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr0 12
+macro dword77783383822
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr9 vdr0
+and dword vdr3 11
+cmp 7992 8471
+xor word vdr12 31
+add dword vdr13 16
+add word vdr14 66
+mov dword vdr7 63
+div byte vdr7 25
+inc vdr8
+mul dword vdr10 28
+and byte vdr8 25
+and dword vdr0 27
+define mul, qword13755873761
+dec vdr1
+sub byte vdr0 22
+inc vdr13
+and qword vdr9 16
+define cmp, word63906418962
+define mov, float69853694750
+xor word vdr9 14
+or byte vdr11 45
+macro byte67805855496
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr4
+cmp vdr2 vdr9
+sub dword vdr10 48
+dec vdr13
+mul word vdr15 59
+add dword vdr3 64
+and word vdr14 53
+div byte vdr11 37
+div byte vdr9 22
+and word vdr12 1
+div dword vdr13 61
+sub word vdr6 31
+macro dword59890426511
+	# hehehehehehehehe
+end
+mul word vdr6 13
+xor byte vdr1 54
+macro float32779180080
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr6
+mul dword vdr11 23
+macro byte81692407260
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub dword vdr4 34
+xor byte vdr4 69
+or word vdr15 35
+or dword vdr2 4
+cmp 2057 2041
+dec vdr11
+div dword vdr4 55
+add qword vdr2 47
+mov dword vdr10 15
+xor byte vdr5 35
+div qword vdr9 13
+and byte vdr9 36
+sub word vdr5 33
+inc vdr3
+sub dword vdr7 64
+sub dword vdr6 18
+inc vdr1
+inc vdr6
+and byte vdr14 40
+cmp 1753 3439
+sub dword vdr3 58
+define mov, float62248537506
+cmp vdr7 vdr0
+dec vdr10
+mov dword vdr3 58
+define add, float77404068675
+div byte vdr2 50
+or dword vdr3 62
+macro float33879300713
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr1 vdr8
+sub byte vdr15 46
+xor qword vdr9 7
+add dword vdr15 57
+div byte vdr13 40
+inc vdr2
+mov byte vdr9 12
+mov qword vdr0 53
+or word vdr3 11
+div byte vdr4 13
+cmp 7336 8647
+mov word vdr11 3
+macro word84558503403
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr13 56
+div word vdr2 33
+add word vdr2 38
+add qword vdr1 2
+mul qword vdr1 41
+xor word vdr3 23
+define div, qword91286531297
+or qword vdr4 48
+xor word vdr5 18
+or dword vdr10 59
+div qword vdr6 50
+define or, float81080525171
+define macro, float99593466473
+div byte vdr11 29
+xor byte vdr7 14
+sub dword vdr4 10
+inc vdr2
+mul qword vdr14 48
+mul qword vdr2 42
+inc vdr6
+div word vdr7 46
+macro dword37938622875
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub dword vdr12 10
+macro float61582133097
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr4 4
+macro dword7033094022
+	# hehehehehehehehe
+end
+dec vdr12
+mov byte vdr5 56
+dec vdr12
+or qword vdr8 46
+define define, float22592949732
+or qword vdr1 15
+mov word vdr13 38
+define define, float14028782053
+define xor, float97920975174
+and qword vdr8 50
+add byte vdr14 56
+inc vdr10
+define div, byte97644114174
+and qword vdr12 22
+sub qword vdr11 54
+mov word vdr5 42
+add dword vdr9 65
+define macro, byte48294461723
+mov byte vdr6 30
+define xor, word63156893243
+macro word50797795645
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr15 vdr13
+add dword vdr13 14
+mov dword vdr12 17
+cmp 7947 5823
+mul byte vdr14 59
+and word vdr8 2
+cmp vdr12 vdr13
+sub word vdr11 20
+cmp 6348 7083
+sub qword vdr2 22
+macro float95333807622
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and word vdr14 18
+inc vdr14
+xor byte vdr7 46
+mul word vdr3 5
+sub qword vdr7 24
+define add, byte33151228426
+xor dword vdr8 63
+and byte vdr6 64
+div byte vdr4 32
+dec vdr12
+sub dword vdr2 69
+cmp vdr9 vdr11
+add byte vdr2 28
+xor qword vdr14 59
+and dword vdr6 27
+or dword vdr9 26
+and word vdr14 6
+or byte vdr0 57
+div qword vdr0 27
+div dword vdr9 25
+add word vdr2 36
+inc vdr4
+macro byte60454818865
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr14
+xor word vdr7 62
+sub qword vdr6 26
+sub dword vdr7 69
+xor word vdr12 45
+inc vdr3
+add dword vdr12 55
+inc vdr12
+xor byte vdr13 26
+sub word vdr0 30
+cmp vdr13 vdr5
+mov word vdr7 6
+mul byte vdr8 9
+xor qword vdr1 51
+cmp vdr6 vdr15
+dec vdr7
+div word vdr3 29
+cmp vdr3 vdr11
+dec vdr12
+div qword vdr14 60
+add byte vdr7 54
+define dec, qword18160329061
+define xor, word47786714074
+inc vdr1
+define add, byte51278308031
+mul qword vdr1 64
+div word vdr15 14
+macro float3675967292
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr4 45
+cmp vdr12 vdr7
+cmp vdr0 vdr0
+define mov, word19101919004
+div word vdr1 8
+sub qword vdr15 13
+dec vdr0
+dec vdr4
+inc vdr15
+cmp 2078 7123
+and word vdr5 5
+mul dword vdr3 7
+dec vdr9
+inc vdr1
+mul byte vdr1 51
+mov word vdr2 18
+xor qword vdr9 32
+sub qword vdr3 7
+or byte vdr4 17
+cmp 4907 6660
+inc vdr10
+div qword vdr14 68
+inc vdr7
+div qword vdr14 34
+macro qword58021616030
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define div, qword88322924704
+mul word vdr13 56
+xor qword vdr2 12
+inc vdr3
+div byte vdr15 65
+or word vdr14 60
+xor word vdr2 30
+mul byte vdr8 55
+div qword vdr0 1
+and byte vdr14 1
+cmp vdr7 vdr2
+dec vdr5
+cmp vdr13 vdr15
+sub byte vdr12 4
+cmp 1421 5034
+div dword vdr1 12
+mov word vdr0 41
+mov byte vdr8 58
+mov dword vdr15 64
+and qword vdr2 44
+cmp vdr10 vdr0
+define mov, byte89391031884
+inc vdr8
+define and, dword44748874971
+define dec, dword65583415553
+define and, qword90375871695
+div qword vdr1 22
+mov word vdr8 26
+macro word40039945470
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div word vdr13 47
+dec vdr11
+xor word vdr11 59
+mul dword vdr0 58
+xor dword vdr0 35
+add byte vdr1 45
+and dword vdr8 21
+mul dword vdr8 4
+xor word vdr10 55
+dec vdr11
+macro word72529701252
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr11 46
+or word vdr6 58
+dec vdr11
+inc vdr2
+mul dword vdr12 23
+sub qword vdr14 39
+add qword vdr15 52
+mul byte vdr2 62
+xor dword vdr3 45
+define mul, qword52325026590
+macro qword96369494219
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define sub, byte2560842558
+mul dword vdr13 35
+or qword vdr9 45
+macro float19897098413
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr3 6
+mov byte vdr13 62
+define mov, qword16872657857
+mov byte vdr5 64
+and qword vdr1 40
+xor qword vdr7 36
+add dword vdr14 9
+macro byte247572658
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr3 10
+mov byte vdr5 58
+define define, dword93439351094
+dec vdr15
+dec vdr11
+and word vdr12 15
+mov qword vdr9 5
+or word vdr7 7
+mul dword vdr5 42
+add dword vdr0 51
+or qword vdr14 7
+dec vdr3
+mul byte vdr6 25
+macro dword8098311288
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr12 17
+mul byte vdr0 4
+inc vdr15
+cmp vdr1 vdr9
+and dword vdr1 25
+cmp vdr3 vdr1
+dec vdr11
+mov qword vdr6 22
+sub qword vdr13 13
+add qword vdr6 60
+dec vdr11
+define cmp, float83830625790
+add qword vdr2 33
+define dec, qword20554768696
+mul qword vdr8 54
+sub word vdr9 26
+add word vdr12 24
+sub byte vdr9 65
+and word vdr11 63
+and byte vdr2 13
+dec vdr15
+inc vdr5
+or qword vdr11 1
+macro word43852926406
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr7
+dec vdr12
+macro dword69018747548
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define cmp, float76108644433
+or word vdr8 54
+xor byte vdr8 48
+macro byte57737659430
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro byte60928565531
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define and, dword22049719370
+mov byte vdr12 42
+cmp vdr0 vdr4
+inc vdr6
+or qword vdr3 63
+div word vdr1 56
+xor word vdr11 17
+and word vdr10 10
+div dword vdr10 5
+sub word vdr14 9
+mov byte vdr14 34
+add qword vdr2 10
+mov byte vdr15 34
+add word vdr0 47
+define mul, float47268521710
+div word vdr10 1
+define xor, float27384644540
+and byte vdr7 55
+mov word vdr13 27
+or word vdr12 33
+macro dword74628676988
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div word vdr4 4
+mul word vdr12 49
+cmp vdr14 vdr5
+inc vdr7
+sub dword vdr15 66
+dec vdr1
+and byte vdr15 20
+inc vdr4
+define dec, float79007521035
+and qword vdr8 11
+mov qword vdr12 46
+and byte vdr3 30
+macro qword45612946680
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 8243 3785
+mul byte vdr11 18
+macro qword68597410301
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr14 21
+add byte vdr15 31
+sub word vdr8 32
+inc vdr5
+cmp 2617 1753
+mul word vdr10 33
+cmp vdr11 vdr9
+sub word vdr1 65
+mov qword vdr9 38
+add qword vdr13 34
+xor byte vdr4 21
+sub dword vdr11 40
+div dword vdr13 49
+div byte vdr2 44
+or qword vdr7 46
+div dword vdr9 54
+add byte vdr10 54
+define dec, qword47359285560
+mul word vdr3 33
+mul qword vdr2 2
+add qword vdr0 13
+sub qword vdr7 18
+and qword vdr12 68
+cmp 9282 7618
+macro word63312334735
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov byte vdr0 50
+or qword vdr7 30
+cmp 4238 4777
+macro float16424612986
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define add, float59579909003
+mul qword vdr12 53
+mul byte vdr12 60
+cmp vdr0 vdr10
+macro qword41890083866
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr13
+define dec, byte38116439649
+define dec, byte70093566288
+inc vdr10
+sub qword vdr14 57
+div byte vdr8 66
+and byte vdr11 3
+dec vdr4
+inc vdr15
+cmp 9436 2482
+cmp 2303 3902
+macro qword36643417547
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro qword96204083336
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro dword20840202240
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr11 38
+dec vdr11
+sub byte vdr9 14
+and qword vdr14 2
+and word vdr2 65
+macro qword89408227177
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr4
+xor qword vdr4 68
+div word vdr11 25
+xor dword vdr15 65
+cmp 1484 5023
+dec vdr5
+dec vdr1
+and qword vdr8 57
+mov word vdr1 49
+dec vdr7
+macro byte2906037508
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr5 vdr12
+dec vdr12
+mov dword vdr5 32
+div qword vdr9 66
+define dec, qword17242021894
+div qword vdr14 18
+sub byte vdr13 49
+mul dword vdr9 54
+define mov, word93172504457
+div dword vdr13 66
+macro qword12887779692
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and byte vdr4 13
+mul dword vdr15 23
+xor byte vdr1 23
+mov dword vdr12 30
+or word vdr3 53
+xor dword vdr15 28
+mul qword vdr15 17
+add word vdr6 18
+define sub, qword64562279069
+dec vdr11
+dec vdr5
+div dword vdr10 26
+macro byte86841615359
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr10 vdr0
+macro qword5994050771
+	# hehehehehehehehe
+end
+or word vdr7 19
+inc vdr13
+dec vdr9
+mul dword vdr13 49
+inc vdr11
+cmp 9995 8476
+define xor, byte85786133850
+and word vdr4 5
+add word vdr13 35
+or byte vdr13 42
+inc vdr5
+xor qword vdr7 14
+cmp vdr0 vdr14
+or word vdr6 48
+and dword vdr0 10
+or word vdr1 39
+add byte vdr9 7
+and word vdr4 53
+macro byte4833074626
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr7
+dec vdr4
+inc vdr9
+dec vdr6
+inc vdr12
+mul qword vdr2 63
+sub qword vdr12 14
+div dword vdr7 20
+mul qword vdr8 51
+div dword vdr7 35
+xor qword vdr1 61
+mul qword vdr0 4
+xor qword vdr11 7
+sub qword vdr8 4
+dec vdr0
+define sub, byte2938585675
+inc vdr12
+xor word vdr11 55
+macro float6750071177
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr2 60
+cmp vdr13 vdr4
+mul byte vdr8 68
+mul dword vdr0 16
+or byte vdr11 28
+div byte vdr6 17
+add byte vdr4 34
+mul word vdr3 15
+cmp 7947 7267
+inc vdr11
+define or, dword80040541438
+add qword vdr1 5
+xor byte vdr2 51
+macro dword93153541604
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr13 47
+and dword vdr3 47
+or byte vdr3 14
+sub byte vdr7 43
+div byte vdr14 49
+inc vdr12
+sub word vdr0 14
+add byte vdr14 9
+inc vdr6
+xor qword vdr13 69
+define div, dword45559799664
+xor byte vdr2 8
+xor byte vdr6 57
+add qword vdr11 58
+xor byte vdr4 65
+dec vdr8
+mov qword vdr2 6
+mov qword vdr1 1
+define sub, qword19386803713
+add qword vdr14 34
+div dword vdr14 1
+dec vdr14
+sub qword vdr7 56
+dec vdr6
+div word vdr5 45
+dec vdr8
+define define, byte61313605217
+cmp 1399 1010
+cmp 407 8403
+dec vdr11
+cmp vdr1 vdr2
+cmp vdr2 vdr12
+div qword vdr15 53
+and qword vdr14 66
+mul dword vdr12 44
+xor byte vdr3 34
+sub word vdr10 59
+or qword vdr11 47
+cmp vdr1 vdr6
+xor byte vdr9 47
+dec vdr9
+div qword vdr0 38
+cmp 4046 9083
+xor word vdr2 49
+macro word162158119
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr12 vdr9
+or dword vdr15 50
+mov dword vdr0 58
+define define, float54940858563
+sub qword vdr12 37
+macro word68800889691
+	# hehehehehehehehe
+end
+add byte vdr12 62
+add dword vdr14 62
+dec vdr3
+mov byte vdr3 28
+xor word vdr0 60
+cmp 3134 80
+mul word vdr11 56
+inc vdr15
+or byte vdr12 15
+mul word vdr14 37
+and dword vdr0 45
+dec vdr1
+sub dword vdr13 46
+define mov, word35437497779
+dec vdr15
+or dword vdr10 65
+xor qword vdr3 51
+xor byte vdr4 53
+mul qword vdr12 38
+div qword vdr0 38
+and byte vdr2 52
+dec vdr14
+and word vdr13 35
+mov qword vdr5 40
+mov word vdr1 6
+define mov, word65928055679
+sub dword vdr2 38
+mov word vdr11 34
+dec vdr13
+div word vdr5 60
+div qword vdr5 59
+mov word vdr15 65
+inc vdr11
+and byte vdr2 28
+cmp vdr7 vdr4
+dec vdr3
+cmp 6041 2797
+div byte vdr9 69
+inc vdr0
+cmp 3664 6072
+sub dword vdr10 1
+cmp vdr1 vdr10
+or byte vdr14 68
+mov dword vdr0 46
+macro float80909793902
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr6
+and byte vdr0 46
+or dword vdr5 18
+macro qword14490254030
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr10
+and qword vdr3 32
+macro qword71308145743
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr11 48
+mov word vdr13 19
+macro float85542541754
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub dword vdr10 42
+mov dword vdr5 61
+and dword vdr1 4
+mov dword vdr7 2
+mul word vdr10 39
+add word vdr0 38
+dec vdr13
+mul dword vdr3 33
+xor dword vdr2 64
+mov word vdr15 24
+inc vdr3
+define define, word74227803666
+macro word84173690488
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr11
+mul word vdr10 58
+mov byte vdr10 9
+and qword vdr9 47
+cmp vdr6 vdr7
+cmp 4830 8423
+define mul, byte25420652873
+mul qword vdr1 62
+define xor, dword65963399644
+inc vdr8
+cmp 6659 6072
+or dword vdr0 20
+div word vdr9 46
+inc vdr6
+inc vdr3
+add word vdr15 16
+define define, qword55541577647
+add qword vdr8 5
+and word vdr11 37
+mov word vdr13 1
+mov byte vdr15 48
+mov qword vdr12 46
+or qword vdr9 59
+define or, dword80442267606
+macro dword57957474444
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr5 68
+div dword vdr7 26
+sub byte vdr0 25
+xor word vdr13 25
+macro byte71689004331
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 3981 8076
+or qword vdr12 20
+dec vdr4
+dec vdr13
+cmp vdr7 vdr5
+sub qword vdr15 41
+and qword vdr3 27
+define add, float77690480516
+mov dword vdr1 2
+or qword vdr1 28
+macro word67032119841
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr7 37
+and dword vdr9 14
+mul qword vdr8 17
+dec vdr0
+dec vdr0
+mul byte vdr1 58
+or byte vdr0 2
+add qword vdr9 16
+sub dword vdr4 56
+define or, byte65839366025
+mul dword vdr0 17
+or qword vdr1 56
+xor qword vdr15 52
+define div, word51714735516
+sub word vdr14 54
+div word vdr9 22
+cmp 7402 9337
+add dword vdr3 40
+macro word47304202574
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define sub, float16567960785
+dec vdr14
+div word vdr9 59
+add qword vdr0 27
+cmp 4738 2134
+cmp 8250 2374
+add byte vdr12 14
+or dword vdr4 6
+div word vdr4 20
+dec vdr14
+div dword vdr15 63
+or word vdr0 29
+div word vdr11 2
+div dword vdr5 68
+and qword vdr5 64
+and dword vdr9 5
+add word vdr13 55
+or qword vdr8 64
+and dword vdr10 36
+define dec, byte25495215058
+mul qword vdr12 36
+cmp 8260 1852
+dec vdr9
+cmp 1621 2906
+or word vdr1 21
+div qword vdr12 68
+mov byte vdr15 19
+xor byte vdr15 14
+macro dword98370341122
+	# hehehehehehehehe
+end
+inc vdr15
+macro dword85151189588
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr7 49
+xor qword vdr0 30
+mul qword vdr13 59
+macro qword43845334269
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul word vdr1 14
+macro byte94331895146
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr13 43
+inc vdr12
+and byte vdr3 9
+or byte vdr13 69
+inc vdr15
+dec vdr9
+xor qword vdr9 43
+div word vdr10 40
+mov dword vdr10 13
+add word vdr8 19
+macro byte92454960486
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr15
+dec vdr1
+add word vdr1 60
+inc vdr6
+mul dword vdr3 1
+mul qword vdr6 30
+and qword vdr9 28
+div byte vdr7 23
+cmp 1635 1066
+add dword vdr14 42
+and dword vdr7 16
+or qword vdr3 63
+mul qword vdr6 41
+add word vdr15 20
+or word vdr15 59
+inc vdr9
+define add, dword29602930745
+inc vdr10
+mul dword vdr6 56
+add word vdr7 3
+cmp 5444 2314
+mul word vdr0 51
+mov byte vdr5 48
+mov byte vdr4 49
+mov word vdr2 6
+xor byte vdr1 15
+xor byte vdr11 30
+and dword vdr9 25
+define dec, word35386245318
+xor qword vdr0 49
+define define, word12380377413
+xor dword vdr7 60
+sub word vdr2 51
+div byte vdr12 45
+mul byte vdr0 63
+and byte vdr11 34
+cmp 9064 2955
+xor dword vdr2 20
+dec vdr14
+add qword vdr0 38
+and byte vdr3 45
+cmp 5238 7914
+define inc, qword32154884182
+div word vdr0 4
+mov byte vdr14 31
+or word vdr0 20
+div qword vdr2 36
+cmp vdr3 vdr1
+sub qword vdr8 21
+or byte vdr14 29
+or word vdr9 24
+div word vdr11 19
+and dword vdr13 31
+mul qword vdr10 53
+add dword vdr8 33
+cmp vdr13 vdr9
+add word vdr5 40
+add qword vdr5 1
+xor dword vdr14 65
+dec vdr4
+mul word vdr11 35
+mul word vdr14 46
+add dword vdr7 7
+or qword vdr11 43
+sub word vdr12 64
+add qword vdr11 25
+or qword vdr6 63
+div word vdr1 12
+or byte vdr4 45
+inc vdr3
+cmp vdr12 vdr1
+macro dword81106448815
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr7 30
+mul qword vdr5 67
+define xor, word95380746407
+mul word vdr1 49
+add qword vdr0 52
+or dword vdr5 45
+or byte vdr10 60
+inc vdr11
+xor dword vdr10 20
+xor qword vdr10 16
+add qword vdr7 67
+cmp vdr9 vdr1
+inc vdr8
+div qword vdr6 53
+and word vdr6 49
+cmp 609 4101
+or byte vdr4 49
+inc vdr1
+cmp 8461 5159
+sub byte vdr8 14
+and qword vdr5 48
+cmp vdr12 vdr15
+sub word vdr2 9
+dec vdr7
+xor word vdr1 46
+and byte vdr2 48
+mul qword vdr14 59
+mul byte vdr10 53
+add byte vdr4 47
+sub word vdr10 59
+mov dword vdr10 57
+dec vdr8
+or word vdr0 28
+sub qword vdr5 22
+and byte vdr1 7
+div byte vdr15 8
+mul byte vdr9 21
+dec vdr6
+macro float74503294699
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add word vdr0 10
+mul qword vdr5 66
+mul byte vdr12 57
+mul qword vdr14 4
+dec vdr3
+xor byte vdr1 45
+add byte vdr7 51
+mul byte vdr13 46
+div word vdr7 65
+xor dword vdr5 41
+or qword vdr10 24
+cmp vdr6 vdr1
+inc vdr3
+mov dword vdr14 60
+define or, qword48167169430
+div dword vdr0 40
+define inc, qword63707139737
+macro dword74495447054
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr12 65
+div word vdr3 12
+define cmp, byte91817708287
+div word vdr4 9
+cmp 2666 9466
+dec vdr4
+xor dword vdr6 57
+define cmp, float57225175245
+mov byte vdr0 58
+div byte vdr9 46
+cmp vdr8 vdr6
+cmp 8729 441
+mov dword vdr4 44
+define define, word8846891376
+mov word vdr0 41
+and dword vdr12 24
+macro word19807961920
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and qword vdr10 48
+sub byte vdr14 32
+mul dword vdr3 18
+div byte vdr0 66
+and word vdr15 8
+macro byte38064069233
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr4 41
+mov qword vdr6 61
+cmp 1858 7430
+define define, dword98100314563
+div word vdr8 31
+or byte vdr4 52
+mov qword vdr7 12
+add word vdr10 17
+sub word vdr9 67
+and qword vdr9 55
+mov qword vdr12 12
+or byte vdr15 36
+dec vdr6
+xor byte vdr6 65
+mul dword vdr6 16
+define mul, word56856278949
+dec vdr13
+mul word vdr12 3
+or byte vdr3 54
+dec vdr1
+dec vdr5
+cmp 5958 1097
+and byte vdr14 12
+cmp vdr14 vdr11
+sub qword vdr10 19
+add word vdr12 53
+xor word vdr2 25
+xor dword vdr5 17
+cmp vdr0 vdr8
+div byte vdr15 36
+and word vdr7 58
+add word vdr3 53
+mov byte vdr12 42
+cmp 1989 8959
+macro float66096070802
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr3 69
+mov dword vdr3 68
+sub byte vdr8 60
+xor byte vdr7 40
+div word vdr10 3
+sub qword vdr0 35
+and dword vdr8 19
+xor qword vdr15 57
+or dword vdr2 57
+cmp vdr12 vdr15
+or byte vdr5 29
+define cmp, dword20928874323
+or byte vdr12 58
+xor dword vdr13 41
+dec vdr10
+inc vdr2
+dec vdr1
+sub dword vdr6 31
+inc vdr14
+mov word vdr7 30
+and word vdr3 66
+mov dword vdr10 25
+define cmp, word75548673620
+inc vdr7
+or byte vdr1 11
+macro dword40655247067
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr6 1
+add word vdr0 60
+sub word vdr8 17
+macro byte50816034019
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul byte vdr8 56
+mul word vdr4 49
+cmp 1522 7905
+sub dword vdr5 25
+define mov, qword56824141264
+add byte vdr5 12
+div dword vdr15 3
+sub word vdr9 12
+add word vdr2 66
+macro qword18031499278
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr15 20
+sub byte vdr9 59
+mul dword vdr15 45
+sub qword vdr15 39
+or dword vdr15 47
+div dword vdr4 3
+cmp 7505 9761
+div qword vdr3 47
+or word vdr0 13
+define div, qword59616177143
+dec vdr12
+or byte vdr2 32
+dec vdr3
+define div, float92550421731
+inc vdr0
+or dword vdr11 69
+cmp vdr7 vdr6
+sub word vdr11 69
+cmp 9430 3939
+inc vdr5
+inc vdr13
+div dword vdr3 56
+and dword vdr15 2
+sub dword vdr2 35
+inc vdr7
+inc vdr1
+div word vdr9 39
+and byte vdr4 45
+div word vdr0 13
+mov byte vdr3 56
+or qword vdr5 27
+cmp vdr7 vdr6
+mov qword vdr10 12
+or qword vdr15 69
+dec vdr7
+macro byte52700464618
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define mul, byte2718149702
+add dword vdr12 6
+mov qword vdr6 43
+inc vdr12
+define xor, word57003710602
+inc vdr2
+sub word vdr6 34
+cmp 2756 2684
+add word vdr1 56
+macro qword53057195953
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add byte vdr8 62
+inc vdr5
+or word vdr1 3
+mov qword vdr4 5
+macro qword74113604787
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub dword vdr3 68
+dec vdr7
+mul dword vdr7 37
+define mul, byte28308157896
+or byte vdr4 33
+or word vdr15 25
+inc vdr14
+div dword vdr15 24
+or dword vdr2 23
+cmp vdr11 vdr6
+inc vdr15
+mul qword vdr12 53
+define and, dword4570781971
+sub word vdr2 32
+macro word41865839479
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr9 20
+mul qword vdr1 55
+div qword vdr5 26
+mov word vdr12 4
+mov word vdr9 36
+and dword vdr4 23
+mov qword vdr11 20
+xor byte vdr15 33
+and qword vdr8 27
+mov byte vdr4 60
+sub dword vdr0 62
+div dword vdr11 27
+and word vdr13 52
+cmp 8879 3635
+macro float41770470634
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and qword vdr6 54
+inc vdr3
+xor word vdr15 56
+define define, byte38420498491
+mul byte vdr6 35
+define mul, word47221256198
+sub qword vdr4 24
+define define, dword33575392674
+cmp vdr8 vdr10
+add byte vdr2 43
+xor byte vdr15 55
+sub word vdr14 6
+xor dword vdr12 6
+xor word vdr11 11
+div dword vdr0 11
+dec vdr3
+sub dword vdr12 34
+mov word vdr1 6
+dec vdr14
+macro qword64254405000
+	# hehehehehehehehe
+end
+div byte vdr8 50
+and qword vdr14 55
+div byte vdr1 68
+dec vdr14
+sub qword vdr1 59
+and dword vdr8 7
+or byte vdr5 61
+mov dword vdr8 14
+macro float40323492017
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr11 34
+define add, dword11632988565
+macro word45290804012
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro float89672982951
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr3 37
+mov byte vdr1 23
+mov word vdr12 65
+define add, float75869100665
+cmp vdr9 vdr0
+dec vdr1
+define sub, float40601307993
+or byte vdr11 12
+cmp 9751 4842
+cmp 4842 5058
+sub word vdr9 31
+and byte vdr10 46
+add word vdr13 67
+mul byte vdr15 66
+dec vdr12
+add byte vdr1 29
+xor qword vdr5 10
+inc vdr7
+inc vdr14
+xor dword vdr8 66
+macro byte84002508843
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro byte20122417564
+	# hehehehehehehehe
+end
+mul byte vdr3 58
+sub byte vdr3 58
+inc vdr9
+and dword vdr2 61
+div dword vdr1 10
+or qword vdr4 35
+div dword vdr13 66
+add dword vdr14 38
+define add, dword88536753060
+dec vdr0
+mul byte vdr8 2
+cmp 7792 3139
+inc vdr1
+mov qword vdr1 34
+dec vdr6
+or qword vdr14 26
+mul qword vdr12 6
+inc vdr8
+div word vdr11 12
+xor dword vdr0 13
+define inc, word43650920160
+macro word38297006706
+	# hehehehehehehehe
+end
+macro dword75448671219
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr1 vdr11
+add dword vdr4 33
+and word vdr10 38
+and byte vdr8 14
+or dword vdr7 58
+add qword vdr0 26
+define xor, qword597003797
+add dword vdr3 14
+and dword vdr10 33
+div dword vdr9 2
+div byte vdr12 12
+and dword vdr0 9
+or byte vdr11 67
+sub byte vdr6 44
+dec vdr4
+inc vdr13
+mov qword vdr13 37
+div byte vdr3 57
+define cmp, float52066980943
+sub byte vdr9 64
+cmp vdr11 vdr10
+add dword vdr7 53
+xor dword vdr12 3
+xor word vdr2 24
+cmp 3601 2309
+xor word vdr14 35
+mov dword vdr0 52
+add byte vdr7 12
+dec vdr13
+div word vdr3 66
+sub word vdr9 62
+inc vdr7
+macro qword2485225482
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr13 22
+dec vdr8
+and dword vdr0 63
+mul byte vdr8 4
+macro qword79500467876
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define inc, byte4516498345
+inc vdr2
+inc vdr1
+mul word vdr13 38
+and qword vdr1 24
+macro byte23776837402
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub dword vdr7 7
+cmp vdr0 vdr13
+inc vdr4
+sub qword vdr15 42
+mov word vdr15 69
+or qword vdr1 13
+mul byte vdr12 25
+and qword vdr1 29
+or word vdr12 47
+add word vdr4 14
+sub qword vdr1 42
+define mul, float7165387743
+sub byte vdr8 30
+dec vdr8
+cmp 6792 856
+dec vdr15
+inc vdr3
+macro float67985628348
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr13 6
+xor word vdr6 56
+mov dword vdr2 49
+inc vdr13
+and word vdr15 42
+or byte vdr13 38
+sub byte vdr10 4
+xor dword vdr5 14
+or qword vdr13 65
+define mul, byte6148031447
+define mov, dword44481120955
+add word vdr12 58
+sub word vdr6 40
+inc vdr10
+define cmp, dword93440061980
+add dword vdr7 56
+mul qword vdr15 24
+add byte vdr13 69
+xor word vdr2 20
+sub word vdr0 27
+dec vdr12
+define sub, float4570184230
+mov byte vdr8 23
+div byte vdr6 36
+inc vdr2
+inc vdr2
+and word vdr9 49
+mov dword vdr1 15
+cmp vdr11 vdr3
+dec vdr6
+sub byte vdr5 56
+sub word vdr1 68
+and dword vdr13 48
+xor byte vdr12 51
+div dword vdr9 9
+macro byte65613536325
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr3 46
+cmp 3965 643
+or qword vdr4 63
+sub word vdr0 53
+mov word vdr8 14
+or word vdr5 61
+and qword vdr7 2
+sub dword vdr7 5
+inc vdr6
+macro byte13470086991
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr15 44
+macro dword33392078249
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr13
+define mul, byte68344230751
+dec vdr9
+xor byte vdr0 4
+and qword vdr12 33
+sub word vdr7 14
+mov byte vdr2 6
+or byte vdr9 61
+sub word vdr12 59
+sub byte vdr7 47
+add dword vdr11 52
+xor qword vdr13 50
+mul word vdr7 6
+mov word vdr3 27
+inc vdr1
+sub dword vdr4 37
+inc vdr11
+cmp 2166 4226
+define inc, float75046705307
+and byte vdr3 8
+add dword vdr11 30
+xor dword vdr8 4
+mul dword vdr5 16
+mul byte vdr12 10
+xor dword vdr8 61
+sub word vdr6 59
+sub word vdr5 31
+div word vdr9 18
+inc vdr9
+div word vdr4 37
+inc vdr12
+mov byte vdr8 45
+and word vdr1 27
+and byte vdr0 9
+cmp vdr11 vdr13
+or word vdr11 6
+or dword vdr9 3
+mul byte vdr13 42
+add qword vdr2 59
+macro byte8845354417
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul word vdr1 13
+define mul, float44243406526
+mov qword vdr8 58
+div word vdr0 63
+macro word52693547817
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr10
+inc vdr5
+div byte vdr1 11
+mov dword vdr5 31
+cmp 1992 4045
+mov byte vdr9 34
+define mul, float38292261392
+dec vdr1
+dec vdr5
+mov qword vdr9 32
+inc vdr4
+xor dword vdr15 12
+xor byte vdr4 1
+dec vdr8
+or byte vdr14 27
+or byte vdr2 65
+xor qword vdr15 33
+dec vdr8
+macro float80088897111
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add qword vdr6 55
+or qword vdr6 43
+and byte vdr14 58
+div qword vdr8 44
+mov qword vdr10 67
+or qword vdr6 56
+mul byte vdr13 32
+inc vdr3
+mov qword vdr3 24
+inc vdr3
+mul byte vdr5 64
+mov byte vdr13 54
+xor byte vdr2 50
+inc vdr14
+xor dword vdr8 39
+macro dword83972564181
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div word vdr4 16
+add word vdr11 30
+sub qword vdr8 52
+add byte vdr15 11
+inc vdr0
+cmp vdr12 vdr9
+dec vdr7
+macro dword94189415508
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr13
+sub dword vdr2 4
+mul word vdr7 25
+and dword vdr5 37
+dec vdr11
+add word vdr11 39
+or dword vdr9 41
+inc vdr6
+or word vdr15 47
+dec vdr9
+and qword vdr10 62
+dec vdr0
+macro byte5426355451
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr5 12
+define div, dword66630258165
+mul dword vdr9 22
+or word vdr11 36
+and word vdr7 15
+xor dword vdr5 1
+and dword vdr3 58
+define cmp, float63325637141
+and byte vdr4 29
+inc vdr4
+mul word vdr5 5
+define xor, word33472012946
+dec vdr15
+and dword vdr13 27
+add dword vdr4 45
+inc vdr2
+and dword vdr7 40
+div word vdr9 65
+mov qword vdr6 42
+dec vdr12
+cmp vdr4 vdr8
+mov dword vdr12 68
+define mul, qword66479633995
+and word vdr1 19
+cmp 3551 2869
+inc vdr14
+and word vdr4 21
+or word vdr3 23
+and dword vdr10 11
+dec vdr11
+and qword vdr9 17
+mul dword vdr7 55
+add dword vdr10 50
+xor qword vdr1 20
+dec vdr9
+xor dword vdr0 4
+and dword vdr6 68
+macro qword40166134085
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr10
+inc vdr8
+define inc, dword37035085654
+or word vdr1 6
+define add, dword33086680040
+sub dword vdr1 69
+add word vdr11 4
+or qword vdr9 59
+and word vdr4 19
+mul word vdr14 56
+or dword vdr8 12
+macro qword66657055024
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr4 vdr9
+mul qword vdr5 31
+define define, qword3974709935
+mul dword vdr7 68
+add word vdr9 35
+cmp 6384 647
+mov qword vdr13 31
+dec vdr9
+add word vdr11 49
+and dword vdr0 36
+cmp 9553 2518
+macro word69643238408
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor dword vdr9 21
+define sub, word98389239377
+mov qword vdr10 53
+dec vdr6
+xor byte vdr3 29
+sub qword vdr12 52
+dec vdr10
+macro dword54987653616
+	# hehehehehehehehe
+end
+xor byte vdr12 36
+add word vdr3 53
+cmp vdr7 vdr6
+macro byte96949052541
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr6
+define mul, word75640859107
+inc vdr11
+sub word vdr15 69
+define add, dword21808446324
+inc vdr7
+dec vdr0
+xor byte vdr14 62
+add byte vdr8 5
+xor byte vdr14 62
+inc vdr14
+define cmp, qword95291476863
+or word vdr8 22
+div word vdr3 44
+inc vdr0
+div word vdr7 66
+xor word vdr13 30
+mul dword vdr11 59
+div qword vdr7 10
+mov dword vdr10 50
+define div, byte47672204373
+add dword vdr6 12
+mul qword vdr13 32
+mul qword vdr7 59
+cmp vdr2 vdr8
+inc vdr1
+dec vdr5
+inc vdr7
+dec vdr7
+dec vdr15
+div dword vdr9 40
+dec vdr0
+mul qword vdr10 42
+xor dword vdr9 36
+macro byte57406386148
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define macro, qword59310868439
+sub dword vdr15 58
+add dword vdr0 28
+dec vdr10
+mov dword vdr11 56
+and word vdr13 48
+sub dword vdr1 18
+mov word vdr13 45
+cmp vdr8 vdr15
+define define, byte62965278617
+inc vdr7
+inc vdr8
+xor qword vdr9 4
+sub byte vdr3 68
+xor byte vdr0 44
+dec vdr3
+mov dword vdr10 65
+sub byte vdr6 65
+define inc, float55986545268
+div dword vdr13 11
+sub qword vdr4 23
+dec vdr15
+add byte vdr1 65
+mov byte vdr9 60
+mul dword vdr14 62
+define mul, float80666318672
+add word vdr3 25
+mov qword vdr15 12
+add word vdr5 68
+dec vdr0
+div dword vdr13 33
+or word vdr14 43
+add qword vdr10 26
+define add, word56306125066
+add qword vdr13 1
+and byte vdr10 17
+mul byte vdr2 14
+or byte vdr15 13
+macro byte92112258916
+	# hehehehehehehehe
+end
+mul byte vdr1 28
+define sub, dword41130453319
+dec vdr13
+cmp vdr3 vdr14
+and dword vdr2 4
+mov dword vdr3 9
+or byte vdr11 25
+mul dword vdr8 63
+macro byte33788769909
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor qword vdr8 54
+inc vdr9
+macro dword44620729727
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul word vdr0 2
+div word vdr11 32
+macro float37368969409
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or byte vdr0 38
+sub dword vdr12 46
+and byte vdr4 64
+or dword vdr6 6
+or word vdr1 36
+macro byte34220566886
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul dword vdr3 40
+cmp 8855 7819
+macro byte12070529280
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr9 22
+add word vdr6 67
+add word vdr11 55
+div qword vdr6 64
+dec vdr13
+dec vdr10
+mov qword vdr3 52
+xor dword vdr13 28
+and byte vdr4 17
+sub dword vdr0 17
+inc vdr5
+cmp 7936 8007
+or dword vdr8 38
+dec vdr1
+and qword vdr6 1
+dec vdr0
+dec vdr8
+div byte vdr6 5
+sub dword vdr11 63
+dec vdr13
+and byte vdr3 30
+dec vdr3
+mul byte vdr15 38
+xor byte vdr5 24
+xor dword vdr12 50
+xor word vdr11 11
+define macro, dword48619516785
+mul dword vdr12 68
+add dword vdr7 31
+inc vdr7
+mul word vdr15 16
+xor byte vdr11 29
+cmp vdr4 vdr14
+xor byte vdr1 26
+div dword vdr15 35
+div word vdr10 20
+cmp vdr4 vdr7
+sub qword vdr12 26
+sub qword vdr2 3
+cmp vdr6 vdr4
+sub dword vdr1 1
+mov word vdr3 5
+add dword vdr0 2
+mul qword vdr11 48
+mul qword vdr7 43
+xor dword vdr3 48
+and dword vdr6 24
+dec vdr10
+or qword vdr0 58
+dec vdr0
+cmp vdr5 vdr7
+macro qword17152791717
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr1 30
+cmp vdr7 vdr13
+dec vdr10
+mov dword vdr11 39
+cmp vdr3 vdr8
+dec vdr14
+define macro, word48858175697
+sub qword vdr15 45
+mul dword vdr11 53
+add byte vdr9 16
+mov qword vdr5 10
+macro dword57773144484
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro word13951528542
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define or, float39113703084
+dec vdr2
+mul dword vdr6 65
+and byte vdr10 43
+and qword vdr3 16
+macro word29993428424
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr5 vdr0
+macro word88978079401
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr9
+mov qword vdr3 6
+macro qword55168469890
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 4342 5546
+and dword vdr3 19
+sub byte vdr13 54
+inc vdr13
+and dword vdr7 13
+and word vdr8 37
+cmp vdr5 vdr2
+dec vdr11
+dec vdr5
+xor word vdr0 13
+cmp 4404 4690
+inc vdr15
+add byte vdr1 59
+and byte vdr11 31
+dec vdr9
+inc vdr6
+inc vdr10
+add word vdr9 15
+mul dword vdr12 65
+or word vdr12 64
+define xor, qword54266999949
+mov byte vdr8 7
+div qword vdr14 17
+div qword vdr0 30
+inc vdr1
+dec vdr11
+and dword vdr9 15
+mov byte vdr2 58
+and byte vdr5 56
+macro qword16594820568
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub word vdr10 44
+and qword vdr10 17
+define dec, dword35644808628
+inc vdr1
+add qword vdr0 5
+mov dword vdr15 37
+define and, dword5527364613
+add byte vdr12 6
+macro float21373241766
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr6 62
+mov qword vdr4 39
+or byte vdr12 1
+sub dword vdr9 56
+or dword vdr6 58
+add byte vdr14 1
+inc vdr11
+define add, byte76938057347
+cmp 4765 8552
+div word vdr11 21
+dec vdr1
+mul byte vdr8 8
+div qword vdr6 21
+inc vdr4
+sub qword vdr8 19
+add byte vdr15 48
+sub dword vdr15 62
+sub dword vdr4 10
+cmp 6971 1302
+sub dword vdr3 23
+define xor, qword87659005307
+macro word26890816382
+	# hehehehehehehehe
+end
+or dword vdr3 1
+sub byte vdr6 7
+mov dword vdr2 20
+sub word vdr11 43
+macro float54851782595
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and byte vdr0 10
+xor dword vdr13 23
+define div, qword19501986834
+sub dword vdr6 61
+inc vdr2
+inc vdr2
+add dword vdr12 2
+div word vdr6 30
+define or, byte13566895417
+inc vdr5
+mul dword vdr2 18
+div dword vdr11 3
+xor dword vdr2 14
+mul dword vdr6 19
+mov byte vdr1 57
+or byte vdr2 44
+and dword vdr9 7
+add word vdr13 57
+sub qword vdr6 8
+div dword vdr7 32
+cmp 7082 7244
+dec vdr0
+dec vdr1
+xor dword vdr0 29
+mov byte vdr12 43
+macro byte71592315505
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define and, word35419973122
+and dword vdr5 63
+dec vdr7
+or word vdr10 36
+inc vdr15
+xor byte vdr0 9
+mul word vdr15 29
+macro word30076517857
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor dword vdr9 6
+define sub, qword10831245903
+or dword vdr9 60
+and qword vdr5 46
+xor dword vdr8 28
+cmp 7923 4677
+inc vdr15
+xor word vdr13 49
+macro qword39078362066
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr15
+xor word vdr10 63
+inc vdr7
+add byte vdr9 13
+div qword vdr15 57
+define define, byte6854041984
+inc vdr5
+macro float1164380875
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div qword vdr13 36
+dec vdr14
+or byte vdr10 58
+cmp vdr7 vdr0
+inc vdr6
+dec vdr3
+cmp vdr2 vdr3
+macro byte12213493225
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr15 27
+xor qword vdr3 29
+mul dword vdr3 25
+dec vdr5
+xor dword vdr15 26
+mov byte vdr11 52
+div dword vdr4 12
+or byte vdr9 4
+div byte vdr7 10
+macro dword57920120490
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define mul, float67516941300
+mov byte vdr5 68
+xor byte vdr3 57
+inc vdr3
+xor word vdr5 63
+div dword vdr13 66
+and dword vdr6 21
+mul qword vdr5 56
+add byte vdr14 47
+add dword vdr12 33
+sub qword vdr2 2
+mul dword vdr5 56
+inc vdr5
+sub word vdr1 18
+define and, byte10544835831
+inc vdr6
+mov dword vdr2 67
+define mov, byte87737180082
+macro word60614625121
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define inc, byte99576061562
+or byte vdr10 59
+div byte vdr4 67
+div qword vdr9 55
+add word vdr14 18
+div byte vdr12 6
+sub word vdr0 24
+cmp 8441 8911
+add byte vdr13 31
+or qword vdr11 36
+dec vdr15
+mul byte vdr12 35
+sub qword vdr1 22
+add word vdr14 56
+div qword vdr12 29
+dec vdr8
+xor word vdr7 46
+cmp 4377 2966
+inc vdr5
+mov dword vdr14 28
+macro qword56322708046
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro qword67608585585
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr15 23
+cmp vdr4 vdr12
+xor word vdr6 34
+div dword vdr13 46
+define mul, byte34367422905
+add dword vdr12 45
+mul byte vdr13 10
+or byte vdr4 46
+dec vdr12
+sub dword vdr3 13
+cmp vdr4 vdr15
+mov word vdr0 58
+define cmp, dword46456019456
+div word vdr3 11
+add dword vdr8 52
+cmp 4182 5877
+inc vdr3
+and dword vdr1 20
+add dword vdr6 66
+xor dword vdr9 46
+and byte vdr1 51
+mul byte vdr8 24
+dec vdr8
+mov dword vdr10 62
+sub byte vdr4 11
+or dword vdr11 3
+inc vdr10
+or byte vdr9 60
+cmp 8718 2933
+mul word vdr0 9
+xor word vdr14 47
+sub dword vdr10 67
+xor byte vdr3 35
+add dword vdr0 67
+mul byte vdr7 47
+define cmp, dword78261889755
+mul word vdr9 33
+cmp 8941 9128
+inc vdr0
+add qword vdr8 64
+define div, byte35703955003
+dec vdr0
+dec vdr13
+inc vdr15
+cmp vdr2 vdr6
+mov qword vdr7 43
+add byte vdr2 5
+div byte vdr5 37
+mov dword vdr0 13
+inc vdr7
+or qword vdr3 35
+div byte vdr7 67
+define mul, float67937516529
+dec vdr5
+sub dword vdr2 43
+xor dword vdr8 49
+cmp 7330 5392
+inc vdr9
+xor qword vdr6 54
+and byte vdr4 48
+or word vdr6 31
+add dword vdr1 59
+add qword vdr15 62
+add byte vdr11 21
+div byte vdr11 60
+cmp vdr2 vdr4
+sub word vdr0 58
+macro dword84242452273
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr4 44
+dec vdr12
+inc vdr7
+add dword vdr8 30
+inc vdr2
+xor word vdr3 50
+and dword vdr11 1
+define sub, dword79224841350
+define macro, byte65951769618
+macro word13993268645
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro byte98033001487
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr14 4
+define macro, dword78020065699
+or qword vdr14 65
+sub qword vdr7 41
+cmp 395 3738
+add word vdr5 46
+dec vdr6
+mov dword vdr13 41
+add word vdr15 34
+macro word98446643210
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr10 33
+add qword vdr2 30
+inc vdr10
+inc vdr12
+mov dword vdr5 60
+mul word vdr2 61
+add word vdr14 11
+add dword vdr10 45
+xor word vdr10 32
+define sub, dword41697148226
+define and, dword21723647594
+macro byte85626020325
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro word79253700226
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or byte vdr10 34
+xor dword vdr11 61
+or dword vdr13 20
+mul dword vdr6 54
+inc vdr0
+and qword vdr15 25
+macro float25061202991
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define mov, word51962846072
+xor word vdr13 52
+dec vdr3
+define macro, word13972037403
+dec vdr8
+macro word15360644051
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr0 14
+div word vdr5 36
+sub byte vdr14 39
+mov dword vdr7 49
+mov word vdr12 36
+div word vdr3 52
+macro qword78962126031
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr14 vdr11
+mov word vdr0 27
+inc vdr15
+mov dword vdr13 53
+macro dword41568552877
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and byte vdr8 27
+add word vdr3 9
+macro byte47547894712
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor word vdr11 34
+cmp 7280 2906
+or byte vdr3 43
+define add, word14925787923
+mul word vdr0 34
+dec vdr0
+inc vdr14
+macro dword90350707106
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define sub, word65658447464
+define mul, qword95339230727
+and byte vdr13 61
+macro byte50902936177
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div word vdr14 3
+mul byte vdr0 68
+xor dword vdr6 65
+add word vdr11 28
+sub qword vdr3 55
+and qword vdr4 5
+xor qword vdr7 38
+div word vdr0 60
+dec vdr14
+and qword vdr2 20
+mov qword vdr12 37
+and qword vdr3 21
+sub qword vdr10 3
+macro word93999628700
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 9509 5587
+inc vdr13
+sub dword vdr2 4
+mov word vdr8 3
+and word vdr13 35
+add qword vdr3 24
+macro qword55458515695
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro float70258967854
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr11 42
+inc vdr13
+inc vdr0
+dec vdr9
+mul word vdr12 57
+div qword vdr15 58
+div qword vdr8 19
+mov byte vdr6 37
+or qword vdr4 69
+mul dword vdr5 49
+and byte vdr5 38
+or dword vdr15 7
+xor word vdr11 16
+define or, byte63788383739
+dec vdr9
+and qword vdr4 64
+xor word vdr6 63
+add dword vdr0 10
+and byte vdr12 7
+div dword vdr8 28
+div byte vdr0 59
+macro word56927276965
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and qword vdr7 63
+sub dword vdr0 18
+dec vdr14
+inc vdr1
+add word vdr11 5
+sub dword vdr13 63
+and word vdr15 11
+and byte vdr2 46
+sub dword vdr1 4
+add dword vdr10 54
+define define, byte86189179547
+sub word vdr14 13
+xor word vdr7 40
+add word vdr11 13
+add qword vdr4 17
+xor word vdr0 12
+mov word vdr3 3
+inc vdr15
+macro float94385523045
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov byte vdr3 23
+inc vdr11
+cmp 6547 3081
+inc vdr9
+inc vdr0
+xor dword vdr14 4
+or qword vdr15 8
+dec vdr9
+xor qword vdr2 54
+sub dword vdr1 67
+macro word56153216486
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr1
+mov qword vdr11 34
+dec vdr12
+add dword vdr13 11
+mul qword vdr7 35
+mov word vdr1 53
+sub qword vdr3 15
+dec vdr11
+sub qword vdr11 47
+cmp vdr12 vdr4
+div word vdr13 62
+inc vdr5
+inc vdr2
+or dword vdr15 52
+dec vdr3
+sub qword vdr11 50
+define xor, float25647274922
+xor dword vdr0 42
+xor byte vdr0 7
+or word vdr2 60
+xor byte vdr5 69
+mul byte vdr5 15
+add qword vdr8 69
+and byte vdr9 17
+div dword vdr11 56
+mov word vdr15 44
+mov qword vdr15 12
+add word vdr6 33
+add dword vdr7 58
+macro float84616429137
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr2
+define dec, byte53683633974
+add word vdr5 36
+sub dword vdr0 68
+mul dword vdr12 10
+xor byte vdr15 3
+or qword vdr9 64
+and byte vdr5 40
+div byte vdr13 15
+inc vdr5
+macro dword87634435072
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor word vdr14 47
+define xor, float13370048322
+mov word vdr7 61
+and qword vdr9 44
+define xor, word75312169563
+macro qword44709564177
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor qword vdr11 3
+define mov, float3204239406
+add word vdr7 65
+mov qword vdr1 17
+add word vdr7 50
+sub byte vdr3 54
+add dword vdr7 20
+and dword vdr2 16
+or byte vdr9 37
+cmp vdr12 vdr5
+mov qword vdr11 50
+sub word vdr7 58
+mul qword vdr3 12
+and byte vdr1 38
+cmp vdr3 vdr12
+add word vdr14 2
+sub byte vdr3 34
+inc vdr2
+define cmp, word64154113114
+inc vdr12
+and word vdr2 41
+or qword vdr14 49
+inc vdr15
+add word vdr3 6
+mov word vdr8 4
+add word vdr8 24
+define add, byte75120736177
+dec vdr10
+dec vdr9
+inc vdr13
+mul dword vdr10 44
+add dword vdr12 43
+dec vdr4
+cmp vdr14 vdr13
+define xor, byte11180081118
+inc vdr7
+cmp 3300 9066
+dec vdr11
+div word vdr5 30
+cmp vdr12 vdr15
+sub word vdr0 37
+div byte vdr4 20
+sub word vdr4 68
+define add, dword11757345555
+mul byte vdr3 31
+cmp 9918 383
+macro byte36283222163
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr2 vdr4
+mul qword vdr15 51
+div dword vdr11 61
+add byte vdr10 53
+div qword vdr13 47
+sub qword vdr10 28
+dec vdr3
+or qword vdr2 15
+inc vdr8
+cmp vdr9 vdr0
+cmp vdr13 vdr14
+inc vdr14
+mov byte vdr0 27
+dec vdr2
+div qword vdr5 13
+define inc, qword4083662220
+or dword vdr7 1
+sub qword vdr6 30
+or byte vdr0 69
+sub dword vdr12 4
+dec vdr10
+sub qword vdr12 60
+or word vdr7 60
+add qword vdr2 56
+mul word vdr2 19
+xor qword vdr9 43
+define dec, byte41719398665
+cmp vdr5 vdr3
+inc vdr7
+and dword vdr12 41
+and word vdr2 16
+macro byte63011050446
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr7
+sub word vdr1 42
+div dword vdr1 45
+sub dword vdr9 25
+sub qword vdr10 56
+mov word vdr0 50
+sub byte vdr5 28
+sub dword vdr6 55
+dec vdr5
+define cmp, float391493024
+mov dword vdr12 45
+mov qword vdr14 50
+and word vdr14 55
+xor dword vdr10 34
+and byte vdr15 9
+div qword vdr6 54
+xor qword vdr1 42
+mov dword vdr3 19
+inc vdr13
+and byte vdr10 61
+xor qword vdr3 32
+define add, word57590028345
+cmp 2326 7356
+inc vdr10
+mov dword vdr6 27
+dec vdr15
+define mov, dword62912985200
+mul qword vdr5 26
+mul qword vdr5 20
+mov byte vdr4 19
+div qword vdr3 8
+mul word vdr7 48
+sub dword vdr4 54
+define mov, qword64879465589
+define or, float72030796249
+add dword vdr8 63
+sub word vdr4 55
+dec vdr4
+sub byte vdr6 60
+xor byte vdr8 27
+mov qword vdr6 34
+sub dword vdr8 54
+mov dword vdr13 18
+cmp vdr4 vdr12
+dec vdr2
+macro byte62903572828
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr8
+macro dword13624086501
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr1 18
+add qword vdr8 60
+add word vdr0 20
+dec vdr12
+mul dword vdr2 8
+mul byte vdr2 58
+xor word vdr7 40
+xor word vdr3 7
+xor word vdr14 2
+or byte vdr7 22
+macro dword16296486758
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr9 24
+cmp 5508 3827
+inc vdr13
+inc vdr14
+inc vdr3
+sub qword vdr5 17
+inc vdr9
+dec vdr3
+add byte vdr7 35
+add word vdr11 50
+and byte vdr2 52
+div word vdr5 43
+add byte vdr1 54
+mul word vdr8 44
+cmp vdr3 vdr2
+dec vdr3
+or byte vdr4 9
+or dword vdr8 60
+xor byte vdr12 54
+xor qword vdr15 68
+xor byte vdr4 59
+mul dword vdr3 18
+macro qword30298590677
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr12
+div byte vdr7 62
+define add, qword18441315970
+define and, byte34883774295
+cmp vdr2 vdr11
+cmp 6319 7771
+mov dword vdr14 43
+add byte vdr7 25
+xor word vdr14 45
+add byte vdr3 44
+and dword vdr15 31
+div byte vdr4 28
+or dword vdr3 54
+xor qword vdr14 22
+mul word vdr6 11
+xor qword vdr9 66
+or qword vdr14 50
+mov dword vdr8 12
+and byte vdr11 39
+inc vdr11
+sub word vdr13 56
+sub word vdr14 60
+and qword vdr5 45
+cmp vdr2 vdr2
+cmp 6198 4647
+xor dword vdr3 6
+inc vdr10
+add dword vdr15 42
+div byte vdr1 33
+xor word vdr13 62
+sub word vdr4 25
+xor byte vdr3 10
+inc vdr13
+dec vdr15
+sub qword vdr15 14
+and dword vdr6 10
+xor byte vdr2 16
+macro qword16891103429
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr8 40
+div word vdr14 33
+mul word vdr7 62
+dec vdr4
+define div, qword96915428635
+mul byte vdr13 47
+dec vdr4
+or byte vdr11 16
+cmp vdr13 vdr9
+mov dword vdr15 29
+define inc, dword49861585684
+or dword vdr1 26
+inc vdr5
+mul word vdr11 6
+dec vdr12
+div dword vdr12 15
+dec vdr3
+sub word vdr11 43
+dec vdr11
+mul dword vdr4 13
+xor dword vdr9 62
+div word vdr9 57
+dec vdr2
+dec vdr13
+inc vdr9
+cmp vdr14 vdr4
+define inc, word74802626807
+mov byte vdr3 2
+mul byte vdr15 26
+dec vdr6
+mov word vdr11 15
+dec vdr10
+sub word vdr13 59
+cmp 6603 4128
+inc vdr12
+mov word vdr2 15
+mov byte vdr9 55
+mul byte vdr3 69
+xor dword vdr3 20
+macro float36831196128
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr14 32
+mov word vdr14 1
+macro dword35671222232
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add byte vdr11 62
+cmp vdr3 vdr10
+or byte vdr12 59
+inc vdr11
+dec vdr0
+or dword vdr9 13
+define xor, dword60298120445
+mov dword vdr10 11
+and dword vdr5 52
+mov dword vdr14 39
+div word vdr5 68
+or word vdr3 57
+mov byte vdr10 14
+cmp vdr6 vdr12
+dec vdr9
+mov qword vdr8 21
+or dword vdr13 16
+div qword vdr9 38
+div word vdr13 48
+div byte vdr4 3
+div dword vdr9 57
+macro dword86304550994
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define dec, qword77981763452
+macro float46487773978
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr1
+sub word vdr11 15
+div word vdr10 41
+inc vdr10
+inc vdr5
+define add, byte61353407634
+macro float38192807041
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul byte vdr0 19
+xor qword vdr13 15
+xor word vdr5 12
+define add, word30041923244
+or byte vdr11 12
+inc vdr13
+xor qword vdr11 66
+or dword vdr10 64
+xor word vdr4 50
+add byte vdr15 12
+and word vdr1 8
+div qword vdr1 16
+macro qword36078224392
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 2564 771
+and byte vdr12 65
+mov word vdr10 47
+sub byte vdr1 36
+or word vdr3 46
+inc vdr15
+mul dword vdr14 21
+mov dword vdr15 22
+mul word vdr9 40
+dec vdr12
+or qword vdr7 39
+inc vdr9
+add qword vdr1 3
+define dec, float86946709809
+inc vdr15
+inc vdr5
+cmp vdr10 vdr8
+cmp 2901 7675
+dec vdr1
+div dword vdr6 16
+div word vdr5 6
+div qword vdr3 32
+or word vdr9 54
+or word vdr1 52
+div dword vdr12 5
+div word vdr9 62
+or word vdr10 3
+div dword vdr4 35
+define sub, byte42276368263
+sub byte vdr1 38
+or word vdr4 7
+or qword vdr8 4
+add dword vdr2 43
+or word vdr1 50
+mul word vdr4 36
+dec vdr14
+macro float57068089684
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and byte vdr7 3
+cmp vdr12 vdr11
+sub word vdr2 56
+add word vdr2 24
+macro float50736829873
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov qword vdr3 9
+define and, dword95644819105
+sub dword vdr14 4
+inc vdr8
+cmp 2866 5142
+mul dword vdr10 46
+define sub, byte73998891343
+or qword vdr1 2
+mov byte vdr8 27
+div qword vdr0 35
+mov qword vdr2 13
+or dword vdr5 28
+inc vdr10
+inc vdr9
+cmp 691 7656
+inc vdr15
+xor qword vdr5 18
+and qword vdr10 19
+cmp vdr8 vdr7
+or word vdr7 37
+add dword vdr5 37
+and qword vdr12 47
+inc vdr9
+inc vdr6
+macro word88604344256
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 163 8932
+mul dword vdr6 48
+and word vdr7 66
+and word vdr13 66
+add qword vdr3 56
+or word vdr6 48
+mov dword vdr11 6
+and word vdr11 30
+inc vdr3
+macro qword57780423887
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov byte vdr7 55
+add word vdr9 47
+mov word vdr2 55
+macro dword47276940075
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor word vdr1 44
+mov qword vdr8 56
+macro dword67089931288
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr7 38
+define sub, word92854205117
+xor word vdr9 18
+define add, word61209328573
+and byte vdr4 9
+dec vdr8
+dec vdr8
+div byte vdr11 11
+div word vdr1 39
+add word vdr7 62
+mul dword vdr15 30
+or dword vdr10 20
+mul qword vdr4 13
+add dword vdr1 22
+sub word vdr7 11
+cmp vdr9 vdr6
+xor word vdr10 45
+cmp vdr8 vdr5
+macro byte51405223635
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and word vdr5 8
+macro qword62781838192
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr12
+macro dword96987001763
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr7 8
+dec vdr4
+macro word8657352311
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov word vdr8 39
+mov word vdr4 66
+or qword vdr8 24
+cmp 7662 5153
+mul dword vdr6 53
+div dword vdr3 16
+or dword vdr4 54
+define macro, byte45188453475
+and word vdr11 3
+sub word vdr0 28
+dec vdr6
+or word vdr3 56
+xor qword vdr8 41
+mov dword vdr15 11
+cmp 8670 5703
+sub qword vdr1 2
+and qword vdr8 23
+inc vdr9
+or dword vdr12 34
+sub qword vdr10 21
+and dword vdr10 37
+mov byte vdr10 49
+cmp 82 6448
+mul dword vdr14 35
+or word vdr6 36
+and byte vdr14 17
+macro qword46258530434
+	# hehehehehehehehe
+end
+or qword vdr12 58
+div qword vdr12 66
+sub dword vdr13 55
+mov word vdr6 47
+mov byte vdr15 58
+xor qword vdr6 60
+div dword vdr13 13
+macro qword28726066479
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div word vdr7 53
+dec vdr11
+or byte vdr10 15
+or word vdr12 44
+add qword vdr4 54
+dec vdr6
+xor dword vdr14 65
+mul qword vdr10 33
+macro byte16454957783
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr3
+div dword vdr12 37
+or word vdr10 4
+xor byte vdr6 26
+div word vdr1 18
+sub word vdr15 26
+inc vdr3
+mul qword vdr9 40
+mul byte vdr9 66
+xor byte vdr9 63
+mul word vdr7 57
+cmp vdr14 vdr14
+div word vdr13 64
+or dword vdr5 15
+add word vdr15 48
+xor byte vdr14 59
+define add, byte11207016277
+sub word vdr3 17
+div qword vdr9 19
+add qword vdr10 17
+define div, qword1214694376
+or word vdr0 56
+inc vdr10
+sub qword vdr7 61
+and qword vdr9 26
+add qword vdr11 37
+dec vdr15
+or byte vdr11 2
+cmp vdr7 vdr3
+and byte vdr14 4
+sub word vdr9 32
+mul byte vdr9 12
+add dword vdr13 30
+define mul, word9296091804
+cmp vdr3 vdr10
+or qword vdr1 5
+macro byte81427726367
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define mov, float29645436210
+mul qword vdr1 19
+and word vdr10 37
+add qword vdr8 5
+div dword vdr10 67
+and byte vdr4 66
+mul byte vdr0 16
+sub dword vdr5 2
+inc vdr15
+inc vdr11
+inc vdr3
+mul dword vdr14 43
+inc vdr2
+sub word vdr5 63
+add qword vdr10 19
+and qword vdr0 2
+define mul, qword77031807472
+mul qword vdr6 1
+xor qword vdr3 56
+and dword vdr6 51
+define dec, byte20612530194
+and qword vdr13 37
+macro dword96685279974
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr0
+cmp 5 4826
+or dword vdr4 45
+div qword vdr8 41
+div dword vdr13 46
+macro word38066991832
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul dword vdr5 52
+mul dword vdr11 26
+div byte vdr7 47
+dec vdr7
+or qword vdr8 64
+and word vdr1 62
+macro float6772538517
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and word vdr12 6
+xor dword vdr2 35
+div word vdr10 35
+inc vdr5
+mul dword vdr14 33
+cmp 9923 4616
+macro byte14104083452
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr10 69
+xor word vdr11 53
+define macro, float64491390319
+dec vdr13
+and byte vdr2 28
+inc vdr3
+div byte vdr2 14
+div word vdr4 39
+xor dword vdr3 14
+cmp vdr12 vdr8
+dec vdr15
+mov word vdr2 27
+add byte vdr5 1
+define div, dword97894478446
+inc vdr11
+mul word vdr15 53
+define mul, dword32533242520
+div byte vdr1 2
+mul qword vdr2 44
+and qword vdr1 65
+xor word vdr6 37
+inc vdr12
+mov word vdr7 53
+inc vdr10
+macro dword84856194668
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro byte44216312415
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr8 53
+macro dword41497253291
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr10 67
+add dword vdr13 37
+cmp vdr6 vdr12
+mov qword vdr5 9
+inc vdr3
+mul byte vdr4 48
+div word vdr0 5
+macro word21707322190
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div byte vdr13 30
+mul dword vdr14 41
+add dword vdr6 17
+and byte vdr1 34
+sub dword vdr10 15
+cmp vdr0 vdr12
+or word vdr13 32
+dec vdr0
+and byte vdr6 60
+div word vdr3 8
+and qword vdr14 67
+add qword vdr8 19
+dec vdr2
+xor word vdr4 26
+macro word79144331518
+	# hehehehehehehehe
+end
+xor byte vdr3 64
+define xor, qword53491199649
+cmp 4141 2888
+add byte vdr15 41
+or word vdr11 28
+inc vdr6
+or word vdr4 28
+xor dword vdr8 6
+sub dword vdr13 32
+define inc, word9394264313
+and qword vdr0 14
+define add, dword4771266035
+macro word45789708561
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr12 16
+add byte vdr15 33
+or dword vdr12 42
+dec vdr4
+add qword vdr5 30
+mul word vdr12 60
+cmp vdr2 vdr12
+define macro, byte86097857917
+div word vdr8 25
+define add, byte47093143744
+sub qword vdr9 1
+or word vdr4 69
+add word vdr15 9
+dec vdr9
+dec vdr8
+inc vdr0
+dec vdr8
+mov qword vdr14 45
+sub dword vdr4 57
+cmp 4145 258
+mul word vdr4 26
+xor dword vdr12 66
+add byte vdr13 63
+define inc, qword41050424529
+sub byte vdr11 30
+add byte vdr9 29
+and byte vdr9 55
+mul word vdr1 48
+and word vdr4 67
+dec vdr7
+and qword vdr1 58
+div qword vdr5 64
+xor byte vdr7 14
+macro dword45417639311
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 2474 4637
+dec vdr9
+xor qword vdr15 20
+mul byte vdr0 34
+or qword vdr3 51
+xor dword vdr3 65
+add qword vdr6 53
+sub byte vdr4 5
+mul word vdr0 54
+add byte vdr15 18
+add dword vdr8 35
+dec vdr12
+div qword vdr0 16
+inc vdr2
+mul word vdr7 56
+mov word vdr7 45
+inc vdr15
+cmp 9110 7383
+mul word vdr2 26
+div qword vdr15 43
+dec vdr5
+dec vdr0
+define sub, float60677107150
+and byte vdr4 24
+sub word vdr11 10
+add word vdr7 19
+div byte vdr2 23
+add word vdr2 28
+and byte vdr9 40
+add word vdr1 25
+xor byte vdr5 30
+or dword vdr6 67
+and qword vdr12 1
+mul word vdr0 3
+xor dword vdr6 55
+sub byte vdr13 48
+add dword vdr14 59
+cmp vdr5 vdr7
+mul byte vdr11 66
+cmp 2492 5347
+mul byte vdr9 69
+xor qword vdr6 61
+sub dword vdr4 51
+macro dword43551059993
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and word vdr13 3
+xor dword vdr14 59
+mov word vdr14 31
+define macro, byte15111230165
+mul dword vdr2 53
+sub qword vdr14 65
+sub word vdr7 67
+sub dword vdr5 41
+add word vdr13 22
+define macro, dword73086225603
+define inc, byte6094527760
+cmp 9682 1824
+inc vdr0
+dec vdr0
+and qword vdr10 57
+mul qword vdr1 25
+inc vdr14
+add qword vdr3 62
+dec vdr2
+macro word53425870180
+	# hehehehehehehehe
+end
+and byte vdr5 19
+cmp vdr10 vdr3
+sub byte vdr11 38
+div word vdr4 66
+div dword vdr15 23
+and qword vdr3 21
+add dword vdr3 58
+and dword vdr9 9
+inc vdr7
+add word vdr9 45
+cmp vdr6 vdr13
+or qword vdr11 6
+and qword vdr13 64
+macro dword73704155723
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr14
+define mul, float68361955768
+define xor, qword32615563462
+macro dword40867634784
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov byte vdr2 56
+define or, dword26826087879
+and qword vdr1 44
+xor byte vdr9 6
+mov word vdr2 65
+define xor, byte38494956376
+inc vdr2
+macro word64746424603
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+div dword vdr9 20
+div word vdr0 3
+cmp vdr6 vdr8
+macro word90115570264
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+sub byte vdr2 39
+div word vdr13 38
+sub word vdr8 49
+define mov, dword35223094098
+cmp vdr1 vdr12
+or byte vdr8 47
+cmp 8418 5685
+mul word vdr13 52
+inc vdr10
+mul dword vdr0 12
+xor qword vdr4 60
+or word vdr15 32
+define div, word24823150914
+or word vdr5 66
+dec vdr0
+macro qword55448124217
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr2 13
+cmp 9333 1227
+or dword vdr4 6
+div byte vdr9 15
+xor byte vdr11 40
+xor word vdr14 31
+mul byte vdr9 52
+define xor, qword75587124834
+or word vdr8 69
+macro float8241032873
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro byte71743142160
+	# hehehehehehehehe
+end
+macro word36269570707
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add dword vdr11 42
+dec vdr7
+inc vdr12
+cmp 7963 1644
+cmp 3006 8008
+xor dword vdr11 60
+sub dword vdr3 24
+mov byte vdr1 20
+inc vdr4
+div word vdr15 23
+xor word vdr13 29
+add byte vdr4 44
+sub byte vdr14 34
+define cmp, float6276412781
+add dword vdr7 8
+div word vdr6 62
+div byte vdr5 31
+mov word vdr9 42
+define cmp, byte57880936838
+mul word vdr7 21
+inc vdr5
+mov byte vdr4 16
+xor byte vdr12 20
+xor word vdr14 15
+define cmp, float71586079956
+macro float23528679434
+	# hehehehehehehehe
+end
+sub dword vdr12 26
+dec vdr15
+xor byte vdr10 61
+mul qword vdr15 38
+inc vdr6
+dec vdr0
+define inc, byte8728677048
+xor qword vdr15 65
+mov dword vdr10 67
+mov byte vdr5 28
+dec vdr5
+inc vdr8
+xor dword vdr12 37
+or qword vdr0 41
+add word vdr11 25
+mov byte vdr4 26
+cmp vdr8 vdr13
+inc vdr3
+inc vdr0
+macro float19863359593
+	# hehehehehehehehe
+end
+mul dword vdr8 60
+cmp 5787 8915
+or qword vdr6 47
+cmp vdr7 vdr9
+div byte vdr13 59
+cmp 3414 9755
+or qword vdr2 31
+dec vdr6
+dec vdr10
+mov byte vdr14 24
+sub dword vdr11 24
+mov byte vdr7 69
+cmp 554 4393
+or qword vdr10 24
+sub qword vdr13 13
+div qword vdr10 57
+macro float14736725633
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov dword vdr8 37
+macro float69316489780
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 5697 5103
+div dword vdr8 69
+mov qword vdr0 47
+add word vdr12 12
+sub dword vdr7 63
+macro dword73936826753
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul word vdr3 19
+sub dword vdr5 12
+inc vdr4
+or dword vdr13 56
+macro float52676485028
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+dec vdr3
+macro dword74551784286
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+define sub, float47019170852
+define xor, qword93431253663
+or word vdr6 19
+define add, qword53184764029
+add byte vdr14 40
+or dword vdr11 3
+macro float81266932648
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or word vdr7 37
+add word vdr12 10
+define define, dword47178863538
+and word vdr6 49
+dec vdr14
+div dword vdr1 28
+and dword vdr11 6
+inc vdr6
+macro qword38433723053
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+inc vdr12
+macro word73743901147
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr13 56
+and dword vdr5 7
+sub byte vdr0 28
+xor word vdr0 21
+define or, float73618067647
+macro byte46744586096
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro dword57159622738
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul qword vdr11 65
+xor dword vdr8 16
+div dword vdr8 21
+sub byte vdr10 26
+inc vdr11
+add byte vdr12 25
+cmp 7157 6187
+and byte vdr6 40
+macro byte80966532401
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+or qword vdr11 1
+inc vdr3
+dec vdr11
+macro byte12752188696
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp vdr2 vdr7
+add dword vdr14 31
+and dword vdr7 17
+define cmp, word41177713521
+and dword vdr3 34
+dec vdr8
+define define, word2111463225
+sub dword vdr8 56
+define or, byte55076284094
+mul dword vdr12 15
+define mov, byte16423831308
+or dword vdr5 66
+add dword vdr10 43
+mul byte vdr8 63
+dec vdr0
+div dword vdr4 2
+and dword vdr7 50
+and dword vdr0 28
+div dword vdr4 11
+cmp vdr7 vdr14
+macro word99979838791
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and dword vdr11 24
+and dword vdr9 40
+inc vdr3
+dec vdr11
+mov word vdr14 54
+macro dword33464177112
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr5 66
+mul byte vdr11 65
+dec vdr4
+macro word96675209335
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mov byte vdr9 31
+mul qword vdr10 16
+add dword vdr15 3
+dec vdr15
+div dword vdr7 40
+div byte vdr7 37
+define dec, byte51570053472
+mov qword vdr0 5
+mul byte vdr4 21
+define dec, qword30180926725
+and qword vdr8 33
+div word vdr11 5
+define inc, qword28192695683
+add dword vdr6 21
+macro byte84296173360
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+add dword vdr2 17
+add word vdr5 26
+and byte vdr7 24
+add dword vdr9 34
+xor dword vdr15 41
+inc vdr2
+macro float31294954177
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+xor byte vdr13 66
+xor word vdr15 41
+or word vdr12 38
+macro qword54570263617
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+cmp 7954 53
+define or, qword24450770680
+xor qword vdr9 47
+sub word vdr13 64
+macro word60758227785
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+macro float87971587273
+	# hehehehehehehehe
+end
+and dword vdr5 62
+dec vdr3
+macro dword36855932012
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+mul word vdr0 46
+define xor, byte73604876649
+or qword vdr1 27
+div qword vdr6 55
+define define, dword63209282866
+div dword vdr7 50
+xor word vdr8 54
+macro word77228234994
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+	# hehehehehehehehe
+end
+and word vdr3 33
+xor qword vdr15 51
+sub dword vdr14 56
+and byte vdr7 5
+sub qword vdr10 2
+add qword vdr14 69
+add byte vdr11 68
+dec vdr11
+or word vdr0 52

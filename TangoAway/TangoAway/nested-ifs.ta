@@ -1,0 +1,44 @@
+
+mov dword vdr0 20
+
+if dword vdr0 == vdr0
+	# irgendwas
+end
+else
+end
+
+
+if dword vdr0 > 0
+	println dword num is > 0
+	
+	if dword vdr0 > 50
+		println dword num is > 50
+		
+		if dword vdr0 <= 100
+			println dword num is > 50 and <= 100
+		end
+		else
+			println dword num is > 100
+			
+			mov dword vdr1 vdr0
+			
+			if dword vdr0 == vdr1
+				println GEIL ICH BIN EIN GEWINNER
+			end
+			else
+				if dword vdr0 > vdr1
+					println wtf
+				end
+				else
+				end
+			end
+		end
+	end
+	else
+		println dword num is < 50
+		inc vdr1
+	end
+end
+else
+	println dword num is <= 0
+end

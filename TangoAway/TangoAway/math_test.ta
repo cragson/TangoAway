@@ -1,0 +1,5 @@
+import math_lib.ta
+
+circle_surface_area 1.5
+
+println float surface_area: vdr0

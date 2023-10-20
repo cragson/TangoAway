@@ -1,0 +1,51 @@
+
+macro ggt num_a num_b
+	mov qword vdr0 num_a
+	mov qword vdr1 num_b
+
+	if qword vdr0 == 0
+		println qword ggT is: vdr1
+		jmp end
+	end
+
+	@loop
+	cmp vdr1 0
+
+	jne calc
+
+	println qword ggT: is vdr0
+	jmp end
+
+	@calc
+	cmp vdr0 vdr1
+
+	jg greater
+
+	mov qword vdr2 vdr1
+	sub qword vdr2 vdr0
+	mov qword vdr1 vdr2
+	xor qword vdr2 vdr2
+	jmp loop
+
+	@greater
+	mov qword vdr2 vdr0
+	sub qword vdr2 vdr1
+	mov qword vdr0 vdr2
+	xor qword vdr2 vdr2
+	jmp loop
+
+	@end
+	xor qword vdr0 vdr0
+	xor qword vdr1 vdr1
+	xor qword vdr2 vdr2
+end
+
+ggt 0 1337
+
+ggt 1 9
+
+ggt 18 6
+
+ggt 1071 1029
+
+ggt 872634 234

@@ -1,0 +1,29 @@
+define @FNADDR@, FN_ADDR
+
+mov qword vdr0 FN_ADDR
+
+if qword vdr0 <= 0
+	println invalid address
+
+	rpcae
+end
+
+@loop
+println read byte: hex32 vdr1
+
+read_mem byte vdr0 vdr1
+
+if byte vdr1 != 0xC3
+	println [ hex64 vdr0 ] patching now byte: hex32 vdr1
+	patch_bytes vdr0 90
+	add qword vdr0 1
+	jmp loop
+end
+
+println NOP'ed all bytes!
+
+# clear all used VDR's
+xor qword vdr0 vdr0
+
+# reset pc and exit
+rpcae

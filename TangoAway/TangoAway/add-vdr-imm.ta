@@ -1,0 +1,9 @@
+add byte vdr0 0x10
+
+add word vdr1 0xAFFE
+
+add dword vdr2 100
+
+add qword vdr3 0x13376077AFFEAFFE
+
+add float vdr4 13.37

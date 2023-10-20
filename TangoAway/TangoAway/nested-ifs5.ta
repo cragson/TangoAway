@@ -1,0 +1,36 @@
+inc vdr0
+
+if dword vdr0 == 0
+	println A
+end
+else
+	println 1
+	println 11
+	mov dword vdr0 1337
+end
+
+if dword vdr1 == 0
+	println B
+	mov dword vdr1 1337
+end
+else
+	println 2
+end
+
+if dword vdr2 == 0
+	println C
+	mov dword vdr2 1337
+end
+
+if dword vdr3 == 0
+
+	if dword vdr4 == 0
+		println D
+		mov dword vdr4 1337
+	end
+	else
+		println E
+	end
+	mov dword vdr3 1337
+	println F
+end

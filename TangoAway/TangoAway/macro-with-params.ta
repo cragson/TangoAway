@@ -1,0 +1,15 @@
+macro add_10 reg
+	add qword reg 10
+end
+
+add_10 vdr0
+
+macro add_three_vdr reg1 reg2 reg3
+	add dword reg1 reg2
+	add dword reg1 reg3
+end
+
+mov dword vdr1 45
+mov dword vdr2 45
+
+add_three_vdr vdr0 vdr1 vdr2

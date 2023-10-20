@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="files\&lt; Preprocessor &gt;">
+      <UniqueIdentifier>{3595e041-768b-45aa-8d02-b56b7191071b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; Parser &gt;">
+      <UniqueIdentifier>{dbb0dc48-23f9-4108-a911-e9c911fedfc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; Interpreter &gt;">
+      <UniqueIdentifier>{3417e4aa-52ff-4c84-bf57-ea2bd3b7cfd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; Utils &gt;">
+      <UniqueIdentifier>{ecd80284-ecbe-4472-8427-f15bc5a42430}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; CodeSamples &gt;">
+      <UniqueIdentifier>{a8106f09-6b16-4e14-9d49-43a462f8487d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; Instructions &gt;">
+      <UniqueIdentifier>{32529043-7168-4f42-9baa-2c73b0864b46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; CodeSamples &gt;\parser">
+      <UniqueIdentifier>{7f7011b2-123a-4967-b0f3-64356f4cca86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; CodeSamples &gt;\preprocessor">
+      <UniqueIdentifier>{6e3ced75-d900-4161-884d-6bd544fcfe9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; CodeSamples &gt;\MathLib">
+      <UniqueIdentifier>{e08e2232-c3f3-4b55-ac18-c6fc11ba3065}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; CodeSamples &gt;\Benchmarks">
+      <UniqueIdentifier>{4d701438-bfb8-4142-a082-bb7331ed203a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; MemoryAPI &gt;">
+      <UniqueIdentifier>{9711f7d6-be27-4e01-9083-5d371824fa5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; CodeSamples &gt;\Templates">
+      <UniqueIdentifier>{af589c0a-579f-4a5b-8c54-982289a24d5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; Tester &gt;">
+      <UniqueIdentifier>{1ff3a0b0-8234-4156-90df-23a6e9061271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\&lt; Tester &gt;\Tests">
+      <UniqueIdentifier>{d910a8da-0c7e-459b-8b39-c271fb6aa9ca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>files</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor.cpp">
+      <Filter>files\&lt; Preprocessor &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="parser.cpp">
+      <Filter>files\&lt; Parser &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="interpreter.cpp">
+      <Filter>files\&lt; Interpreter &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_api.cpp">
+      <Filter>files\&lt; MemoryAPI &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="read-mem-imm.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="get-image-base.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="read-mem-vdr.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="get-image-size.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="write-mem.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="find_signature.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_bytes.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="dump.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="suspend_process.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="resume_process.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="inject_dll.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="terminate_process.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="show_threads_info.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="show_images_info.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="cmp.cpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="tester.cpp">
+      <Filter>files\&lt; Tester &gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="test_case.cpp">
+      <Filter>files\&lt; Tester &gt;</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="utils.hpp">
+      <Filter>files\&lt; Utils &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="preprocessor.hpp">
+      <Filter>files\&lt; Preprocessor &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="status_code.hpp">
+      <Filter>files\&lt; Utils &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="logging.hpp">
+      <Filter>files\&lt; Utils &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="environment.hpp">
+      <Filter>files\&lt; Interpreter &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="vdr.hpp">
+      <Filter>files\&lt; Interpreter &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="parser.hpp">
+      <Filter>files\&lt; Parser &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="instruction.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="inc-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="dec-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="add-vdr-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="sub-vdr-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="mul_vdr_vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="div-vdr-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="and-vdr-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="or-vdr-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="xor-vdr-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="add-vdr-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="sub-vdr-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="mul-vdr-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="div-vdr-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="and-vdr-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="or-vdr-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="xor-vdr-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="mov-vdr-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="mov-vdr-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="interpreter.hpp">
+      <Filter>files\&lt; Interpreter &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="println.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="jmp-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="sleep_ms-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="sleep_ms-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="if.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_api.hpp">
+      <Filter>files\&lt; MemoryAPI &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="read-mem-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="get-image-base.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="read-mem-vdr.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="get-image-size.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="write-mem.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="find_signature.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="patch_bytes.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="rpcae.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="dump.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="suspend_process.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="resume_process.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="inject_dll.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="terminate_process.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="show_threads_info.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="show_images_info.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="cmp.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="je-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="jg-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="jl-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="jne-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="jge-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="jle-imm.hpp">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="tester.hpp">
+      <Filter>files\&lt; Tester &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="test_case.hpp">
+      <Filter>files\&lt; Tester &gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_defines.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_macro_with_params.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_math.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_simple_import.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_simple-macro.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_single_line_comments.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_use_float_alias.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_add_vdr_imm.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_add_vdr_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_and_vdr_imm.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_and_vdr_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_cmp.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_cmp_with_jmps.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_cmp_with_jmps2.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_cmp_with_jmps3.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_cmp_with_jmps4.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_cmp_with_jmps5.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_cmp_with_jmps6.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_cmp_with_jmps7.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_div_vdr_imm.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_div_vdr_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_find_signature.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_forward_backward_jmp.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_get_image_base.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_get_image_size.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_if.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_if_else.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_inc_dec_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_invalid_inc_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_jmp.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_mov_vdr_imm.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_mov_vdr_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_mul_vdr_imm.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_mul_vdr_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_nested_ifs.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_nested_ifs2.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_nested_ifs3.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_nested_ifs4.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_nested_ifs5.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_or_vdr_imm.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_or_vdr_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_patch_bytes.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_println.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_read_mem.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_show_images_info.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_show_threads_info.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_sleep_ms.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_sleep_ms_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_sub_vdr_imm.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_sub_vdr_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_write_mem.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_xor_vdr_imm.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tc_xor_vdr_vdr.hpp">
+      <Filter>files\&lt; Tester &gt;\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="vfr_flags.hpp">
+      <Filter>files\&lt; Interpreter &gt;</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="invalid-inc-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="defines.ta">
+      <Filter>files\&lt; CodeSamples &gt;\preprocessor</Filter>
+    </None>
+    <None Include="use-float-alias.ta">
+      <Filter>files\&lt; CodeSamples &gt;\preprocessor</Filter>
+    </None>
+    <None Include="simple-macro.ta">
+      <Filter>files\&lt; CodeSamples &gt;\preprocessor</Filter>
+    </None>
+    <None Include="inc-dec-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="add-vdr-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="sub-vdr-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="mul-vdr-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="div-vdr-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="and-vdr-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="or-vdr-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="xor-vdr-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="add-vdr-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="sub-vdr-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="mul-vdr-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="div-vdr-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="and-vdr-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="or-vdr-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="xor-vdr-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="mov-vdr-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="mov-vdr-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="single-line-comments.ta">
+      <Filter>files\&lt; CodeSamples &gt;\preprocessor</Filter>
+    </None>
+    <None Include="simple-import.ta">
+      <Filter>files\&lt; CodeSamples &gt;\preprocessor</Filter>
+    </None>
+    <None Include="math.ta">
+      <Filter>files\&lt; CodeSamples &gt;\preprocessor</Filter>
+    </None>
+    <None Include="macro-with-params.ta">
+      <Filter>files\&lt; CodeSamples &gt;\preprocessor</Filter>
+    </None>
+    <None Include="println.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="jmp.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="sleep_ms.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="sleep_ms-vdr.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="math_constants.ta">
+      <Filter>files\&lt; CodeSamples &gt;\MathLib</Filter>
+    </None>
+    <None Include="math_functions.ta">
+      <Filter>files\&lt; CodeSamples &gt;\MathLib</Filter>
+    </None>
+    <None Include="math_lib.ta">
+      <Filter>files\&lt; CodeSamples &gt;\MathLib</Filter>
+    </None>
+    <None Include="math_test.ta">
+      <Filter>files\&lt; CodeSamples &gt;\MathLib</Filter>
+    </None>
+    <None Include="forward-backward-jmp.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="if.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="100-add-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Benchmarks</Filter>
+    </None>
+    <None Include="1000-add-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Benchmarks</Filter>
+    </None>
+    <None Include="10000-add-imm.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Benchmarks</Filter>
+    </None>
+    <None Include="if-else.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="read_mem.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="get-image-base.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="get-image-size.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="write-mem.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="find-signature.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="patch-bytes.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="hexdump.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="bpatch.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="find_sig.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="set_bp.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="get_image_info.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="read.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="dump_image.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="dump_mem.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="nop_fn.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="nested-ifs.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="nested-ifs2.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="nested-ifs3.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="nested-ifs4.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="nested-ifs5.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="suspend.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="resume.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="inject.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="kill.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="show_threads_info.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="show_images_info.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="show_images.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="show_threads.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="cmp.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="cmp-with-jmps.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="cmp-with-jmps2.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="cmp-with-jmps3.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="cmp-with-jmps4.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="cmp-with-jmps5.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="cmp-with-jmps6.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="cmp-with-jmps7.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="fnv.ta">
+      <Filter>files\&lt; CodeSamples &gt;\Templates</Filter>
+    </None>
+    <None Include="ggt1.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="heron-sqrt.ta">
+      <Filter>files\&lt; CodeSamples &gt;\parser</Filter>
+    </None>
+    <None Include="agm-pi.ta">
+      <Filter>files\&lt; Instructions &gt;</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,46 @@
+macro fnv_hash start_addr size
+	mov qword vdr0 start_addr
+
+	# FNV_offset_basis := 0xcbf29ce484222325
+	mov qword vdr10 0xcbf29ce484222325
+
+	# end address of read
+	mov qword vdr15 vdr0
+	add qword vdr15 size
+@start
+
+	cmp vdr0 vdr15
+
+	jl do_hash
+	jmp end
+
+@do_hash
+	# read next data byte
+	read_mem byte vdr0 vdr1
+	
+	# hash := hash XOR data_byte
+	xor qword vdr10 vdr1
+	
+	# hash := hash MUL prime
+	mul qword vdr10 0x100000001b3
+	
+	inc vdr0
+	jmp start
+
+@end
+	println FNV-1a: hex64 vdr10
+end
+
+define @STARTADDR@, START_ADDR
+define @SIZE@, SIZE
+
+fnv_hash START_ADDR SIZE
+
+# clear all used VDR's
+xor qword vdr0 vdr0
+xor qword vdr1 vdr1
+xor qword vdr10 vdr10
+xor qword vdr15 vdr15
+
+# reset pc and exit
+rpcae

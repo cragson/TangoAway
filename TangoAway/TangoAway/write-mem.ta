@@ -1,0 +1,16 @@
+
+import find-signature.ta
+
+println final counter addr: hex64 vdr1
+
+println dword resetting counter now to zero..
+
+# write mem with vdr and imm
+write_mem dword vdr1 0
+
+# write mem with imm and imm
+#write_mem dword 0x28A03CD6C30 1337
+
+read_mem dword vdr1 vdr11
+
+println dword counter after reset: vdr11

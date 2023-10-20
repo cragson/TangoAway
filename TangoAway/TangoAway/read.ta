@@ -1,0 +1,15 @@
+
+define @READADDR@, READ_ADDR
+
+mov qword vdr0 READ_ADDR
+
+read_mem qword vdr0 vdr1
+
+println [ hex64 vdr0 ] byte: byte vdr1 | word: word vdr1 | dword: dword vdr1 | qword: qword vdr1 | float: float vdr1 | hex32: hex32 vdr1 | hex64: hex64 vdr1
+
+# clear all used VDR's
+xor qword vdr0 vdr0
+xor qword vdr1 vdr1
+
+# reset pc and exit
+rpcae

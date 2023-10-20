@@ -1,0 +1,6 @@
+import defines.ta
+
+set float vdr0 PI
+
+addi vdr1 1337
+

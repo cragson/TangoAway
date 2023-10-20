@@ -1,0 +1,5 @@
+@start
+add byte vdr0 1
+println dword vdr0
+cmp vdr0 10
+jl start

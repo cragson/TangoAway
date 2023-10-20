@@ -1,0 +1,20 @@
+inc vdr0
+
+if dword vdr0 == 0
+	println dword reg is zero
+end
+else
+	println dword reg is not zero
+	mov dword vdr2 1337
+end
+
+# only for the purpose to make sure
+# that these instructions will also be
+# executed and not wrongfully skipped
+# by an error setting the pc in the if/else
+
+println dword vdr0: vdr0
+
+add dword vdr0 99
+
+println dword vdr0: vdr0

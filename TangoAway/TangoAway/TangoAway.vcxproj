@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{41535caf-8991-43fd-9ef8-16e20c6a5388}</ProjectGuid>
+    <RootNamespace>TangoAway</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>Intel(R) oneAPI DPC++ Compiler 2023</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseInteloneTBB>true</UseInteloneTBB>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <FSYCLEarlyOptimizations>Yes</FSYCLEarlyOptimizations>
+      <FSYCLDeadArgsOptimization>Yes</FSYCLDeadArgsOptimization>
+      <SYCLWarningLevel>DisableAllWarnings</SYCLWarningLevel>
+      <DebugInformationFormat>None</DebugInformationFormat>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="cmp.cpp" />
+    <ClCompile Include="dump.cpp" />
+    <ClCompile Include="find_signature.cpp" />
+    <ClCompile Include="get-image-base.cpp" />
+    <ClCompile Include="get-image-size.cpp" />
+    <ClCompile Include="inject_dll.cpp" />
+    <ClCompile Include="interpreter.cpp" />
+    <ClCompile Include="parser.cpp" />
+    <ClCompile Include="patch_bytes.cpp" />
+    <ClCompile Include="preprocessor.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="read-mem-imm.cpp" />
+    <ClCompile Include="read-mem-vdr.cpp" />
+    <ClCompile Include="resume_process.cpp" />
+    <ClCompile Include="show_images_info.cpp" />
+    <ClCompile Include="show_threads_info.cpp" />
+    <ClCompile Include="suspend_process.cpp" />
+    <ClCompile Include="terminate_process.cpp" />
+    <ClCompile Include="tester.cpp" />
+    <ClCompile Include="test_case.cpp" />
+    <ClCompile Include="windows_api.cpp" />
+    <ClCompile Include="write-mem.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="add-vdr-imm.hpp" />
+    <ClInclude Include="add-vdr-vdr.hpp" />
+    <ClInclude Include="and-vdr-imm.hpp" />
+    <ClInclude Include="and-vdr-vdr.hpp" />
+    <ClInclude Include="cmp.hpp" />
+    <ClInclude Include="dec-vdr.hpp" />
+    <ClInclude Include="div-vdr-imm.hpp" />
+    <ClInclude Include="div-vdr-vdr.hpp" />
+    <ClInclude Include="dump.hpp" />
+    <ClInclude Include="environment.hpp" />
+    <ClInclude Include="find_signature.hpp" />
+    <ClInclude Include="get-image-base.hpp" />
+    <ClInclude Include="get-image-size.hpp" />
+    <ClInclude Include="if.hpp" />
+    <ClInclude Include="inc-vdr.hpp" />
+    <ClInclude Include="inject_dll.hpp" />
+    <ClInclude Include="instruction.hpp" />
+    <ClInclude Include="interpreter.hpp" />
+    <ClInclude Include="je-imm.hpp" />
+    <ClInclude Include="jg-imm.hpp" />
+    <ClInclude Include="jge-imm.hpp" />
+    <ClInclude Include="jl-imm.hpp" />
+    <ClInclude Include="jle-imm.hpp" />
+    <ClInclude Include="jmp-imm.hpp" />
+    <ClInclude Include="jne-imm.hpp" />
+    <ClInclude Include="logging.hpp" />
+    <ClInclude Include="mov-vdr-imm.hpp" />
+    <ClInclude Include="mov-vdr-vdr.hpp" />
+    <ClInclude Include="mul-vdr-imm.hpp" />
+    <ClInclude Include="mul_vdr_vdr.hpp" />
+    <ClInclude Include="or-vdr-imm.hpp" />
+    <ClInclude Include="or-vdr-vdr.hpp" />
+    <ClInclude Include="parser.hpp" />
+    <ClInclude Include="patch_bytes.hpp" />
+    <ClInclude Include="println.hpp" />
+    <ClInclude Include="read-mem-imm.hpp" />
+    <ClInclude Include="read-mem-vdr.hpp" />
+    <ClInclude Include="resume_process.hpp" />
+    <ClInclude Include="rpcae.hpp" />
+    <ClInclude Include="show_images_info.hpp" />
+    <ClInclude Include="show_threads_info.hpp" />
+    <ClInclude Include="sleep_ms-imm.hpp" />
+    <ClInclude Include="sleep_ms-vdr.hpp" />
+    <ClInclude Include="status_code.hpp" />
+    <ClInclude Include="preprocessor.hpp" />
+    <ClInclude Include="sub-vdr-imm.hpp" />
+    <ClInclude Include="sub-vdr-vdr.hpp" />
+    <ClInclude Include="suspend_process.hpp" />
+    <ClInclude Include="tc_add_vdr_vdr.hpp" />
+    <ClInclude Include="tc_and_vdr_imm.hpp" />
+    <ClInclude Include="tc_and_vdr_vdr.hpp" />
+    <ClInclude Include="tc_cmp.hpp" />
+    <ClInclude Include="tc_cmp_with_jmps.hpp" />
+    <ClInclude Include="tc_cmp_with_jmps2.hpp" />
+    <ClInclude Include="tc_cmp_with_jmps3.hpp" />
+    <ClInclude Include="tc_cmp_with_jmps4.hpp" />
+    <ClInclude Include="tc_cmp_with_jmps5.hpp" />
+    <ClInclude Include="tc_cmp_with_jmps6.hpp" />
+    <ClInclude Include="tc_cmp_with_jmps7.hpp" />
+    <ClInclude Include="tc_defines.hpp" />
+    <ClInclude Include="tc_div_vdr_imm.hpp" />
+    <ClInclude Include="tc_div_vdr_vdr.hpp" />
+    <ClInclude Include="tc_find_signature.hpp" />
+    <ClInclude Include="tc_forward_backward_jmp.hpp" />
+    <ClInclude Include="tc_get_image_base.hpp" />
+    <ClInclude Include="tc_get_image_size.hpp" />
+    <ClInclude Include="tc_if.hpp" />
+    <ClInclude Include="tc_if_else.hpp" />
+    <ClInclude Include="tc_inc_dec_vdr.hpp" />
+    <ClInclude Include="tc_invalid_inc_vdr.hpp" />
+    <ClInclude Include="tc_jmp.hpp" />
+    <ClInclude Include="tc_macro_with_params.hpp" />
+    <ClInclude Include="tc_math.hpp" />
+    <ClInclude Include="tc_mov_vdr_imm.hpp" />
+    <ClInclude Include="tc_mov_vdr_vdr.hpp" />
+    <ClInclude Include="tc_mul_vdr_imm.hpp" />
+    <ClInclude Include="tc_mul_vdr_vdr.hpp" />
+    <ClInclude Include="tc_nested_ifs.hpp" />
+    <ClInclude Include="tc_nested_ifs2.hpp" />
+    <ClInclude Include="tc_nested_ifs3.hpp" />
+    <ClInclude Include="tc_nested_ifs4.hpp" />
+    <ClInclude Include="tc_nested_ifs5.hpp" />
+    <ClInclude Include="tc_or_vdr_imm.hpp" />
+    <ClInclude Include="tc_or_vdr_vdr.hpp" />
+    <ClInclude Include="tc_patch_bytes.hpp" />
+    <ClInclude Include="tc_println.hpp" />
+    <ClInclude Include="tc_read_mem.hpp" />
+    <ClInclude Include="tc_show_images_info.hpp" />
+    <ClInclude Include="tc_show_threads_info.hpp" />
+    <ClInclude Include="tc_simple-macro.hpp" />
+    <ClInclude Include="tc_simple_import.hpp" />
+    <ClInclude Include="tc_single_line_comments.hpp" />
+    <ClInclude Include="tc_sleep_ms.hpp" />
+    <ClInclude Include="tc_sleep_ms_vdr.hpp" />
+    <ClInclude Include="tc_sub_vdr_imm.hpp" />
+    <ClInclude Include="tc_sub_vdr_vdr.hpp" />
+    <ClInclude Include="tc_use_float_alias.hpp" />
+    <ClInclude Include="tc_add_vdr_imm.hpp" />
+    <ClInclude Include="tc_write_mem.hpp" />
+    <ClInclude Include="tc_xor_vdr_imm.hpp" />
+    <ClInclude Include="tc_xor_vdr_vdr.hpp" />
+    <ClInclude Include="terminate_process.hpp" />
+    <ClInclude Include="tester.hpp" />
+    <ClInclude Include="test_case.hpp" />
+    <ClInclude Include="utils.hpp" />
+    <ClInclude Include="vdr.hpp" />
+    <ClInclude Include="vfr_flags.hpp" />
+    <ClInclude Include="windows_api.hpp" />
+    <ClInclude Include="write-mem.hpp" />
+    <ClInclude Include="xor-vdr-imm.hpp" />
+    <ClInclude Include="xor-vdr-vdr.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="100-add-imm.ta" />
+    <None Include="1000-add-imm.ta" />
+    <None Include="10000-add-imm.ta" />
+    <None Include="add-vdr-imm.ta" />
+    <None Include="add-vdr-vdr.ta" />
+    <None Include="agm-pi.ta" />
+    <None Include="and-vdr-imm.ta" />
+    <None Include="and-vdr-vdr.ta" />
+    <None Include="bpatch.ta" />
+    <None Include="cmp-with-jmps.ta" />
+    <None Include="cmp-with-jmps2.ta" />
+    <None Include="cmp-with-jmps3.ta" />
+    <None Include="cmp-with-jmps4.ta" />
+    <None Include="cmp-with-jmps5.ta" />
+    <None Include="cmp-with-jmps6.ta" />
+    <None Include="cmp-with-jmps7.ta" />
+    <None Include="cmp.ta" />
+    <None Include="defines.ta" />
+    <None Include="div-vdr-imm.ta" />
+    <None Include="div-vdr-vdr.ta" />
+    <None Include="dump_image.ta" />
+    <None Include="dump_mem.ta" />
+    <None Include="find-signature.ta" />
+    <None Include="find_sig.ta" />
+    <None Include="fnv.ta" />
+    <None Include="forward-backward-jmp.ta" />
+    <None Include="get-image-base.ta" />
+    <None Include="get-image-size.ta" />
+    <None Include="get_image_info.ta" />
+    <None Include="ggt1.ta" />
+    <None Include="heron-sqrt.ta" />
+    <None Include="hexdump.ta" />
+    <None Include="if-else.ta" />
+    <None Include="if.ta" />
+    <None Include="inc-dec-vdr.ta" />
+    <None Include="inject.ta" />
+    <None Include="invalid-inc-vdr.ta" />
+    <None Include="jmp.ta" />
+    <None Include="kill.ta" />
+    <None Include="macro-with-params.ta" />
+    <None Include="math.ta" />
+    <None Include="math_constants.ta" />
+    <None Include="math_functions.ta" />
+    <None Include="math_lib.ta" />
+    <None Include="math_test.ta" />
+    <None Include="mov-vdr-imm.ta" />
+    <None Include="mov-vdr-vdr.ta" />
+    <None Include="mul-vdr-imm.ta" />
+    <None Include="mul-vdr-vdr.ta" />
+    <None Include="nested-ifs.ta" />
+    <None Include="nested-ifs2.ta" />
+    <None Include="nested-ifs3.ta" />
+    <None Include="nested-ifs4.ta" />
+    <None Include="nested-ifs5.ta" />
+    <None Include="nop_fn.ta" />
+    <None Include="or-vdr-imm.ta" />
+    <None Include="or-vdr-vdr.ta" />
+    <None Include="patch-bytes.ta" />
+    <None Include="println.ta" />
+    <None Include="read.ta" />
+    <None Include="read_mem.ta" />
+    <None Include="resume.ta" />
+    <None Include="set_bp.ta" />
+    <None Include="show_images.ta" />
+    <None Include="show_images_info.ta" />
+    <None Include="show_threads.ta" />
+    <None Include="show_threads_info.ta" />
+    <None Include="simple-import.ta" />
+    <None Include="simple-macro.ta" />
+    <None Include="single-line-comments.ta" />
+    <None Include="sleep_ms-vdr.ta" />
+    <None Include="sleep_ms.ta" />
+    <None Include="sub-vdr-imm.ta" />
+    <None Include="sub-vdr-vdr.ta" />
+    <None Include="suspend.ta" />
+    <None Include="use-float-alias.ta" />
+    <None Include="write-mem.ta" />
+    <None Include="xor-vdr-imm.ta" />
+    <None Include="xor-vdr-vdr.ta" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,10 @@
+@start
+
+inc vdr1
+
+println float surface_area: vdr0
+println dword test vdr0
+
+cmp vdr1 1
+
+je start

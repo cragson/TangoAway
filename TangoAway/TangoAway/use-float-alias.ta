@@ -1,0 +1,19 @@
+define add float, addf
+define sub float, subf
+define mul float, mulf
+define div float, divf
+
+define mov, set
+define vdr0, FIRST_VDR
+define vdr15, LAST_VDR
+
+
+set qword FIRST_VDR LAST_VDR
+
+addf FIRST_VDR 10.0
+
+subf vdr0 vdr2
+
+mulf LAST_VDR 3.141
+
+divf vdr0 vdr0

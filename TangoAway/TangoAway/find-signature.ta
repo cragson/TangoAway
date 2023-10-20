@@ -1,0 +1,44 @@
+
+define 89 05 ? ? ? ? B9 DC, CNT_SIG
+
+find_signature vdr0 dummy.exe CNT_SIG
+
+if qword vdr0 == 0
+	println dword could not find sig: CNT_SIG
+end
+else
+	println hex64 found sig at: vdr0
+
+	# skip first two bytes
+	add qword vdr0 2
+
+	# read address delta from offset
+	read_mem dword vdr0 vdr1
+
+	# get current image base from dummy.exe
+	get_image_base dummy.exe vdr2
+
+	println hex64 dummey.exe base: vdr2
+
+	# assign address from sig
+	mov qword vdr3 vdr0
+
+	# subtract image base to get relative offset
+	sub qword vdr3 vdr2
+
+	# add now the read address delta
+	add dword vdr1 vdr3
+
+	println hex32 counter offset(rel): vdr1
+
+	# to match the alignment
+	add dword vdr1 4
+
+	# add image base to relative offset
+	add qword vdr1 vdr2
+
+	# read from absolute address
+	read_mem dword vdr1 vdr4
+	
+	println dword counter: vdr4
+end

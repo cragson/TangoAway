@@ -1,0 +1,8 @@
+
+or byte vdr0 0x10
+
+or word vdr1 0x2000
+
+or dword vdr2 0x3000000
+
+or qword vdr3 0xDEADAFFE1337

@@ -1,0 +1,15 @@
+macro inc_first_vdr
+	inc vdr0
+end
+
+define mov, set
+
+macro test
+	add dword vdr0 1337
+	xor qword vdr1 vdr1
+	set qword vdr1 vdr0
+end
+
+test
+
+inc_first_vdr

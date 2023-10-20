@@ -1,0 +1,8 @@
+inc vdr0
+inc vdr0
+inc vdr1
+
+add byte vdr0 vdr1
+add word vdr0 vdr1
+add dword vdr0 vdr1
+add qword vdr0 vdr1

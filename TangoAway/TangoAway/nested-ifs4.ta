@@ -1,0 +1,8 @@
+inc vdr0
+
+if dword vdr0 == 0
+end
+else
+	println test
+	inc vdr1
+end

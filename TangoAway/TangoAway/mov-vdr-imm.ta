@@ -1,0 +1,10 @@
+
+mov byte vdr0 0xFF
+
+mov word vdr1 13370
+
+mov dword vdr2 0x13376077
+
+mov qword vdr3 0xDEAD13371337AFFE
+
+mov float vdr4 60.77

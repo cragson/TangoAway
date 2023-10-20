@@ -1,0 +1,15 @@
+if dword vdr0 == 0
+	println case1
+
+	if dword vdr1 == 0
+		println case2
+		mov dword vdr4 1337
+	end
+	else
+		println case3
+	end
+end
+
+if dword vdr2 == 0
+	println case4
+end

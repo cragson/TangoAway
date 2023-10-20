@@ -1,0 +1,18 @@
+
+define @SIG@, SEARCHED_SIG
+define @PROCESSNAME@, PROCESS_NAME
+
+find_signature vdr0 PROCESS_NAME SEARCHED_SIG
+
+if qword vdr0 == 0
+	println dword could not find sig: SEARCHED_SIG
+end
+else
+	println hex64 found sig at: vdr0
+end
+
+# clear all used VDR's
+xor qword vdr0 vdr0
+
+# reset pc and exit
+rpcae

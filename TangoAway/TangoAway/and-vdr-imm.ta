@@ -1,0 +1,12 @@
+
+add byte vdr0 4
+and byte vdr0 3
+
+add word vdr1 13370
+and word vdr1 13370
+
+add dword vdr2 60771337
+and dword vdr2 0
+
+add qword vdr3 0xAFFEAFFEAFFEAFFE
+and qword vdr3 0xAFFEAFFEAFFEAFFE

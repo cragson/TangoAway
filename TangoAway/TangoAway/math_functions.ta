@@ -1,0 +1,132 @@
+
+import math_constants.ta
+
+macro circle_diameter r
+	mov float vdr0 r
+	mul float vdr0 2.0
+end
+
+macro circle_radius d
+	mov float vdr0 d
+	div float vdr0 2.0
+end
+
+macro circle_circumference r
+	mov float vdr0 r
+	mul float vdr0 2.0
+	mul float vdr0 PI
+end
+
+macro circle_surface_area r
+	mov float vdr0 r
+	mul float vdr0 vdr0
+	mul float vdr0 PI
+end
+
+macro heron_sqrt val
+
+	mov float vdr0 val
+
+	# calculate x0
+	# x0 = a+1/2
+	mov float vdr1 vdr0
+	inc vdr1
+	div float vdr1 2
+
+	# do iterations
+	@loop
+	cmp vdr2 100
+
+	jge finish
+
+	# calculate x1
+	# xn+1 = 1/2 * ( xn + (a/xn))
+	mov float vdr3 vdr0
+	div float vdr3 vdr1
+	add float vdr3 vdr1
+
+	mul float vdr3 0.5
+
+	mov float vdr1 vdr3
+
+	inc vdr2
+	jmp loop
+
+@finish
+	
+	println float sqrt of vdr0 is float vdr1
+
+	xor qword vdr0 vdr0
+	#xor qword vdr1 vdr1
+	xor qword vdr2 vdr2
+	xor qword vdr3 vdr3
+
+end
+
+define vdr10, AGM_PI_A
+define vdr11, AGM_PI_B
+define vdr12, AGM_PI_T
+define vdr13, AGM_PI_P
+define vdr14, AGM_PI_A_OLD
+
+macro calc_agm_pi
+	# Gauss–Legendre-Algorithmus
+
+	# a0 = 1
+	mov float AGM_PI_A 1
+
+	# b0 = 1/sqrt(2)
+	mov float vdr8 1
+	heron_sqrt 2
+	div float vdr8 vdr1
+	mov float AGM_PI_B vdr8
+
+	# t0 = 1/4
+	mov float AGM_PI_T 1
+	div float AGM_PI_T 4
+	
+	# p0 = 1
+	mov float AGM_PI_P 1
+
+	@loop
+
+	cmp vdr15 10
+
+	jge finish
+
+	mov float AGM_PI_A_OLD AGM_PI_A
+	
+	# an+1 = (an+bn)/2
+	add float AGM_PI_A AGM_PI_B
+	div float AGM_PI_A 2
+
+	# bn+1 = sqrt(an*bn)
+	mov float vdr8 AGM_PI_A_OLD
+	mul float vdr8 AGM_PI_B
+	heron_sqrt vdr8
+	mov float AGM_PI_B vdr1
+
+	# tn+1 = tn - ( pn * ( an - an+1)^2 )
+	mov float vdr9 AGM_PI_A_OLD
+	sub float vdr9 AGM_PI_A
+	mul float vdr9 vdr9
+	mul float vdr9 AGM_PI_P
+	mov float vdr8 AGM_PI_T
+	sub float vdr8 vdr9
+	mov float AGM_PI_T vdr8
+
+	# pn+1 = 2*pn
+	mul float AGM_PI_P 2
+
+	inc vdr15
+	jmp loop
+
+@finish
+	add float AGM_PI_A AGM_PI_B
+	mul float AGM_PI_A AGM_PI_A
+	mul float AGM_PI_T 4
+	div float AGM_PI_A AGM_PI_T
+
+	println float pi is: AGM_PI_A
+
+end

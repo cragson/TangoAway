@@ -1,0 +1,6 @@
+define @PROCPID@, PROC_PID
+
+terminate_process PROC_PID
+
+# reset pc and exit
+rpcae

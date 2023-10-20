@@ -1,0 +1,8 @@
+
+get_image_base dummy.exe vdr0
+
+println hex64 dummy.exe image base: vdr0
+
+read_mem word vdr0 vdr1
+
+println hex32 MZ from target: vdr1

@@ -1,0 +1,16 @@
+
+
+add byte vdr0 100
+div byte vdr0 100
+
+add word vdr1 20000
+div word vdr1 10000
+
+add dword vdr2 3000000
+div dword vdr2 1000000
+
+add qword vdr3 400000000
+div qword vdr3 100000000
+
+add float vdr4 5.000012
+div float vdr4 1.0

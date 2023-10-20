@@ -1,0 +1,7 @@
+import math.ta
+
+define mov, set
+
+define add dword, addi
+
+addi vdr1 10

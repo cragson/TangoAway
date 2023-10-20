@@ -1,0 +1,27 @@
+
+mov dword vdr0 100
+
+if dword vdr0 == 0
+	println dword reg is zero
+	add dword vdr0 100
+end
+
+if dword vdr0 > 0
+	println dword reg is greater than zero
+	add dword vdr0 200
+end
+
+if dword vdr0 < 0
+	println dword reg is less than zero
+end
+
+# only for the purpose to make sure
+# that these instructions will also be
+# executed and not wrongfully skipped
+# by an error setting the pc in the if
+
+println dword xor'ing vdr0...
+
+println dword vdr0: vdr0
+
+println hex32 vdr0: vdr0

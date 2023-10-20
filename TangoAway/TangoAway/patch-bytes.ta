@@ -1,0 +1,22 @@
+
+define FF C0 89 05 ? ? ? ? B9 DC, CNT_SIG
+
+find_signature vdr0 dummy.exe CNT_SIG
+
+if qword vdr0 == 0
+	println dword could not find sig: CNT_SIG
+end
+else
+	println hex64 found sig at: vdr0
+
+	# make counter never increase again
+	patch_bytes vdr0 90 90
+
+	println hex64 patched bytes at: vdr0
+
+	#sleep_ms 3000
+
+	patch_bytes vdr0 FF C0
+
+	println hex64 restored bytes at: vdr0
+end

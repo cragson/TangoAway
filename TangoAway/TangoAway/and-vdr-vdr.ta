@@ -1,0 +1,4 @@
+inc vdr0
+inc vdr0
+
+and word vdr0 vdr1

@@ -1,0 +1,6 @@
+inc vdr0
+inc vdr0
+inc vdr0
+inc vdr1
+
+sub qword vdr0 vdr1

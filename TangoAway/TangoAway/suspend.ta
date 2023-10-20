@@ -1,0 +1,4 @@
+suspend_process
+
+# reset pc and exit
+rpcae

@@ -1,0 +1,30 @@
+
+define @DUMPADDR@, DUMP_ADDR
+define @DUMPSIZE@, DUMP_SIZE
+
+mov qword vdr1 DUMP_ADDR
+
+println DUMP_ADDR
+
+@loop
+
+if qword vdr0 < DUMP_SIZE
+	read_mem qword vdr1 vdr2
+	println hex32 [ hex64 vdr1 hex32 ] hex32 -> hex64 vdr2 hex32 | ascii vdr2
+	add qword vdr0 8
+	add qword vdr1 8
+	xor qword vdr2 vdr2
+	jmp loop
+end
+else
+	sub qword vdr1 DUMP_ADDR
+	println qword Dumped (total) bytes vdr1
+
+	# clear all used VDR's
+	xor qword vdr0 vdr0
+	xor qword vdr1 vdr1
+
+	# reset pc and exit
+	rpcae
+end
+

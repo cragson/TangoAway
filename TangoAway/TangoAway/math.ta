@@ -1,0 +1,3 @@
+define 3.141, PI
+
+mov float vdr0 PI

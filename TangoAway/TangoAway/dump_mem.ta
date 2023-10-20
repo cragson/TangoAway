@@ -1,0 +1,30 @@
+
+define @DUMPADDR@, DUMP_ADDR
+define @DUMPSIZE@, DUMP_SIZE
+define @DUMPNAME@, DUMP_NAME
+
+mov qword vdr0 DUMP_ADDR
+mov qword vdr1 DUMP_SIZE
+
+if qword vdr0 <= 0
+	println cannot dump invalid address
+
+	rpcae
+end
+
+if qword vdr1 <= 0
+	println cannot dump with invalid size
+
+	rpcae
+end
+
+dump vdr0 vdr1 DUMP_NAME
+
+println dumped memory area with address hex64 vdr0 and size of hex64 vdr1
+
+# clear all used VDR's
+xor qword vdr0 vdr0
+xor qword vdr1 vdr1
+
+# reset pc and exit
+rpcae

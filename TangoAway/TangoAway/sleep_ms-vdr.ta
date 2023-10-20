@@ -1,0 +1,9 @@
+#@start
+
+add dword vdr0 3
+
+println dword vdr0: vdr0
+
+sleep_ms vdr0
+
+#jmp start

@@ -1,0 +1,14 @@
+
+define @PATCHADDR@, PATCH_ADDR
+
+mov qword vdr0 PATCH_ADDR
+
+patch_bytes vdr0 0xCC
+
+println hex64 set software breakpoint at hex64 vdr0
+
+# clear all used VDR's
+xor qword vdr0 vdr0
+
+# reset pc and exit
+rpcae

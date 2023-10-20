@@ -1,0 +1,16 @@
+
+define @IMAGENAME@, IMAGE_NAME
+
+get_image_base IMAGE_NAME vdr0
+
+get_image_size IMAGE_NAME vdr1
+
+println hex64 IMAGE_NAME image base: vdr0
+println hex64 IMAGE_NAME image size: vdr1
+
+# clear all used VDR's
+xor qword vdr0 vdr0
+xor qword vdr1 vdr1
+
+# reset pc and exit
+rpcae

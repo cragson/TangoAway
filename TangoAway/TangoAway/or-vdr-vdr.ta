@@ -1,0 +1,6 @@
+inc vdr0
+inc vdr0
+
+inc vdr1
+
+or byte vdr0 vdr1

@@ -1,0 +1,15 @@
+
+define @PATCHADDR@, PATCH_ADDR
+define @PATCHBYTES@, PATCH_BYTES
+
+mov qword vdr0 PATCH_ADDR
+
+patch_bytes vdr0 PATCH_BYTES
+
+println hex64 patched bytes at hex64 vdr0
+
+# clear all used VDR's
+xor qword vdr0 vdr0
+
+# reset pc and exit
+rpcae

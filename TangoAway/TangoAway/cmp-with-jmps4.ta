@@ -1,0 +1,29 @@
+
+mov qword vdr1 3
+
+cmp 10 vdr1
+
+je is_equal
+
+jg is_greater
+
+jl is_less
+
+
+@is_equal
+println is equal
+jmp end
+
+@is_greater
+println is greater
+mov dword vdr2 1337
+jmp end
+
+@is_less
+println is less
+jmp end
+
+@end
+println done comparing
+xor qword vdr1 vdr1
+rpcae

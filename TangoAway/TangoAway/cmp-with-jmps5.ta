@@ -1,0 +1,15 @@
+
+
+cmp 10 3
+
+jne is_not_equal
+
+println is equal
+
+@end
+rpcae
+
+@is_not_equal
+println is not equal
+mov dword vdr2 1337
+jmp end

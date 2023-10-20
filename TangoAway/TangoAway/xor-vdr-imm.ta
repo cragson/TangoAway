@@ -1,0 +1,13 @@
+
+
+add byte vdr0 69
+xor byte vdr0 69
+
+add word vdr1 13370
+xor word vdr1 13370
+
+add dword vdr2 0xDEADAFFE
+xor dword vdr2 0xDEADAFFE
+
+add qword vdr3 0x1337133713371337
+xor qword vdr3 0x1337133713371337

@@ -1,0 +1,13 @@
+
+
+add byte vdr1 10
+mov byte vdr0 vdr1
+
+add word vdr1 9990
+mov word vdr2 vdr1
+
+add dword vdr1 190000
+mov dword vdr3 vdr1
+
+add qword vdr1 10800000
+mov qword vdr4 vdr1

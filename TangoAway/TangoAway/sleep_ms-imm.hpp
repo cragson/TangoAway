@@ -1,0 +1,25 @@
+#pragma once
+#include <memory>
+#include <string>
+
+#include "instruction.hpp"
+
+#ifdef _WIN32
+#include <Windows.h>
+#else
+#include <unistd.h>
+#endif
+
+class inst_sleep_ms_imm : public instruction
+{
+public:
+	inst_sleep_ms_imm( const std::string& time ) : m_time{ time } {}
+
+	void evaluate( std::shared_ptr< environment > env ) override
+	{
+		Sleep( std::stoi( this->m_time ) );
+	}
+
+private:
+	std::string m_time;
+};

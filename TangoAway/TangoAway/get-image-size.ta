@@ -1,0 +1,3 @@
+get_image_size dummy.exe vdr0
+
+println hex64 dummy.exe image size: vdr0

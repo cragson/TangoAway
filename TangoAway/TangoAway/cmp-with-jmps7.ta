@@ -1,0 +1,14 @@
+
+cmp 10 5
+
+jge is_greater_equal
+
+println is not greater or equal
+
+@end
+rpcae
+
+@is_greater_equal
+println is greater or equal
+mov dword vdr2 1337
+jmp end

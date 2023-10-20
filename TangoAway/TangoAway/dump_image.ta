@@ -1,0 +1,30 @@
+
+define @DUMPNAME@, DUMP_NAME
+define @DUMPOUTPUTNAME@, DUMP_OUTPUT_NAME
+
+get_image_base DUMP_NAME vdr0
+
+get_image_size DUMP_NAME vdr1
+
+if qword vdr0 > 0
+	
+	if qword vdr1 > 0
+		dump vdr0 vdr1 DUMP_OUTPUT_NAME
+	end
+	else
+		println [!] image size is zero
+	end
+
+end
+else
+	println [!] could not find the image ascii DUMP_NAME
+end
+
+println dumped image with address from hex64 vdr0 with size hex64 vdr1
+
+# clear all used VDR's
+xor qword vdr0 vdr0
+xor qword vdr1 vdr1
+
+# reset pc and exit
+rpcae

@@ -1,0 +1,7 @@
+import math_functions.ta
+
+heron_sqrt 4
+
+heron_sqrt 81
+
+heron_sqrt 2

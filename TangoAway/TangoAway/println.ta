@@ -1,0 +1,11 @@
+mov dword vdr0 100
+
+println dword vdr0: vdr0 hex32 hex: vdr0
+
+add dword vdr0 200
+
+println dword vdr0: vdr0 hex32 hex: vdr0
+
+mov float vdr1 13.37
+
+println float vdr1: vdr1 hex32 hex: vdr1

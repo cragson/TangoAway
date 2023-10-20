@@ -1,0 +1,15 @@
+
+inc vdr0
+mul byte vdr0 10
+
+add word vdr1 20
+mul word vdr1 100
+
+add dword vdr2 300
+mul dword vdr2 1000
+
+add qword vdr3 4000
+mul qword vdr3 10000
+
+add float vdr4 50000
+mul float vdr4 100000
